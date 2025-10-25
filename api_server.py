@@ -37,6 +37,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Hermes Phase 0 - Mount Hermes router if enabled
+from app.hermes import feature_flags
+if feature_flags.HERMES_ENABLED:  # Hermes Phase 0
+    from app.hermes.routes import router as hermes_router  # Hermes Phase 0
+    app.include_router(hermes_router)  # Hermes Phase 0
+
 
 # Pydantic models
 class Tag(BaseModel):
