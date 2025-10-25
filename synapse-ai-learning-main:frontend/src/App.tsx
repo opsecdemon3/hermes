@@ -8,6 +8,14 @@ import { TranscriptsPage } from '@/pages/TranscriptsPage'
 import { TranscriptPage } from '@/pages/TranscriptPage'
 import { DashboardPage } from '@/pages/DashboardPage'
 import IngestPage from '@/pages/IngestPage'
+// Hermes Phase 0
+import { HermesLanding } from '@/pages/HermesLanding'
+import { AnalyzePage } from '@/pages/AnalyzePage'
+import { PlanPage } from '@/pages/PlanPage'
+import { LabsDashboard } from '@/pages/LabsDashboard'
+
+// Hermes Phase 0 - Feature flags
+const LABS_ENABLED = import.meta.env.VITE_LABS_ENABLED === 'true'
 
 function AppLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -100,6 +108,46 @@ function App() {
             </AppLayout>
           }
         />
+        
+        {/* Hermes Phase 0 - Hermes routes */}
+        <Route
+          path="/hermes"
+          element={
+            <AppLayout>
+              <HermesLanding />
+            </AppLayout>
+          }
+        />
+        
+        <Route
+          path="/hermes/analyze"
+          element={
+            <AppLayout>
+              <AnalyzePage />
+            </AppLayout>
+          }
+        />
+        
+        <Route
+          path="/hermes/plan/:planId"
+          element={
+            <AppLayout>
+              <PlanPage />
+            </AppLayout>
+          }
+        />
+        
+        {/* Hermes Phase 0 - Labs routes (conditional) */}
+        {LABS_ENABLED && (
+          <Route
+            path="/labs/dashboard"
+            element={
+              <AppLayout>
+                <LabsDashboard />
+              </AppLayout>
+            }
+          />
+        )}
         
         <Route path="/" element={<Navigate to="/search" replace />} />
         <Route path="*" element={<Navigate to="/search" replace />} />

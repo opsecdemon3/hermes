@@ -1,6 +1,11 @@
 import { NavLink } from 'react-router-dom'
 import { Books, MagnifyingGlass, Article, ChartBar, UploadSimple } from '@phosphor-icons/react'
+import { Sparkles, FlaskConical } from 'lucide-react' // Hermes Phase 0
 import { cn } from '@/lib/utils'
+
+// Hermes Phase 0 - Feature flags
+const HERMES_ENABLED = import.meta.env.VITE_HERMES_ENABLED !== 'false'
+const LABS_ENABLED = import.meta.env.VITE_LABS_ENABLED === 'true'
 
 const navItems = [
   { icon: Books, label: 'Library', path: '/library' },
@@ -9,6 +14,16 @@ const navItems = [
   { icon: ChartBar, label: 'Dashboard', path: '/dashboard' },
   { icon: UploadSimple, label: 'Ingest', path: '/ingest' },
 ]
+
+// Hermes Phase 0 - Conditional Hermes nav item
+const hermesNavItems = HERMES_ENABLED ? [
+  { icon: Sparkles, label: 'Hermes', path: '/hermes', iconType: 'lucide' as const },
+] : []
+
+// Hermes Phase 0 - Conditional Labs nav items
+const labsNavItems = LABS_ENABLED ? [
+  { icon: FlaskConical, label: 'Labs', path: '/labs/dashboard', iconType: 'lucide' as const, experimental: true },
+] : []
 
 export function Sidebar() {
   return (
@@ -45,6 +60,59 @@ export function Sidebar() {
             )}
           </NavLink>
         ))}
+        
+        {/* Hermes Phase 0 - Hermes section */}
+        {hermesNavItems.map((item) => (
+          <NavLink
+            key={item.path}
+            to={item.path}
+            className={({ isActive }) =>
+              cn(
+                'flex items-center gap-3 px-4 py-3 rounded-lg transition-all duration-200',
+                'hover:bg-primary/10 hover:neon-glow-hover',
+                isActive
+                  ? 'bg-primary/20 text-primary neon-glow border border-primary/30'
+                  : 'text-muted-foreground border border-transparent'
+              )
+            }
+          >
+            {({ isActive }) => (
+              <>
+                <item.icon size={20} className={isActive ? 'fill-current' : ''} />
+                <span className="font-medium">{item.label}</span>
+              </>
+            )}
+          </NavLink>
+        ))}
+        
+        {/* Hermes Phase 0 - Labs section */}
+        {labsNavItems.length > 0 && (
+          <div className="pt-4 mt-4 border-t border-primary/10">
+            <p className="text-xs text-muted-foreground px-4 mb-2">Experimental</p>
+            {labsNavItems.map((item) => (
+              <NavLink
+                key={item.path}
+                to={item.path}
+                className={({ isActive }) =>
+                  cn(
+                    'flex items-center gap-3 px-4 py-3 rounded-lg transition-all duration-200',
+                    'hover:bg-amber-500/10 hover:border-amber-500/20',
+                    isActive
+                      ? 'bg-amber-500/20 text-amber-500 border border-amber-500/30'
+                      : 'text-muted-foreground border border-transparent'
+                  )
+                }
+              >
+                {({ isActive }) => (
+                  <>
+                    <item.icon size={20} className={isActive ? 'fill-current' : ''} />
+                    <span className="font-medium">{item.label}</span>
+                  </>
+                )}
+              </NavLink>
+            ))}
+          </div>
+        )}
       </nav>
 
       <div className="p-4 border-t border-primary/20 text-xs text-muted-foreground">
