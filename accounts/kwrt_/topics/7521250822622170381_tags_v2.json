@@ -1,0 +1,212 @@
+{
+  "video_id": "7521250822622170381",
+  "username": "kwrt_",
+  "title": "TikTok video #7521250822622170381",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "presence",
+      "canonical": "presence",
+      "confidence": 0.706,
+      "score": 0.26366308331489563,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This presence is acceptance"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.26366308331489563
+      }
+    },
+    {
+      "tag": "peace",
+      "canonical": "peace",
+      "confidence": 0.607,
+      "score": 0.14512687921524048,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "748610\n==================================================\n\nDo it for peace"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.14512687921524048
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.588,
+      "score": 0.03964591026306152,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "To let them be a part of life"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you refuse them, they don't stop being a part of life"
+        },
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But you stop being a part of life"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.03964591026306152
+      }
+    },
+    {
+      "tag": "refusal",
+      "canonical": "refusal",
+      "confidence": 0.555,
+      "score": 0.08222562074661255,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's your refusal to own those things"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08222562074661255
+      }
+    },
+    {
+      "tag": "tiktok video # 7521250822622170381 \n timestamp",
+      "canonical": "tiktok video # 7521250822622170381 \n timestamp",
+      "confidence": 0.546,
+      "score": 0.15539658069610596,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.15539658069610596
+      }
+    },
+    {
+      "tag": "acceptance",
+      "canonical": "acceptance",
+      "confidence": 0.51,
+      "score": 0.0289728045463562,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This presence is acceptance"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0289728045463562
+      }
+    },
+    {
+      "tag": "# transcription",
+      "canonical": "# transcription",
+      "confidence": 0.509,
+      "score": 0.027288272976875305,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7521250822622170381\nTitle: TikTok video #7521250822622170381\nTimestamp: 2025-10-23T13:13:46"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.027288272976875305
+      }
+    },
+    {
+      "tag": "thing",
+      "canonical": "thing",
+      "confidence": 0.466,
+      "score": -0.07208520174026489,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The only thing you need is you"
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's your refusal to own those things"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": -0.07208520174026489
+      }
+    },
+    {
+      "tag": "way",
+      "canonical": "way",
+      "confidence": 0.445,
+      "score": -0.04896056652069092,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's not the ways that you are hurt that have ruined you"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": -0.04896056652069092
+      }
+    },
+    {
+      "tag": "video 7521250822622170381 \n title",
+      "canonical": "video 7521250822622170381 \n title",
+      "confidence": 0.439,
+      "score": 0.026523813605308533,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.026523813605308533
+      }
+    }
+  ]
+}

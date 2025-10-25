@@ -1,0 +1,254 @@
+{
+  "video_id": "7523049487636401422",
+  "username": "kwrt_",
+  "title": "inadequacy is a symptom of your phenomenal experience #impostersyndro...",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "impost syndrome",
+      "canonical": "impost syndrome",
+      "confidence": 0.784,
+      "score": 0.4403667151927948,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.4403667151927948
+      }
+    },
+    {
+      "tag": "imposter syndrome",
+      "canonical": "imposter syndrome",
+      "confidence": 0.702,
+      "score": 0.14896062016487122,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "578555\n==================================================\n\nImposter syndrome has very little to do with your self-esteem"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "For those who don't know, imposter syndrome is this feeling of inadequacy, despite physical circumstance"
+        },
+        {
+          "sentence_index": 16,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But if you do this, it'll only make the imposter syndrome worse,  because you will be given more facts about how this part of reality that you believe"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.14896062016487122
+      }
+    },
+    {
+      "tag": "imposter",
+      "canonical": "imposter",
+      "confidence": 0.689,
+      "score": 0.11215785145759583,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7523049487636401422\nTitle: inadequacy is a symptom of your phenomenal experience #impostersyndro"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "578555\n==================================================\n\nImposter syndrome has very little to do with your self-esteem"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "For those who don't know, imposter syndrome is this feeling of inadequacy, despite physical circumstance"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.11215785145759583
+      }
+    },
+    {
+      "tag": "inadequacy",
+      "canonical": "inadequacy",
+      "confidence": 0.674,
+      "score": 0.09388706833124161,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7523049487636401422\nTitle: inadequacy is a symptom of your phenomenal experience #impostersyndro"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "For those who don't know, imposter syndrome is this feeling of inadequacy, despite physical circumstance"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Your sense of inadequacy is grounded in an hierarchy that you created, and you are now realizing, is not real"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.09388706833124161
+      }
+    },
+    {
+      "tag": "self - esteem",
+      "canonical": "self - esteem",
+      "confidence": 0.657,
+      "score": 0.2888627052307129,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.2888627052307129
+      }
+    },
+    {
+      "tag": "ego",
+      "canonical": "ego",
+      "confidence": 0.637,
+      "score": 0.07082323729991913,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 15,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You have to keep satisfying your ego, and ignoring the science, present, and physical reality"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We are confronted with this dissonance between our egoic understanding of reality and reality itself"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And when I say egoic, I don't just mean a reality that puts you at the top of the hierarchy,  I mean a reality with hierarchy at all, the reality that"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.07082323729991913
+      }
+    },
+    {
+      "tag": "egoic reality",
+      "canonical": "egoic reality",
+      "confidence": 0.6,
+      "score": 0.1370479017496109,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 23,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Egoic reality is this abstraction, it is based completely in the relativity of objects to each other,  and ignores the fundamental essence of objects "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1370479017496109
+      }
+    },
+    {
+      "tag": "dream",
+      "canonical": "dream",
+      "confidence": 0.592,
+      "score": 0.017130136489868164,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Despite the fact that you're successful, that you've made it, that you've completed your dream,  you still feel like you are unworthy of that thing th"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You dreamt up ideas of what it means to be successful, and now that you are actually successful,  you realize those ideas aren't real"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But you want to hang on to your dreams so badly that you would rather feel inadequate,  despite the physical circumstances of you completing your drea"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.017130136489868164
+      }
+    },
+    {
+      "tag": "symptom",
+      "canonical": "symptom",
+      "confidence": 0.556,
+      "score": 0.08363436907529831,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7523049487636401422\nTitle: inadequacy is a symptom of your phenomenal experience #impostersyndro"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08363436907529831
+      }
+    },
+    {
+      "tag": "incestance",
+      "canonical": "incestance",
+      "confidence": 0.541,
+      "score": 0.06561457365751266,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 32,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Instead of this incestance speaking, this incestance calculating, it's conceptualizing and announcing that you are this thing supported by all of thes"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06561457365751266
+      }
+    }
+  ]
+}

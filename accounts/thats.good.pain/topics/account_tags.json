@@ -1,0 +1,506 @@
+{
+  "total_tags": 50,
+  "total_videos": 5,
+  "tags": [
+    {
+      "tag": "weak william wallace",
+      "frequency": 1,
+      "avg_score": 0.5856,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5856,
+      "video_ids": [
+        "7564034770506747150"
+      ]
+    },
+    {
+      "tag": "courage refused men",
+      "frequency": 1,
+      "avg_score": 0.5499,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5499,
+      "video_ids": [
+        "7564034770506747150"
+      ]
+    },
+    {
+      "tag": "men titles",
+      "frequency": 1,
+      "avg_score": 0.5415,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5415,
+      "video_ids": [
+        "7564020230029135159"
+      ]
+    },
+    {
+      "tag": "killed wallace stronger",
+      "frequency": 1,
+      "avg_score": 0.5376,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5376,
+      "video_ids": [
+        "7564034770506747150"
+      ]
+    },
+    {
+      "tag": "matters william wallace",
+      "frequency": 1,
+      "avg_score": 0.5351,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5351,
+      "video_ids": [
+        "7564034770506747150"
+      ]
+    },
+    {
+      "tag": "courageous man legacy",
+      "frequency": 1,
+      "avg_score": 0.5335,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5335,
+      "video_ids": [
+        "7564034770506747150"
+      ]
+    },
+    {
+      "tag": "courage comfort influence",
+      "frequency": 1,
+      "avg_score": 0.5177,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5177,
+      "video_ids": [
+        "7564034770506747150"
+      ]
+    },
+    {
+      "tag": "courage lonely inspiring",
+      "frequency": 1,
+      "avg_score": 0.5118,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5118,
+      "video_ids": [
+        "7564034770506747150"
+      ]
+    },
+    {
+      "tag": "courage deciding matters",
+      "frequency": 1,
+      "avg_score": 0.5107,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5107,
+      "video_ids": [
+        "7564034770506747150"
+      ]
+    },
+    {
+      "tag": "chooses courage comfort",
+      "frequency": 1,
+      "avg_score": 0.5103,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5103,
+      "video_ids": [
+        "7564034770506747150"
+      ]
+    },
+    {
+      "tag": "william wallace unstoppable",
+      "frequency": 1,
+      "avg_score": 0.5097,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5097,
+      "video_ids": [
+        "7564034770506747150"
+      ]
+    },
+    {
+      "tag": "woman truly loves",
+      "frequency": 1,
+      "avg_score": 0.4991,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4991,
+      "video_ids": [
+        "7560316103818366221"
+      ]
+    },
+    {
+      "tag": "men titles spine",
+      "frequency": 1,
+      "avg_score": 0.4984,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4984,
+      "video_ids": [
+        "7564020230029135159"
+      ]
+    },
+    {
+      "tag": "authority follow man",
+      "frequency": 1,
+      "avg_score": 0.496,
+      "engagement_weight": 1.0,
+      "combined_score": 0.496,
+      "video_ids": [
+        "7564020230029135159"
+      ]
+    },
+    {
+      "tag": "outplayed women smarter",
+      "frequency": 1,
+      "avg_score": 0.4886,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4886,
+      "video_ids": [
+        "7563647976346815757"
+      ]
+    },
+    {
+      "tag": "believe leaders anymore",
+      "frequency": 1,
+      "avg_score": 0.4872,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4872,
+      "video_ids": [
+        "7564020230029135159"
+      ]
+    },
+    {
+      "tag": "loved creates attachment",
+      "frequency": 1,
+      "avg_score": 0.4854,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4854,
+      "video_ids": [
+        "7560316103818366221"
+      ]
+    },
+    {
+      "tag": "woman language",
+      "frequency": 1,
+      "avg_score": 0.4852,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4852,
+      "video_ids": [
+        "7563647976346815757"
+      ]
+    },
+    {
+      "tag": "love stays easy",
+      "frequency": 1,
+      "avg_score": 0.4832,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4832,
+      "video_ids": [
+        "7560316103818366221"
+      ]
+    },
+    {
+      "tag": "men don follow",
+      "frequency": 1,
+      "avg_score": 0.4812,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4812,
+      "video_ids": [
+        "7564020230029135159"
+      ]
+    },
+    {
+      "tag": "leaders anymore wonder",
+      "frequency": 1,
+      "avg_score": 0.4783,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4783,
+      "video_ids": [
+        "7564020230029135159"
+      ]
+    },
+    {
+      "tag": "act affection came",
+      "frequency": 1,
+      "avg_score": 0.4701,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4701,
+      "video_ids": [
+        "7560316103818366221"
+      ]
+    },
+    {
+      "tag": "overflowing men titles",
+      "frequency": 1,
+      "avg_score": 0.4696,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4696,
+      "video_ids": [
+        "7564020230029135159"
+      ]
+    },
+    {
+      "tag": "courage language men",
+      "frequency": 1,
+      "avg_score": 0.4665,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4665,
+      "video_ids": [
+        "7564020230029135159"
+      ]
+    },
+    {
+      "tag": "currency leadership courage",
+      "frequency": 1,
+      "avg_score": 0.4638,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4638,
+      "video_ids": [
+        "7564020230029135159"
+      ]
+    },
+    {
+      "tag": "respond women forever",
+      "frequency": 1,
+      "avg_score": 0.4638,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4638,
+      "video_ids": [
+        "7563647976346815757"
+      ]
+    },
+    {
+      "tag": "love doesn vanish",
+      "frequency": 1,
+      "avg_score": 0.4636,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4636,
+      "video_ids": [
+        "7560316103818366221"
+      ]
+    },
+    {
+      "tag": "conditioning learned affection",
+      "frequency": 1,
+      "avg_score": 0.4631,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4631,
+      "video_ids": [
+        "7560316103818366221"
+      ]
+    },
+    {
+      "tag": "attachment attraction",
+      "frequency": 1,
+      "avg_score": 0.4593,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4593,
+      "video_ids": [
+        "7560316103818366221"
+      ]
+    },
+    {
+      "tag": "power love stays",
+      "frequency": 1,
+      "avg_score": 0.4558,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4558,
+      "video_ids": [
+        "7560316103818366221"
+      ]
+    },
+    {
+      "tag": "trying convince leadership",
+      "frequency": 1,
+      "avg_score": 0.4548,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4548,
+      "video_ids": [
+        "7564020230029135159"
+      ]
+    },
+    {
+      "tag": "emotional financial loved",
+      "frequency": 1,
+      "avg_score": 0.4546,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4546,
+      "video_ids": [
+        "7560316103818366221"
+      ]
+    },
+    {
+      "tag": "erotic value downgraded",
+      "frequency": 1,
+      "avg_score": 0.4501,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4501,
+      "video_ids": [
+        "7563659317203733815"
+      ]
+    },
+    {
+      "tag": "say noticed affectionate",
+      "frequency": 1,
+      "avg_score": 0.4439,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4439,
+      "video_ids": [
+        "7560316103818366221"
+      ]
+    },
+    {
+      "tag": "woman language broadcasts",
+      "frequency": 1,
+      "avg_score": 0.443,
+      "engagement_weight": 1.0,
+      "combined_score": 0.443,
+      "video_ids": [
+        "7563647976346815757"
+      ]
+    },
+    {
+      "tag": "women forever tired",
+      "frequency": 1,
+      "avg_score": 0.4063,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4063,
+      "video_ids": [
+        "7563647976346815757"
+      ]
+    },
+    {
+      "tag": "desire want help",
+      "frequency": 1,
+      "avg_score": 0.402,
+      "engagement_weight": 1.0,
+      "combined_score": 0.402,
+      "video_ids": [
+        "7563659317203733815"
+      ]
+    },
+    {
+      "tag": "frequency woman",
+      "frequency": 1,
+      "avg_score": 0.399,
+      "engagement_weight": 1.0,
+      "combined_score": 0.399,
+      "video_ids": [
+        "7563647976346815757"
+      ]
+    },
+    {
+      "tag": "friend sounds safe",
+      "frequency": 1,
+      "avg_score": 0.396,
+      "engagement_weight": 1.0,
+      "combined_score": 0.396,
+      "video_ids": [
+        "7563659317203733815"
+      ]
+    },
+    {
+      "tag": "masculine energy seeks",
+      "frequency": 1,
+      "avg_score": 0.3939,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3939,
+      "video_ids": [
+        "7563659317203733815"
+      ]
+    },
+    {
+      "tag": "sexual utility compartment",
+      "frequency": 1,
+      "avg_score": 0.3916,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3916,
+      "video_ids": [
+        "7563659317203733815"
+      ]
+    },
+    {
+      "tag": "friend ranking word",
+      "frequency": 1,
+      "avg_score": 0.3885,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3885,
+      "video_ids": [
+        "7563659317203733815"
+      ]
+    },
+    {
+      "tag": "friend alex felt",
+      "frequency": 1,
+      "avg_score": 0.387,
+      "engagement_weight": 1.0,
+      "combined_score": 0.387,
+      "video_ids": [
+        "7563659317203733815"
+      ]
+    },
+    {
+      "tag": "friend ranking",
+      "frequency": 1,
+      "avg_score": 0.3749,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3749,
+      "video_ids": [
+        "7563659317203733815"
+      ]
+    },
+    {
+      "tag": "neutral friend zone",
+      "frequency": 1,
+      "avg_score": 0.3736,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3736,
+      "video_ids": [
+        "7563659317203733815"
+      ]
+    },
+    {
+      "tag": "signals denotion erotic",
+      "frequency": 1,
+      "avg_score": 0.3735,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3735,
+      "video_ids": [
+        "7563659317203733815"
+      ]
+    },
+    {
+      "tag": "miss energy words",
+      "frequency": 1,
+      "avg_score": 0.3675,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3675,
+      "video_ids": [
+        "7563647976346815757"
+      ]
+    },
+    {
+      "tag": "men don outplayed",
+      "frequency": 1,
+      "avg_score": 0.367,
+      "engagement_weight": 1.0,
+      "combined_score": 0.367,
+      "video_ids": [
+        "7563647976346815757"
+      ]
+    },
+    {
+      "tag": "paradigm women",
+      "frequency": 1,
+      "avg_score": 0.3584,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3584,
+      "video_ids": [
+        "7563647976346815757"
+      ]
+    },
+    {
+      "tag": "keeps emotionally available",
+      "frequency": 1,
+      "avg_score": 0.3568,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3568,
+      "video_ids": [
+        "7563647976346815757"
+      ]
+    }
+  ]
+}

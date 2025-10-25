@@ -1,0 +1,213 @@
+{
+  "video_id": "7534532078554205453",
+  "username": "kwrt_",
+  "title": "#esoteric #intelligent #smart #math #occult #hermetic ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "esoteric # intelligent # smart # math # occult",
+      "canonical": "esoteric # intelligent # smart # math # occult",
+      "confidence": 0.773,
+      "score": 0.42792609333992004,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.42792609333992004
+      }
+    },
+    {
+      "tag": "esoteric concept",
+      "canonical": "esoteric concept",
+      "confidence": 0.659,
+      "score": 0.207105353474617,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "747737\n==================================================\n\nAlright, you're a smart person, right? Like you understand like some esoteric concept that "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.207105353474617
+      }
+    },
+    {
+      "tag": "spirituality",
+      "canonical": "spirituality",
+      "confidence": 0.614,
+      "score": 0.15343952178955078,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's so crazy when we talk about like this othering process that happens when you get deeply invested in spirituality or like esoteric ideas"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.15343952178955078
+      }
+    },
+    {
+      "tag": "mathematician",
+      "canonical": "mathematician",
+      "confidence": 0.594,
+      "score": 0.1294480562210083,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is why I respect mathematicians because they'll go get a, you know, like a fucking seven-year fuck-ass degree in abstract algebra and spend like "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1294480562210083
+      }
+    },
+    {
+      "tag": "reality",
+      "canonical": "reality",
+      "confidence": 0.571,
+      "score": 0.05320068448781967,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "747737\n==================================================\n\nAlright, you're a smart person, right? Like you understand like some esoteric concept that "
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That loneliness is your narcissism facing dissonance when confronted by the beauty of reality"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.05320068448781967
+      }
+    },
+    {
+      "tag": "loneliness",
+      "canonical": "loneliness",
+      "confidence": 0.565,
+      "score": 0.04603739082813263,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That loneliness is not a part of the ideas"
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That loneliness is your narcissism facing dissonance when confronted by the beauty of reality"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.04603739082813263
+      }
+    },
+    {
+      "tag": "smart person",
+      "canonical": "smart person",
+      "confidence": 0.562,
+      "score": 0.09169860929250717,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "747737\n==================================================\n\nAlright, you're a smart person, right? Like you understand like some esoteric concept that "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09169860929250717
+      }
+    },
+    {
+      "tag": "esoteric idea",
+      "canonical": "esoteric idea",
+      "confidence": 0.562,
+      "score": 0.09150770306587219,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's so crazy when we talk about like this othering process that happens when you get deeply invested in spirituality or like esoteric ideas"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09150770306587219
+      }
+    },
+    {
+      "tag": "narcissism",
+      "canonical": "narcissism",
+      "confidence": 0.552,
+      "score": 0.07916029542684555,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That loneliness is your narcissism facing dissonance when confronted by the beauty of reality"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07916029542684555
+      }
+    },
+    {
+      "tag": "abstract algebra",
+      "canonical": "abstract algebra",
+      "confidence": 0.545,
+      "score": 0.07081945240497589,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is why I respect mathematicians because they'll go get a, you know, like a fucking seven-year fuck-ass degree in abstract algebra and spend like "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07081945240497589
+      }
+    }
+  ]
+}

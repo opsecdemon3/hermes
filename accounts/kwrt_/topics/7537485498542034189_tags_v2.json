@@ -1,0 +1,267 @@
+{
+  "video_id": "7537485498542034189",
+  "username": "kwrt_",
+  "title": "#quantumjumping #quantumphysics #quantum #consciousness #psychedelica...",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "# quantum # consciousness",
+      "canonical": "# quantum # consciousness",
+      "confidence": 0.708,
+      "score": 0.34969857335090637,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.34969857335090637
+      }
+    },
+    {
+      "tag": "conscious observation",
+      "canonical": "conscious observation",
+      "confidence": 0.7,
+      "score": 0.2084435522556305,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "534454\n==================================================\n\nQuantum physics is not reliant on conscious observation"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Anyways, I bring this all up because there's this New Age mythology slash mysticism  that labels itself as spirituality, which is saying that we creat"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.2084435522556305
+      }
+    },
+    {
+      "tag": "collapse",
+      "canonical": "collapse",
+      "confidence": 0.64,
+      "score": 0.13628599047660828,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The whole collapsing of a wave function, they say collapses during observation  because in order to observe something, we need to throw energy at it"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Even just the smallest amount of energy or noise will completely collapse the system"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.13628599047660828
+      }
+    },
+    {
+      "tag": "quantumphysic",
+      "canonical": "quantumphysic",
+      "confidence": 0.634,
+      "score": 0.17758753895759583,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7537485498542034189\nTitle: #quantumjumping #quantumphysics #quantum #consciousness #psychedelica"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.17758753895759583
+      }
+    },
+    {
+      "tag": "spiritual",
+      "canonical": "spirituality",
+      "confidence": 0.625,
+      "score": 0.035027146339416504,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Anyways, I bring this all up because there's this New Age mythology slash mysticism  that labels itself as spirituality, which is saying that we creat"
+        },
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And it's just not founded anywhere in science or reality or in genuine spirituality"
+        },
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's its own standalone belief with no root or basis in either the spiritual or in the physical"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.035027146339416504
+      }
+    },
+    {
+      "tag": "quantum",
+      "canonical": "quantum",
+      "confidence": 0.62,
+      "score": 0.05097001791000366,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7537485498542034189\nTitle: #quantumjumping #quantumphysics #quantum #consciousness #psychedelica"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "534454\n==================================================\n\nQuantum physics is not reliant on conscious observation"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is why in order to make quantum computers and study quantum effects  you need to have things very, very, very cold because temperature is vibrati"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.05097001791000366
+      }
+    },
+    {
+      "tag": "quantum physics",
+      "canonical": "quantum physics",
+      "confidence": 0.613,
+      "score": 0.10326746106147766,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "534454\n==================================================\n\nQuantum physics is not reliant on conscious observation"
+        },
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I think because quantum physics is a complex subject  most people are just impartial or indifferent to it  and don't correct these people when the"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.10326746106147766
+      }
+    },
+    {
+      "tag": "dream",
+      "canonical": "dream",
+      "confidence": 0.602,
+      "score": 0.029780492186546326,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Spirituality precisely is a compromise between our dreams  and the perceived physical that we live in"
+        },
+        {
+          "sentence_index": 21,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "People will get hung up on a dream or an idea that they've created  and they will fit all sorts of wrong puzzle pieces into their picture of reality  "
+        },
+        {
+          "sentence_index": 24,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's thinking rationally but not letting that rationality confine your dreams"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.029780492186546326
+      }
+    },
+    {
+      "tag": "wholeness",
+      "canonical": "wholeness",
+      "confidence": 0.596,
+      "score": 0.048865728080272675,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 26,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's an agreement and a compromise because in compromise  you see things for the wholeness of what they are  because everything is completely, fundame"
+        },
+        {
+          "sentence_index": 28,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You accept the wholeness of the package at hand"
+        },
+        {
+          "sentence_index": 29,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Because you accept that wholeness, you also accept the distinct distinguishable realities  within that wholeness"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.048865728080272675
+      }
+    },
+    {
+      "tag": "quantum effect",
+      "canonical": "quantum effect",
+      "confidence": 0.592,
+      "score": 0.12773534655570984,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is why in order to make quantum computers and study quantum effects  you need to have things very, very, very cold because temperature is vibrati"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.12773534655570984
+      }
+    }
+  ]
+}

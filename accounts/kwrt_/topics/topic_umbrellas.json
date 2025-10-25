@@ -1,0 +1,236 @@
+{
+  "username": "kwrt_",
+  "total_topics": 429,
+  "canonical_topics": 428,
+  "umbrella_count": 5,
+  "total_clusters": 81,
+  "clustering_method": "louvain",
+  "similarity_threshold": 0.7,
+  "umbrellas": [
+    {
+      "umbrella_id": "umbrella_3",
+      "label": "Meditation",
+      "members": [
+        "meditation isn",
+        "meditate just noisy",
+        "things apparent meditate",
+        "bring job meditation",
+        "meditation exactly minute",
+        "meditating bringing breath",
+        "normal point meditation",
+        "interested meditation just",
+        "normal meditation mind",
+        "day meditating",
+        "meditation isn achieving",
+        "point meditation",
+        "meditation",
+        "day meditating hour",
+        "time meditating focused",
+        "meditating bringing",
+        "meditation enter perfect",
+        "going teach meditation",
+        "entire time meditating",
+        "teach meditation exactly",
+        "meditation feel like",
+        "meditation feel",
+        "meditating hour single",
+        "outcomes meditating",
+        "outcomes meditating bringing",
+        "things meditation feel",
+        "end ve meditating",
+        "meditation isn state",
+        "state meditation isn",
+        "meditation meditation",
+        "meditation working",
+        "meditation okay",
+        "meditation okay don"
+      ],
+      "member_count": 33,
+      "total_frequency": 35,
+      "avg_coherence": 0.6353801488876343,
+      "representative_topics": [
+        "meditation isn",
+        "meditate just noisy",
+        "things apparent meditate",
+        "bring job meditation",
+        "meditation exactly minute"
+      ],
+      "video_ids": [
+        "7520323029956709645",
+        "7520411395536506126",
+        "7520767568085323021",
+        "7521656942910065933",
+        "7522409256159694093",
+        "7522920358098308365",
+        "7524436014618643726",
+        "7554580484513205517"
+      ],
+      "stats": {
+        "min_frequency": 1,
+        "max_frequency": 2,
+        "avg_score": 0.5153426470588236
+      }
+    },
+    {
+      "umbrella_id": "umbrella_26",
+      "label": "Identity",
+      "members": [
+        "universe ego",
+        "universe universe ego",
+        "difference ego identity",
+        "ego personality fundamental",
+        "ego distinctly confirmation",
+        "life ego",
+        "difference ego",
+        "understanding ego",
+        "understanding ego allowed",
+        "status ego attractiveness",
+        "ego attractiveness",
+        "ego just belief",
+        "identity ego identity",
+        "ego identity actually",
+        "attractiveness",
+        "denial identity things",
+        "ego identification realizing",
+        "identity serve identities",
+        "identity things"
+      ],
+      "member_count": 19,
+      "total_frequency": 19,
+      "avg_coherence": 0.5560568571090698,
+      "representative_topics": [
+        "universe ego",
+        "universe universe ego",
+        "difference ego identity",
+        "ego personality fundamental",
+        "ego distinctly confirmation"
+      ],
+      "video_ids": [
+        "7520122784752700686",
+        "7525976998284479757",
+        "7530308721088482573",
+        "7532188850555342094",
+        "7535681487547403533",
+        "7535948734648110350"
+      ],
+      "stats": {
+        "min_frequency": 1,
+        "max_frequency": 1,
+        "avg_score": 0.45487894736842105
+      }
+    },
+    {
+      "umbrella_id": "umbrella_20",
+      "label": "Spirituality",
+      "members": [
+        "spirituality experience",
+        "spirituality spirituality assimilated",
+        "spirituality real",
+        "spirituality spirituality",
+        "spirituality believe",
+        "essentially think spiritual",
+        "spirituality understanding consciousness",
+        "think spiritual",
+        "understand like esoteric",
+        "spirituality assimilated amorphous",
+        "reality way spirituality",
+        "just appreciate esoteric",
+        "spirituality like esoteric"
+      ],
+      "member_count": 13,
+      "total_frequency": 13,
+      "avg_coherence": 0.621506929397583,
+      "representative_topics": [
+        "spirituality experience",
+        "spirituality spirituality assimilated",
+        "spirituality real",
+        "spirituality spirituality",
+        "spirituality believe"
+      ],
+      "video_ids": [
+        "7530318451114659127",
+        "7532188850555342094",
+        "7534532078554205453",
+        "7535681487547403533",
+        "7535948734648110350",
+        "7554580484513205517"
+      ],
+      "stats": {
+        "min_frequency": 1,
+        "max_frequency": 1,
+        "avg_score": 0.48690769230769226
+      }
+    },
+    {
+      "umbrella_id": "umbrella_4",
+      "label": "Experienced Hope",
+      "members": [
+        "video",
+        "watching video",
+        "watching",
+        "watching videos",
+        "video ll video",
+        "video ll",
+        "experienced things watching",
+        "watching video hope",
+        "watching video ll",
+        "watch"
+      ],
+      "member_count": 10,
+      "total_frequency": 14,
+      "avg_coherence": 0.6073759198188782,
+      "representative_topics": [
+        "video",
+        "watching video",
+        "watching",
+        "watching videos",
+        "video ll video"
+      ],
+      "video_ids": [
+        "7526059683250031927",
+        "7531842643249089847",
+        "7532183501328633101",
+        "7552739292049607949"
+      ],
+      "stats": {
+        "min_frequency": 1,
+        "max_frequency": 3,
+        "avg_score": 0.37825500000000006
+      }
+    },
+    {
+      "umbrella_id": "umbrella_8",
+      "label": "Masculinity",
+      "members": [
+        "redefine masculinity femininity",
+        "masculinity make argument",
+        "masculinity giving critical",
+        "talking masculinity",
+        "idea masculinity real",
+        "believe masculinity define",
+        "repackage masculinity",
+        "say believe masculinity",
+        "masculinity femininity",
+        "masculinity means"
+      ],
+      "member_count": 10,
+      "total_frequency": 10,
+      "avg_coherence": 0.7220009565353394,
+      "representative_topics": [
+        "redefine masculinity femininity",
+        "masculinity make argument",
+        "masculinity giving critical",
+        "talking masculinity",
+        "idea masculinity real"
+      ],
+      "video_ids": [
+        "7533342350630718733"
+      ],
+      "stats": {
+        "min_frequency": 1,
+        "max_frequency": 1,
+        "avg_score": 0.56489
+      }
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "video_id": "7535681487547403533",
+  "username": "kwrt_",
+  "title": "deeper dive on the book soon #spirituality #buddhism #philosophy #ide...",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "spirituality",
+      "canonical": "spirituality",
+      "confidence": 0.861,
+      "score": 0.36645397543907166,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7535681487547403533\nTitle: deeper dive on the book soon #spirituality #buddhism #philosophy #ide"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "840501\n==================================================\n\nThis book has completely changed the way that I understand spirituality"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Spirituality is not about being assimilated into this amorphous oneness and being, being one with everything"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.36645397543907166
+      }
+    },
+    {
+      "tag": "ego",
+      "canonical": "ego",
+      "confidence": 0.705,
+      "score": 0.1306224763393402,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But it's also not about embellishing your ego and your sense of identity, your sense of distinctness"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Biggest mistake I ever made was thinking that the ego is identity"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The ego is not identity"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.1306224763393402
+      }
+    },
+    {
+      "tag": "identity",
+      "canonical": "identity",
+      "confidence": 0.664,
+      "score": 0.0816238522529602,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But it's also not about embellishing your ego and your sense of identity, your sense of distinctness"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Biggest mistake I ever made was thinking that the ego is identity"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The ego is not identity"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.0816238522529602
+      }
+    },
+    {
+      "tag": "distinctness",
+      "canonical": "distinctness",
+      "confidence": 0.631,
+      "score": 0.1254846453666687,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But it's also not about embellishing your ego and your sense of identity, your sense of distinctness"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That everything is actually what allows the distinctness to arise, that you exist as this infinite interrelationship with everything else in reality"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.1254846453666687
+      }
+    },
+    {
+      "tag": "extremely profound book",
+      "canonical": "extremely profound book",
+      "confidence": 0.606,
+      "score": 0.1436002105474472,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 33,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's an extremely profound book"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1436002105474472
+      }
+    },
+    {
+      "tag": "fundamental nature",
+      "canonical": "fundamental nature",
+      "confidence": 0.573,
+      "score": 0.10464327037334442,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The fundamental nature of you and everything else is that it is all dependent on itself"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.10464327037334442
+      }
+    },
+    {
+      "tag": "infinite interrelationship",
+      "canonical": "infinite interrelationship",
+      "confidence": 0.538,
+      "score": 0.06208505481481552,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That everything is actually what allows the distinctness to arise, that you exist as this infinite interrelationship with everything else in reality"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06208505481481552
+      }
+    },
+    {
+      "tag": "concept",
+      "canonical": "concept",
+      "confidence": 0.536,
+      "score": 0.06046511232852936,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 36,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This will probably be one of many videos that I make on concepts apart of the book"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06046511232852936
+      }
+    },
+    {
+      "tag": "rest",
+      "canonical": "rest",
+      "confidence": 0.532,
+      "score": 0.006841249763965607,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 29,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's in the recognition that these things are both fundamental to you, but also not fundamentally true in that they only truly exist based on their re"
+        },
+        {
+          "sentence_index": 34,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If you are interested in this at all or even if this didn't make sense to you, please go read this book"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.006841249763965607
+      }
+    },
+    {
+      "tag": "creativity",
+      "canonical": "creativity",
+      "confidence": 0.516,
+      "score": -0.012511998414993286,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 25,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We identify the intellect and creativity and all these beautiful qualities with this limited identity, with this limited understanding of the world th"
+        },
+        {
+          "sentence_index": 28,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But our imagination, our creativity, our passion and our drive and the things that you feel make you you do make you you and are also trapped and also"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": -0.012511998414993286
+      }
+    }
+  ]
+}

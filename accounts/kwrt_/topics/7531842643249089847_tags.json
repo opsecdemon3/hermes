@@ -1,0 +1,57 @@
+{
+  "video_id": "7531842643249089847",
+  "title": "ima just start posting whatever #music #art #piano ",
+  "tags": [
+    {
+      "tag": "hope",
+      "score": 0.2278,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "watching",
+      "score": 0.2415,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "thank",
+      "score": 0.2979,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "video",
+      "score": 0.3547,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "watching video",
+      "score": 0.3669,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "watching video hope",
+      "score": 0.4243,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "enjoyed",
+      "score": 0.4738,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "thank watching",
+      "score": 0.5102,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "hope enjoyed",
+      "score": 0.5153,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "thank watching video",
+      "score": 0.5731,
+      "type": "keyphrase"
+    }
+  ],
+  "extracted_at": "2025-10-23T13:14:52.249811"
+}

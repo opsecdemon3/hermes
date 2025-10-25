@@ -1,0 +1,261 @@
+{
+  "video_id": "7525976998284479757",
+  "username": "kwrt_",
+  "title": "#debate #politics #spirituality #philosophy #therapy ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "identity",
+      "canonical": "identity",
+      "confidence": 0.765,
+      "score": 0.20265859365463257,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is dependent on their sense of identity"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And their sense of identity is dependent on their preferences for certain things in reality"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And so our interaction with information and the beliefs that we hold based on that interaction  is inherently through the lens of identity"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.20265859365463257
+      }
+    },
+    {
+      "tag": "hallucination",
+      "canonical": "hallucination",
+      "confidence": 0.721,
+      "score": 0.28257811069488525,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "In fact, our experience of reality itself, our hallucination,  is literally dependent on our ego and on our identity"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.28257811069488525
+      }
+    },
+    {
+      "tag": "debate",
+      "canonical": "debate",
+      "confidence": 0.654,
+      "score": 0.15274380147457123,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7525976998284479757\nTitle: #debate #politics #spirituality #philosophy #therapy \nTimestamp: 2025-10-23T13:12:26"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "298790\n==================================================\n\nInformation and debate do not change people's minds"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.15274380147457123
+      }
+    },
+    {
+      "tag": "information",
+      "canonical": "information",
+      "confidence": 0.64,
+      "score": 0.05264696478843689,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "298790\n==================================================\n\nInformation and debate do not change people's minds"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "People's minds are not dependent on the information that they're presented"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And so our interaction with information and the beliefs that we hold based on that interaction  is inherently through the lens of identity"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.05264696478843689
+      }
+    },
+    {
+      "tag": "ego",
+      "canonical": "ego",
+      "confidence": 0.622,
+      "score": 0.11402882635593414,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "In fact, our experience of reality itself, our hallucination,  is literally dependent on our ego and on our identity"
+        },
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You become a portal into understanding something that is beyond their understandings of conception and categorization,  something that they too are un"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.11402882635593414
+      }
+    },
+    {
+      "tag": "spirituality",
+      "canonical": "spirituality",
+      "confidence": 0.615,
+      "score": 0.10670948028564453,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7525976998284479757\nTitle: #debate #politics #spirituality #philosophy #therapy \nTimestamp: 2025-10-23T13:12:26"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And this is why if you're trying to convince anybody,  if you're trying to make meaningful and genuine change,  if you're trying to get people to adop"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.10670948028564453
+      }
+    },
+    {
+      "tag": "reality",
+      "canonical": "reality",
+      "confidence": 0.61,
+      "score": 0.016737326979637146,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And their sense of identity is dependent on their preferences for certain things in reality"
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "They are emergent based on our interaction with reality"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "In fact, our experience of reality itself, our hallucination,  is literally dependent on our ego and on our identity"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.016737326979637146
+      }
+    },
+    {
+      "tag": "therapy",
+      "canonical": "therapy",
+      "confidence": 0.596,
+      "score": 0.08346211910247803,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7525976998284479757\nTitle: #debate #politics #spirituality #philosophy #therapy \nTimestamp: 2025-10-23T13:12:26"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And this is why if you're trying to convince anybody,  if you're trying to make meaningful and genuine change,  if you're trying to get people to adop"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.08346211910247803
+      }
+    },
+    {
+      "tag": "# spirituality # philosophy # therapy \n timestamp",
+      "canonical": "# spirituality # philosophy # therapy \n timestamp",
+      "confidence": 0.582,
+      "score": 0.1983204483985901,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.1983204483985901
+      }
+    },
+    {
+      "tag": "unique trauma",
+      "canonical": "unique trauma",
+      "confidence": 0.58,
+      "score": 0.11254260689020157,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Our cravings for things like security and our avoidances of unique traumas  are ultimately what define our identities, our identities are relational"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.11254260689020157
+      }
+    }
+  ]
+}

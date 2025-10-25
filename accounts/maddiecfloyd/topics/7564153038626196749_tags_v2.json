@@ -1,0 +1,249 @@
+{
+  "video_id": "7564153038626196749",
+  "username": "maddiecfloyd",
+  "title": "TikTok video #7564153038626196749",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "writing",
+      "canonical": "writing",
+      "confidence": 0.776,
+      "score": 0.21590939164161682,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So when I'm writing, I lose time"
+        },
+        {
+          "sentence_index": 15,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I am fully in this theme that I'm writing"
+        },
+        {
+          "sentence_index": 99,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And then, but I'll be writing it"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.21590939164161682
+      }
+    },
+    {
+      "tag": "tiktok video # 7564153038626196749 \n timestamp",
+      "canonical": "tiktok video # 7564153038626196749 \n timestamp",
+      "confidence": 0.671,
+      "score": 0.30523917078971863,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.30523917078971863
+      }
+    },
+    {
+      "tag": "scene",
+      "canonical": "scene",
+      "confidence": 0.645,
+      "score": 0.14211121201515198,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 87,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like I see the scenes in my mind's eye"
+        },
+        {
+          "sentence_index": 92,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I'll be able to see in my mind's eye where the scene is meant to go"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.14211121201515198
+      }
+    },
+    {
+      "tag": "end",
+      "canonical": "end",
+      "confidence": 0.62,
+      "score": 0.029278144240379333,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 48,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "From what point, when you breathe in and breathe out, where does that breath end? Where does it actually end?  This is reminding you of something"
+        },
+        {
+          "sentence_index": 50,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Where does that end? Where is the stopping point of that breath?  When you're coming back and leaving you coming back and where is the actual endpoint"
+        },
+        {
+          "sentence_index": 52,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You can't mark an end point"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.029278144240379333
+      }
+    },
+    {
+      "tag": "activity",
+      "canonical": "activity",
+      "confidence": 0.589,
+      "score": 0.12378637492656708,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 16,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "There's no activity in my mind pulling me away from what I'm doing because I'm so immersed in it"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.12378637492656708
+      }
+    },
+    {
+      "tag": "breath",
+      "canonical": "breath",
+      "confidence": 0.587,
+      "score": 0.03818565607070923,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 47,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you breathe in and then breathe out, it is a relationship you have with the trees with oxygen, right?  In carbon dioxide, everything is relations"
+        },
+        {
+          "sentence_index": 48,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "From what point, when you breathe in and breathe out, where does that breath end? Where does it actually end?  This is reminding you of something"
+        },
+        {
+          "sentence_index": 50,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Where does that end? Where is the stopping point of that breath?  When you're coming back and leaving you coming back and where is the actual endpoint"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.03818565607070923
+      }
+    },
+    {
+      "tag": "novel",
+      "canonical": "novel",
+      "confidence": 0.578,
+      "score": 0.06206697225570679,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So, I am working on a novel"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I'm working on a novel right now and saying the word work in the same sentence as it just doesn't feel right because it's like this is my form of play"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.06206697225570679
+      }
+    },
+    {
+      "tag": "# transcription",
+      "canonical": "# transcription",
+      "confidence": 0.56,
+      "score": 0.08868281543254852,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7564153038626196749\nTitle: TikTok video #7564153038626196749\nTimestamp: 2025-10-23T16:53:53"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08868281543254852
+      }
+    },
+    {
+      "tag": "intention",
+      "canonical": "intention",
+      "confidence": 0.549,
+      "score": 0.07547886669635773,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 111,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And so I'm writing and my intention is through my heart"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07547886669635773
+      }
+    },
+    {
+      "tag": "play",
+      "canonical": "play",
+      "confidence": 0.546,
+      "score": 0.07192154228687286,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I'm working on a novel right now and saying the word work in the same sentence as it just doesn't feel right because it's like this is my form of play"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07192154228687286
+      }
+    }
+  ]
+}

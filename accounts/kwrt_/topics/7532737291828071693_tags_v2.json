@@ -1,0 +1,261 @@
+{
+  "video_id": "7532737291828071693",
+  "username": "kwrt_",
+  "title": "#enlightenment #self #philosophy #wisdom #buddhism #spirituality ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "self # philosophy # wisdom # buddhism # spirituality \n timestamp",
+      "canonical": "self # philosophy # wisdom # buddhism # spirituality \n timestamp",
+      "confidence": 0.696,
+      "score": 0.3353222906589508,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.3353222906589508
+      }
+    },
+    {
+      "tag": "self",
+      "canonical": "self",
+      "confidence": 0.696,
+      "score": 0.1417434811592102,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532737291828071693\nTitle: #enlightenment #self #philosophy #wisdom #buddhism #spirituality \nTimestamp: 2025-10-22T17:50:44"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "919639\n==================================================\n\nYou don't have a true self, but you also have a self, and here's what I mean by that"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is our biggest misunderstanding of reality and why this self is so hard to understand and talk about"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.1417434811592102
+      }
+    },
+    {
+      "tag": "enlightenment",
+      "canonical": "enlightenment",
+      "confidence": 0.679,
+      "score": 0.1483922004699707,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532737291828071693\nTitle: #enlightenment #self #philosophy #wisdom #buddhism #spirituality \nTimestamp: 2025-10-22T17:50:44"
+        },
+        {
+          "sentence_index": 29,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "One of my favorite quotes is by Thich Nhat Hanh, and he says,  Enlightenment is when the wave realizes it is the ocean"
+        },
+        {
+          "sentence_index": 31,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That the ocean is the only thing that we've ever been, that the wave is useless,  that there's a rejection of the identity in enlightenment, but there"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.1483922004699707
+      }
+    },
+    {
+      "tag": "contrast",
+      "canonical": "contrast",
+      "confidence": 0.678,
+      "score": 0.23056237399578094,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Contrast is what defines everything a part of this universe"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.23056237399578094
+      }
+    },
+    {
+      "tag": "universe",
+      "canonical": "universe",
+      "confidence": 0.671,
+      "score": 0.1738450974225998,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Contrast is what defines everything a part of this universe"
+        },
+        {
+          "sentence_index": 28,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Everything in our universe is interdependent on everything else, infinitely"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.1738450974225998
+      }
+    },
+    {
+      "tag": "reality",
+      "canonical": "reality",
+      "confidence": 0.617,
+      "score": 0.0473012775182724,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is our biggest misunderstanding of reality and why this self is so hard to understand and talk about"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The reality and the value of things is dependent on their reference and their relativity to other things"
+        },
+        {
+          "sentence_index": 23,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "They're all unique expressions of reality"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.0473012775182724
+      }
+    },
+    {
+      "tag": "wholeness",
+      "canonical": "wholeness",
+      "confidence": 0.615,
+      "score": 0.10667368024587631,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 15,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If anything, it accepts the wholeness and the actual truth of your identity,  which is that you are not just what you are now"
+        },
+        {
+          "sentence_index": 32,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "There's a full acceptance and wholeness"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.10667368024587631
+      }
+    },
+    {
+      "tag": "illusion",
+      "canonical": "illusion",
+      "confidence": 0.593,
+      "score": 0.08017285168170929,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 22,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "They're all illusions"
+        },
+        {
+          "sentence_index": 36,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And yes, it is a beautiful realization to understand that the painting is an illusion,  and we are the thing witnessing the painting"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.08017285168170929
+      }
+    },
+    {
+      "tag": "fundamental thing",
+      "canonical": "fundamental thing",
+      "confidence": 0.58,
+      "score": 0.11268019676208496,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We want to think of things as being absolutes, as being the fundamental things contained in and of themselves"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.11268019676208496
+      }
+    },
+    {
+      "tag": "existence",
+      "canonical": "existence",
+      "confidence": 0.578,
+      "score": 0.061694636940956116,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 27,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "What is the purpose in an absolute?  Is there anything that's absolute in reality?  Can you even ground yourself in existence with an absolute?  It's "
+        },
+        {
+          "sentence_index": 34,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You just realize the dependence of your existence on all other things in existence"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.061694636940956116
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "video_id": "7526059683250031927",
+  "username": "kwrt_",
+  "title": "Replying to @Maldoror ",
+  "total_topics": 6,
+  "topics": [
+    {
+      "tag": "video 7526059683250031927 \n title",
+      "canonical": "video 7526059683250031927 \n title",
+      "confidence": 0.719,
+      "score": 0.36225345730781555,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.36225345730781555
+      }
+    },
+    {
+      "tag": "rage",
+      "canonical": "rage",
+      "confidence": 0.698,
+      "score": 0.25478312373161316,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "903843\n==================================================\n\nEven I watch the video of rage in light night"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.25478312373161316
+      }
+    },
+    {
+      "tag": "# transcription",
+      "canonical": "# transcription",
+      "confidence": 0.638,
+      "score": 0.1819797158241272,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7526059683250031927\nTitle: Replying to @Maldoror \nTimestamp: 2025-10-23T13:12:14"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1819797158241272
+      }
+    },
+    {
+      "tag": "light night",
+      "canonical": "light night",
+      "confidence": 0.597,
+      "score": 0.13350805640220642,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "903843\n==================================================\n\nEven I watch the video of rage in light night"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.13350805640220642
+      }
+    },
+    {
+      "tag": "2025 - 10 - 23t13:12:14.903843 \n =",
+      "canonical": "2025 - 10 - 23t13:12:14.903843 \n =",
+      "confidence": 0.5,
+      "score": 0.10030746459960938,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.10030746459960938
+      }
+    },
+    {
+      "tag": "@maldoror \n timestamp",
+      "canonical": "@maldoror \n timestamp",
+      "confidence": 0.475,
+      "score": 0.07023946940898895,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.07023946940898895
+      }
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "video_id": "7520323029956709645",
+  "username": "kwrt_",
+  "title": "1-minute intro to meditation guide #meditation #awareness #intro #spi...",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "meditation guide",
+      "canonical": "meditation guide",
+      "confidence": 0.837,
+      "score": 0.4208841323852539,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7520323029956709645\nTitle: 1-minute intro to meditation guide #meditation #awareness #intro #spi"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.4208841323852539
+      }
+    },
+    {
+      "tag": "meditation",
+      "canonical": "meditation",
+      "confidence": 0.686,
+      "score": 0.1305840015411377,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7520323029956709645\nTitle: 1-minute intro to meditation guide #meditation #awareness #intro #spi"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "514746\n==================================================\n\nI'm going to teach you how to get into meditation in exactly one minute"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Meditation isn't about achieving some transcendental state"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.1305840015411377
+      }
+    },
+    {
+      "tag": "breath",
+      "canonical": "breath",
+      "confidence": 0.618,
+      "score": 0.02624732255935669,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "With your eyes closed and whatever position you like, draw awareness to your breath"
+        },
+        {
+          "sentence_index": 16,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You are simply being with your breath"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Now as you are aware of your breath coming in and out,  what's going to happen, which happens to everybody,  which is a totally normal part of meditat"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.02624732255935669
+      }
+    },
+    {
+      "tag": "trance",
+      "canonical": "trance",
+      "confidence": 0.604,
+      "score": 0.14199984073638916,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Don't lower yourself into a trance"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.14199984073638916
+      }
+    },
+    {
+      "tag": "mind",
+      "canonical": "mind",
+      "confidence": 0.6,
+      "score": 0.004579231142997742,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's about mastering control over your mind"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Is that your mind is going to wander?  That's okay"
+        },
+        {
+          "sentence_index": 21,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The point isn't to stop your mind from wandering"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.004579231142997742
+      }
+    },
+    {
+      "tag": "1 - minute intro",
+      "canonical": "1 - minute intro",
+      "confidence": 0.58,
+      "score": 0.1961258053779602,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.1961258053779602
+      }
+    },
+    {
+      "tag": "advanced technique",
+      "canonical": "advanced technique",
+      "confidence": 0.546,
+      "score": 0.07248625159263611,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 32,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That's all for this introductory video, but I'll be making more videos soon with tips and advanced techniques"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07248625159263611
+      }
+    },
+    {
+      "tag": "transcendental state",
+      "canonical": "transcendental state",
+      "confidence": 0.535,
+      "score": 0.05904149264097214,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Meditation isn't about achieving some transcendental state"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.05904149264097214
+      }
+    },
+    {
+      "tag": "introductory video",
+      "canonical": "introductory video",
+      "confidence": 0.497,
+      "score": 0.012703180313110352,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 32,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That's all for this introductory video, but I'll be making more videos soon with tips and advanced techniques"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.012703180313110352
+      }
+    },
+    {
+      "tag": "patience",
+      "canonical": "patience",
+      "confidence": 0.489,
+      "score": 0.0034583210945129395,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 28,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's just a matter of patience and persistence"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0034583210945129395
+      }
+    }
+  ]
+}

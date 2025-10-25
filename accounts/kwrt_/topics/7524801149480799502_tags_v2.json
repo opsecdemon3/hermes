@@ -1,0 +1,255 @@
+{
+  "video_id": "7524801149480799502",
+  "username": "kwrt_",
+  "title": "#religion #god #science #spirituality #philosophy ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "omnipotent omniscient omnipotent god",
+      "canonical": "omnipotent omniscient omnipotent god",
+      "confidence": 0.775,
+      "score": 0.34726858139038086,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Because if you truly believe in an omnipotent omniscient omnipotent God,  then you would understand that science is the study of God"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.34726858139038086
+      }
+    },
+    {
+      "tag": "science",
+      "canonical": "science",
+      "confidence": 0.66,
+      "score": 0.07746821641921997,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7524801149480799502\nTitle: #religion #god #science #spirituality #philosophy \nTimestamp: 2025-10-23T13:13:08"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "444617\n==================================================\n\nScience is not the opposite of religion"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Because if you truly believe in an omnipotent omniscient omnipotent God,  then you would understand that science is the study of God"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.07746821641921997
+      }
+    },
+    {
+      "tag": "religion",
+      "canonical": "religion",
+      "confidence": 0.635,
+      "score": 0.047118887305259705,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7524801149480799502\nTitle: #religion #god #science #spirituality #philosophy \nTimestamp: 2025-10-23T13:13:08"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "444617\n==================================================\n\nScience is not the opposite of religion"
+        },
+        {
+          "sentence_index": 32,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I respect all these religions for their actual true connection to the divine and what that means"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.047118887305259705
+      }
+    },
+    {
+      "tag": "worship",
+      "canonical": "worship",
+      "confidence": 0.634,
+      "score": 0.06778033077716827,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 29,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You're not worshiping anything"
+        },
+        {
+          "sentence_index": 39,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "They are literally worshiping the devil"
+        },
+        {
+          "sentence_index": 40,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Literally worshiping this distinct, non-connected, fucking authoritarian decision-making, rule-following, rule-creating, essentially like super villai"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.06778033077716827
+      }
+    },
+    {
+      "tag": "god",
+      "canonical": "god",
+      "confidence": 0.632,
+      "score": 0.042933911085128784,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7524801149480799502\nTitle: #religion #god #science #spirituality #philosophy \nTimestamp: 2025-10-23T13:13:08"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The belief in a personified God is not religious"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Because if you truly believe in an omnipotent omniscient omnipotent God,  then you would understand that science is the study of God"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.042933911085128784
+      }
+    },
+    {
+      "tag": "non - religious thing",
+      "canonical": "non - religious thing",
+      "confidence": 0.57,
+      "score": 0.18374544382095337,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.18374544382095337
+      }
+    },
+    {
+      "tag": "insane mythology",
+      "canonical": "insane mythology",
+      "confidence": 0.562,
+      "score": 0.0913422480225563,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 26,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "They're solace and empty individuals who rely on this insane mythology to justify their very strange perception of reality"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0913422480225563
+      }
+    },
+    {
+      "tag": "belief",
+      "canonical": "belief",
+      "confidence": 0.558,
+      "score": 0.08668486773967743,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The belief in a personified God is not religious"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08668486773967743
+      }
+    },
+    {
+      "tag": "omniscient omnipotent",
+      "canonical": "omniscient omnipotent",
+      "confidence": 0.552,
+      "score": 0.030838042497634888,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Because if you truly believe in an omnipotent omniscient omnipotent God,  then you would understand that science is the study of God"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You believe in an omniscient omnipotent, omnipresent thing"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.030838042497634888
+      }
+    },
+    {
+      "tag": "fucking christian",
+      "canonical": "fucking christian",
+      "confidence": 0.55,
+      "score": 0.07644596695899963,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 34,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "They claim to be a fucking Christian or Muslim or this or whatever"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07644596695899963
+      }
+    }
+  ]
+}

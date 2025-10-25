@@ -1,0 +1,57 @@
+{
+  "video_id": "7556328594713234718",
+  "title": "Pavel Durov on meeting Mark Zuckerberg - clip from Lex Fridman Podcas...",
+  "tags": [
+    {
+      "tag": "low latency",
+      "score": 0.4352,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "latency",
+      "score": 0.4354,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "loads things telegrams",
+      "score": 0.4452,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "faster responsive efficient",
+      "score": 0.447,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "making things faster",
+      "score": 0.4497,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "early facebook",
+      "score": 0.4517,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "faster means need",
+      "score": 0.4598,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "faster vk nice",
+      "score": 0.4859,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "facebook appear instantly",
+      "score": 0.5322,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "vk loads faster",
+      "score": 0.6066,
+      "type": "keyphrase"
+    }
+  ],
+  "extracted_at": "2025-10-22T17:33:52.913114"
+}

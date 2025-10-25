@@ -1,0 +1,24 @@
+{
+  "account": "garyvee",
+  "created_at": "2025-10-22T19:15:55.272914",
+  "last_updated": "2025-10-22T19:16:01.204802",
+  "processed_videos": {
+    "7564175953111371022": {
+      "video_id": "7564175953111371022",
+      "title": "It\u2019s coming and I really hope eveyone is prepared, the shits big and ...",
+      "processed_at": "2025-10-22T19:16:01.204620",
+      "success": true,
+      "transcript_file": "7564175953111371022_transcript.txt",
+      "transcription_length": 660,
+      "duration": 32,
+      "url": "https://www.tiktok.com/@garyvee/video/7564175953111371022"
+    }
+  },
+  "stats": {
+    "total_videos_found": 1,
+    "total_processed": 1,
+    "total_skipped": 0,
+    "total_failed": 0,
+    "last_ingestion_date": "2025-10-22T19:16:01.204799"
+  }
+}

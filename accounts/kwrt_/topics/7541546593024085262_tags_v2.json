@@ -1,0 +1,231 @@
+{
+  "video_id": "7541546593024085262",
+  "username": "kwrt_",
+  "title": "#capitalism #politics #society #usa #leftist",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "capitalism",
+      "canonical": "capitalism",
+      "confidence": 0.86,
+      "score": 0.3169877529144287,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7541546593024085262\nTitle: #capitalism #politics #society #usa #leftist\nTimestamp: 2025-10-22T17:44:12"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "353663\n==================================================\n\nIt's so hard to convince people that they're being exploited under capitalism because of th"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And this process makes the evils of capitalism so much harder to communicate, to recognize, and to label even though that doesn't make the effects any"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.3169877529144287
+      }
+    },
+    {
+      "tag": "society",
+      "canonical": "society",
+      "confidence": 0.611,
+      "score": 0.017932772636413574,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7541546593024085262\nTitle: #capitalism #politics #society #usa #leftist\nTimestamp: 2025-10-22T17:44:12"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The immediate write-off for whatever is that someone earned that, which, one, is not true, but it doesn't even matter if it's true because even if you"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like, I was just thinking the other day how ridiculous the two-day weekend is and how we could probably have another entire day and how that would be "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.017932772636413574
+      }
+    },
+    {
+      "tag": "numeral comparison",
+      "canonical": "numeral comparison",
+      "confidence": 0.575,
+      "score": 0.10716059803962708,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like, we do this numeral comparison rather than this tangible physical feeling comparison of how the system actually affects our lives"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.10716059803962708
+      }
+    },
+    {
+      "tag": "minimum wage",
+      "canonical": "minimum wage",
+      "confidence": 0.561,
+      "score": 0.09017445892095566,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "For example, when I get a $30 parking ticket, most people do not see that parking ticket as at least two hours of labor at minimum wage"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09017445892095566
+      }
+    },
+    {
+      "tag": "politic",
+      "canonical": "politic",
+      "confidence": 0.561,
+      "score": 0.04086585342884064,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7541546593024085262\nTitle: #capitalism #politics #society #usa #leftist\nTimestamp: 2025-10-22T17:44:12"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "People are only allowed to work this many hours, you know, like, and honestly, you know, it's probably a dead thought because where's the incentive to"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.04086585342884064
+      }
+    },
+    {
+      "tag": "homogenization",
+      "canonical": "homogenization",
+      "confidence": 0.536,
+      "score": 0.060537852346897125,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "353663\n==================================================\n\nIt's so hard to convince people that they're being exploited under capitalism because of th"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.060537852346897125
+      }
+    },
+    {
+      "tag": "greed",
+      "canonical": "greed",
+      "confidence": 0.526,
+      "score": 0.04755778610706329,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 15,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like, money really is the root of all evil, not because of greed or anything like that, but just disconnection from reality"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.04755778610706329
+      }
+    },
+    {
+      "tag": "social behavior",
+      "canonical": "social behavior",
+      "confidence": 0.514,
+      "score": 0.03376821428537369,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "People are only allowed to work this many hours, you know, like, and honestly, you know, it's probably a dead thought because where's the incentive to"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.03376821428537369
+      }
+    },
+    {
+      "tag": "regulation",
+      "canonical": "regulation",
+      "confidence": 0.511,
+      "score": 0.030360475182533264,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But in order to utilize it without it literally like controlling us and utilizing us, like, we're no longer in control of this system anymore, we actu"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.030360475182533264
+      }
+    },
+    {
+      "tag": "video 7541546593024085262 \n title",
+      "canonical": "video 7541546593024085262 \n title",
+      "confidence": 0.508,
+      "score": 0.10931658744812012,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.10931658744812012
+      }
+    }
+  ]
+}

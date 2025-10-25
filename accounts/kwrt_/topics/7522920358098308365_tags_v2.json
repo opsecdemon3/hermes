@@ -1,0 +1,218 @@
+{
+  "video_id": "7522920358098308365",
+  "username": "kwrt_",
+  "title": "#meditation #daily #grwm #discipline #wisdom ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "mind",
+      "canonical": "mind",
+      "confidence": 0.723,
+      "score": 0.15308162569999695,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "731240\n==================================================\n\nOne of the things that becomes so apparent when you meditate is just how noisy your mind is"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And it sort of makes you realize like, this is how I am when I'm doing nothing but paying attention to my mind"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "How often and am I not even experiencing day-to-day life because my mind is just running off somewhere new"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.15308162569999695
+      }
+    },
+    {
+      "tag": "meditation # daily # grwm # discipline # wisdom \n timestamp",
+      "canonical": "meditation # daily # grwm # discipline # wisdom \n timestamp",
+      "confidence": 0.673,
+      "score": 0.30752676725387573,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.30752676725387573
+      }
+    },
+    {
+      "tag": "cycle",
+      "canonical": "cycle",
+      "confidence": 0.543,
+      "score": 0.06853898614645004,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "There's, you haven't escaped anything you just created in this cycle"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06853898614645004
+      }
+    },
+    {
+      "tag": "control",
+      "canonical": "control",
+      "confidence": 0.505,
+      "score": 0.022313930094242096,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's not forefitting control"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.022313930094242096
+      }
+    },
+    {
+      "tag": "thing",
+      "canonical": "thing",
+      "confidence": 0.499,
+      "score": -0.09432034194469452,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "731240\n==================================================\n\nOne of the things that becomes so apparent when you meditate is just how noisy your mind is"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And it sort of makes you realize like, this is how I am when I'm doing nothing but paying attention to my mind"
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "There's, you haven't escaped anything you just created in this cycle"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": -0.09432034194469452
+      }
+    },
+    {
+      "tag": "attention",
+      "canonical": "attention",
+      "confidence": 0.495,
+      "score": 0.010843470692634583,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And it sort of makes you realize like, this is how I am when I'm doing nothing but paying attention to my mind"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.010843470692634583
+      }
+    },
+    {
+      "tag": "hatred",
+      "canonical": "hatred",
+      "confidence": 0.483,
+      "score": -0.003007926046848297,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And it's sort of easy to develop a hatred in that way for your mind and your thoughts and your scatteredness"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": -0.003007926046848297
+      }
+    },
+    {
+      "tag": "# transcription",
+      "canonical": "# transcription",
+      "confidence": 0.46,
+      "score": -0.030935227870941162,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7522920358098308365\nTitle: #meditation #daily #grwm #discipline #wisdom \nTimestamp: 2025-10-23T13:13:33"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": -0.030935227870941162
+      }
+    },
+    {
+      "tag": "scatteredness",
+      "canonical": "scatteredness",
+      "confidence": 0.458,
+      "score": -0.03390726074576378,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And it's sort of easy to develop a hatred in that way for your mind and your thoughts and your scatteredness"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": -0.03390726074576378
+      }
+    },
+    {
+      "tag": "video 7522920358098308365 \n title",
+      "canonical": "video 7522920358098308365 \n title",
+      "confidence": 0.456,
+      "score": 0.0471973679959774,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.0471973679959774
+      }
+    }
+  ]
+}

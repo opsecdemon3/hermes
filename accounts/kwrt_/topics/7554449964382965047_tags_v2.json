@@ -1,0 +1,238 @@
+{
+  "video_id": "7554449964382965047",
+  "username": "kwrt_",
+  "title": "#faith #spirituality #god #wisdom #philosophy ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "belief",
+      "canonical": "belief",
+      "confidence": 0.879,
+      "score": 0.3392396867275238,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "796794\n==================================================\n\nBelief is trust"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Belief is not this creation of this, you know, this alternate mythological reality that doesn't exist"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And so if you go your entire life with this belief that the outside world has to make you happy, that your actions in the world are what make you happ"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.3392396867275238
+      }
+    },
+    {
+      "tag": "trust",
+      "canonical": "trust",
+      "confidence": 0.695,
+      "score": 0.11920611560344696,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "796794\n==================================================\n\nBelief is trust"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Because you're belief, you're trust and that part of the world allows you to feel that"
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Think to yourself what good relationship have you had, where there was no trust involved"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.11920611560344696
+      }
+    },
+    {
+      "tag": "pure belief",
+      "canonical": "pure belief",
+      "confidence": 0.544,
+      "score": 0.0701332837343216,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's one of the most pure beliefs"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0701332837343216
+      }
+    },
+    {
+      "tag": "skepticism",
+      "canonical": "skepticism",
+      "confidence": 0.543,
+      "score": 0.06871715188026428,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 29,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The heart of our depression and our sadness lies a big fat well of cynicism and skepticism,  which ironically are beliefs"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06871715188026428
+      }
+    },
+    {
+      "tag": "happiness",
+      "canonical": "happiness",
+      "confidence": 0.537,
+      "score": 0.06097868084907532,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 30,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Ironically are these trusts that the world is stagnant and physical and material and not changing  and only through physical experiences can we achiev"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06097868084907532
+      }
+    },
+    {
+      "tag": "outside world",
+      "canonical": "outside world",
+      "confidence": 0.528,
+      "score": 0.05078784376382828,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And so if you go your entire life with this belief that the outside world has to make you happy, that your actions in the world are what make you happ"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.05078784376382828
+      }
+    },
+    {
+      "tag": "physical experience",
+      "canonical": "physical experience",
+      "confidence": 0.524,
+      "score": 0.04587166756391525,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 30,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Ironically are these trusts that the world is stagnant and physical and material and not changing  and only through physical experiences can we achiev"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.04587166756391525
+      }
+    },
+    {
+      "tag": "creation",
+      "canonical": "creation",
+      "confidence": 0.499,
+      "score": 0.015593886375427246,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Belief is not this creation of this, you know, this alternate mythological reality that doesn't exist"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.015593886375427246
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.493,
+      "score": -0.03991055488586426,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And so if you go your entire life with this belief that the outside world has to make you happy, that your actions in the world are what make you happ"
+        },
+        {
+          "sentence_index": 15,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "How many beliefs do you have that limit your experience of things?  How many experiences have you had from these beliefs that you hold so deeply onto "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": -0.03991055488586426
+      }
+    },
+    {
+      "tag": "precise trust",
+      "canonical": "precise trust",
+      "confidence": 0.49,
+      "score": 0.004541277885437012,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "In order to experience something we must be open to the experience of it,  Belief is nothing more than a precise trust in an experience, in the possib"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.004541277885437012
+      }
+    }
+  ]
+}

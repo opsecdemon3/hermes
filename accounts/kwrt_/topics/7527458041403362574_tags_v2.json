@@ -1,0 +1,249 @@
+{
+  "video_id": "7527458041403362574",
+  "username": "kwrt_",
+  "title": "flow state, confidence, and doubt #flow #confidence #ego #sports #ski...",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "confidence",
+      "canonical": "confidence",
+      "confidence": 0.869,
+      "score": 0.37615257501602173,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7527458041403362574\nTitle: flow state, confidence, and doubt #flow #confidence #ego #sports #ski"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Most people think that confidence comes from being good at something"
+        },
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's that the confidence makes you good"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.37615257501602173
+      }
+    },
+    {
+      "tag": "flow state",
+      "canonical": "flow state",
+      "confidence": 0.61,
+      "score": 0.03921648487448692,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7527458041403362574\nTitle: flow state, confidence, and doubt #flow #confidence #ego #sports #ski"
+        },
+        {
+          "sentence_index": 21,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And that's what flow state is"
+        },
+        {
+          "sentence_index": 22,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like a flow state is the state where something is just challenging enough,  but easy enough for you to actively feel novelly engaged with,  aren't you"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.03921648487448692
+      }
+    },
+    {
+      "tag": "self - esteem",
+      "canonical": "self - esteem",
+      "confidence": 0.548,
+      "score": 0.1577567607164383,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.1577567607164383
+      }
+    },
+    {
+      "tag": "potential",
+      "canonical": "potential",
+      "confidence": 0.545,
+      "score": 0.022539295256137848,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Because I promise you, your current potential and your current limit is so far beyond what you think it possibly could be"
+        },
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Most people mastery just comes when they tap into that potential"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.022539295256137848
+      }
+    },
+    {
+      "tag": "sport",
+      "canonical": "sport",
+      "confidence": 0.534,
+      "score": 0.05703325569629669,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7527458041403362574\nTitle: flow state, confidence, and doubt #flow #confidence #ego #sports #ski"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.05703325569629669
+      }
+    },
+    {
+      "tag": "time",
+      "canonical": "time",
+      "confidence": 0.534,
+      "score": -0.024963855743408203,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Timestamp: 2025-10-23T13:11:50"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Everything that you are is where you place your time and energy"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And the amount of time that you spend with it is how much you water it and how much you care for it"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": -0.024963855743408203
+      }
+    },
+    {
+      "tag": "decisiveness",
+      "canonical": "decisiveness",
+      "confidence": 0.532,
+      "score": 0.055644065141677856,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That you're a decisiveness and intentionality allows you to bring the best version of yourself into manifest"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.055644065141677856
+      }
+    },
+    {
+      "tag": "try",
+      "canonical": "try",
+      "confidence": 0.532,
+      "score": 0.0067252665758132935,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Do or do not do, there is no try"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It doesn't even come with them actually getting better or learning any deeper mechanic about the thing that they're trying to get good at"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.0067252665758132935
+      }
+    },
+    {
+      "tag": "correlation causation problem",
+      "canonical": "correlation causation problem",
+      "confidence": 0.53,
+      "score": 0.05331182852387428,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But there's a correlation causation problem here"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.05331182852387428
+      }
+    },
+    {
+      "tag": "skill",
+      "canonical": "skill",
+      "confidence": 0.525,
+      "score": 0.04626378417015076,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You either express yourself at the highest capability of your skill or you don't"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.04626378417015076
+      }
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "video_id": "7520122784752700686",
+  "username": "kwrt_",
+  "title": "taking the redpill #redpilltiktok #men #looksmax #masculinity #matrix ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "attractiveness",
+      "canonical": "attractiveness",
+      "confidence": 0.816,
+      "score": 0.3958790600299835,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 30,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's believing in all this made up shit about jobs and cars and status and ego and attractiveness and intelligence and all of this shit"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.3958790600299835
+      }
+    },
+    {
+      "tag": "loneliness",
+      "canonical": "loneliness",
+      "confidence": 0.607,
+      "score": 0.03560151904821396,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like being alone is not loneliness"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Solitude is not loneliness"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Loneliness is a lack of love"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.03560151904821396
+      }
+    },
+    {
+      "tag": "face",
+      "canonical": "face",
+      "confidence": 0.56,
+      "score": 0.005850210785865784,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 39,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "An unworthiness will disappear in the face of equanimity"
+        },
+        {
+          "sentence_index": 40,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "In the face of raw experience"
+        },
+        {
+          "sentence_index": 41,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The face of things just being what they are"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.005850210785865784
+      }
+    },
+    {
+      "tag": "personality",
+      "canonical": "personality",
+      "confidence": 0.533,
+      "score": 0.007734134793281555,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It does change how people look at your personality"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "No matter how perfect the looks or the personality or anything else"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.007734134793281555
+      }
+    },
+    {
+      "tag": "inadequacy",
+      "canonical": "inadequacy",
+      "confidence": 0.531,
+      "score": 0.05393557250499725,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 38,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Your feelings of inadequacy and loneliness"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.05393557250499725
+      }
+    },
+    {
+      "tag": "ego",
+      "canonical": "ego",
+      "confidence": 0.514,
+      "score": 0.0334307923913002,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 30,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's believing in all this made up shit about jobs and cars and status and ego and attractiveness and intelligence and all of this shit"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0334307923913002
+      }
+    },
+    {
+      "tag": "redpill",
+      "canonical": "redpill",
+      "confidence": 0.51,
+      "score": 0.02846350520849228,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7520122784752700686\nTitle: taking the redpill #redpilltiktok #men #looksmax #masculinity #matrix \nTimestamp: 2025-10-23T13:1"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.02846350520849228
+      }
+    },
+    {
+      "tag": "life external validation",
+      "canonical": "life external validation",
+      "confidence": 0.492,
+      "score": 0.00775604322552681,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But since when was the only fucking point of life external validation?  How much have you missed out on because you've been so focused on how people l"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.00775604322552681
+      }
+    },
+    {
+      "tag": "niche social rule",
+      "canonical": "niche social rule",
+      "confidence": 0.492,
+      "score": 0.00709233433008194,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 28,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The matrix isn't knowing niche social rules or fucking basic psychology"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.00709233433008194
+      }
+    },
+    {
+      "tag": "# looksmax",
+      "canonical": "# looksmax",
+      "confidence": 0.486,
+      "score": 0.08370944857597351,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.08370944857597351
+      }
+    }
+  ]
+}

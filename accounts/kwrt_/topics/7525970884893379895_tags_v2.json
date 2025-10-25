@@ -1,0 +1,238 @@
+{
+  "video_id": "7525970884893379895",
+  "username": "kwrt_",
+  "title": "spirituality is the foundation of politics and all systems of behavio...",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "social conflict",
+      "canonical": "social conflict",
+      "confidence": 0.745,
+      "score": 0.3106972873210907,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "From inside our own mind to our families, to political systems, to countries,  every piece of social conflict is based on individuation and identity"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.3106972873210907
+      }
+    },
+    {
+      "tag": "spirituality",
+      "canonical": "spirituality",
+      "confidence": 0.718,
+      "score": 0.19475911557674408,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7525970884893379895\nTitle: spirituality is the foundation of politics and all systems of behavio"
+        },
+        {
+          "sentence_index": 26,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And this is why politics is just emergent from spirituality and emphasis on therapy and  interpersonal systems and healing and personal growth"
+        },
+        {
+          "sentence_index": 31,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Consciousness itself, spirituality itself"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.19475911557674408
+      }
+    },
+    {
+      "tag": "different culture",
+      "canonical": "different culture",
+      "confidence": 0.685,
+      "score": 0.18982458114624023,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We only identify as multiple different countries, because we identify as different cultures"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We only identify as different cultures, because the substituents of those cultures  identify with different traditions and value"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.18982458114624023
+      }
+    },
+    {
+      "tag": "international relation",
+      "canonical": "international relation",
+      "confidence": 0.63,
+      "score": 0.17289197444915771,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I know this is going to be a basic example, but we only have international relations and issues with that"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.17289197444915771
+      }
+    },
+    {
+      "tag": "politic",
+      "canonical": "politic",
+      "confidence": 0.622,
+      "score": 0.031582027673721313,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7525970884893379895\nTitle: spirituality is the foundation of politics and all systems of behavio"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "From inside our own mind to our families, to political systems, to countries,  every piece of social conflict is based on individuation and identity"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Because of this, systems in our life and our families and in politics are hard to change,  because we often see them as things that we choose"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.031582027673721313
+      }
+    },
+    {
+      "tag": "political system",
+      "canonical": "political system",
+      "confidence": 0.599,
+      "score": 0.13560980558395386,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "From inside our own mind to our families, to political systems, to countries,  every piece of social conflict is based on individuation and identity"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.13560980558395386
+      }
+    },
+    {
+      "tag": "sociopolitical economic scale",
+      "canonical": "sociopolitical economic scale",
+      "confidence": 0.568,
+      "score": 0.09820675849914551,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 32,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We're categorizing one very simple realization of it on a sociopolitical economic scale"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09820675849914551
+      }
+    },
+    {
+      "tag": "entire world",
+      "canonical": "entire world",
+      "confidence": 0.563,
+      "score": 0.09237966686487198,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "918238\n==================================================\n\nAn entire world is just family systems"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09237966686487198
+      }
+    },
+    {
+      "tag": "peace",
+      "canonical": "peace",
+      "confidence": 0.562,
+      "score": 0.09168878197669983,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 40,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Because when you heal yourself and you let yourself go from division and you come into  your greater sense of unity and love and peace and harmony, yo"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09168878197669983
+      }
+    },
+    {
+      "tag": "contradiction",
+      "canonical": "contradiction",
+      "confidence": 0.554,
+      "score": 0.08218415081501007,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We are constantly in contradiction because of our identification"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08218415081501007
+      }
+    }
+  ]
+}

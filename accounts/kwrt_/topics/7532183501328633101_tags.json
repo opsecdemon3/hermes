@@ -1,0 +1,57 @@
+{
+  "video_id": "7532183501328633101",
+  "title": "#advice #reading #philosophy #media #ideas ",
+  "tags": [
+    {
+      "tag": "inspect reality learn",
+      "score": 0.41,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "reminding people experience",
+      "score": 0.4138,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "remembering things say",
+      "score": 0.416,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "information actually",
+      "score": 0.4161,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "provide knowledge",
+      "score": 0.4169,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "experienced things watching",
+      "score": 0.4257,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "new information read",
+      "score": 0.4335,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "don information life",
+      "score": 0.454,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "watching videos",
+      "score": 0.463,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "information read books",
+      "score": 0.4893,
+      "type": "keyphrase"
+    }
+  ],
+  "extracted_at": "2025-10-22T17:56:35.878021"
+}

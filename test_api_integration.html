@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TikTalk API Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #1a1a1a;
+            color: #fff;
+        }
+        .section {
+            background: #2a2a2a;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            border: 1px solid #00ffff;
+        }
+        h1 {
+            color: #00ffff;
+        }
+        h2 {
+            color: #ff00ff;
+        }
+        button {
+            background: #00ffff;
+            color: #000;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+            font-weight: bold;
+        }
+        button:hover {
+            background: #ff00ff;
+            color: #fff;
+        }
+        pre {
+            background: #000;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            border: 1px solid #00ffff;
+        }
+        .status {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .success {
+            background: #00ff0044;
+            border: 1px solid #00ff00;
+        }
+        .error {
+            background: #ff000044;
+            border: 1px solid #ff0000;
+        }
+        .loading {
+            background: #ffff0044;
+            border: 1px solid #ffff00;
+        }
+        input {
+            padding: 10px;
+            width: 300px;
+            border-radius: 5px;
+            border: 1px solid #00ffff;
+            background: #1a1a1a;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎯 TikTalk API Integration Test</h1>
+    <p>Testing frontend-backend integration</p>
+
+    <div class="section">
+        <h2>1. GET /api/accounts</h2>
+        <button onclick="testAccounts()">Test Creators API</button>
+        <div id="accounts-status"></div>
+        <pre id="accounts-result"></pre>
+    </div>
+
+    <div class="section">
+        <h2>2. POST /api/search/semantic</h2>
+        <input type="text" id="search-query" placeholder="Enter search query" value="meaning">
+        <button onclick="testSearch()">Test Search API</button>
+        <div id="search-status"></div>
+        <pre id="search-result"></pre>
+    </div>
+
+    <div class="section">
+        <h2>3. GET /api/transcript</h2>
+        <button onclick="testTranscript()">Test Transcript API</button>
+        <div id="transcript-status"></div>
+        <pre id="transcript-result"></pre>
+    </div>
+
+    <div class="section">
+        <h2>4. GET /api/verify/system</h2>
+        <button onclick="testSystem()">Test System API</button>
+        <div id="system-status"></div>
+        <pre id="system-result"></pre>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:8000';
+
+        async function testAccounts() {
+            const statusEl = document.getElementById('accounts-status');
+            const resultEl = document.getElementById('accounts-result');
+            
+            statusEl.className = 'status loading';
+            statusEl.textContent = '⏳ Loading creators...';
+            resultEl.textContent = '';
+
+            try {
+                const response = await fetch(`${API_BASE}/api/accounts`);
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                
+                const data = await response.json();
+                statusEl.className = 'status success';
+                statusEl.textContent = `✅ Success! Got ${data.length} creators`;
+                resultEl.textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                statusEl.className = 'status error';
+                statusEl.textContent = `❌ Error: ${error.message}`;
+                resultEl.textContent = error.stack;
+            }
+        }
+
+        async function testSearch() {
+            const statusEl = document.getElementById('search-status');
+            const resultEl = document.getElementById('search-result');
+            const query = document.getElementById('search-query').value;
+            
+            statusEl.className = 'status loading';
+            statusEl.textContent = `⏳ Searching for "${query}"...`;
+            resultEl.textContent = '';
+
+            try {
+                const response = await fetch(`${API_BASE}/api/search/semantic`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query, top_k: 3 })
+                });
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                
+                const data = await response.json();
+                statusEl.className = 'status success';
+                statusEl.textContent = `✅ Success! Found ${data.length} results`;
+                resultEl.textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                statusEl.className = 'status error';
+                statusEl.textContent = `❌ Error: ${error.message}`;
+                resultEl.textContent = error.stack;
+            }
+        }
+
+        async function testTranscript() {
+            const statusEl = document.getElementById('transcript-status');
+            const resultEl = document.getElementById('transcript-result');
+            
+            statusEl.className = 'status loading';
+            statusEl.textContent = '⏳ Loading transcript...';
+            resultEl.textContent = '';
+
+            try {
+                const response = await fetch(`${API_BASE}/api/transcript/beabettermandaily/7563374738840571167?jump=00:10&context=2`);
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                
+                const data = await response.json();
+                statusEl.className = 'status success';
+                statusEl.textContent = `✅ Success! Got ${data.segments.length} segments`;
+                resultEl.textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                statusEl.className = 'status error';
+                statusEl.textContent = `❌ Error: ${error.message}`;
+                resultEl.textContent = error.stack;
+            }
+        }
+
+        async function testSystem() {
+            const statusEl = document.getElementById('system-status');
+            const resultEl = document.getElementById('system-result');
+            
+            statusEl.className = 'status loading';
+            statusEl.textContent = '⏳ Checking system status...';
+            resultEl.textContent = '';
+
+            try {
+                const response = await fetch(`${API_BASE}/api/verify/system`);
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                
+                const data = await response.json();
+                statusEl.className = 'status success';
+                statusEl.textContent = `✅ Success! Status: ${data.status}`;
+                resultEl.textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                statusEl.className = 'status error';
+                statusEl.textContent = `❌ Error: ${error.message}`;
+                resultEl.textContent = error.stack;
+            }
+        }
+
+        // Auto-test on load
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                console.log('Auto-running tests...');
+                testAccounts();
+                setTimeout(() => testSearch(), 1000);
+                setTimeout(() => testTranscript(), 2000);
+                setTimeout(() => testSystem(), 3000);
+            }, 500);
+        });
+    </script>
+</body>
+</html>

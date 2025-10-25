@@ -1,0 +1,130 @@
+{
+  "username": "maddiecfloyd",
+  "total_topics": 50,
+  "canonical_topics": 50,
+  "umbrella_count": 5,
+  "total_clusters": 8,
+  "clustering_method": "louvain",
+  "similarity_threshold": 0.7,
+  "umbrellas": [
+    {
+      "umbrella_id": "umbrella_5",
+      "label": "Deeply",
+      "members": [
+        "empathetic deeply feeling",
+        "feel thoughts",
+        "deeply feeling"
+      ],
+      "member_count": 3,
+      "total_frequency": 3,
+      "avg_coherence": 0.7385870814323425,
+      "representative_topics": [
+        "empathetic deeply feeling",
+        "feel thoughts",
+        "deeply feeling"
+      ],
+      "video_ids": [
+        "7563283786532703502",
+        "7564196776366837005",
+        "7564400957002501431"
+      ],
+      "stats": {
+        "min_frequency": 1,
+        "max_frequency": 1,
+        "avg_score": 0.4028333333333333
+      }
+    },
+    {
+      "umbrella_id": "umbrella_1",
+      "label": "Senses",
+      "members": [
+        "senses experiencing video",
+        "video right senses"
+      ],
+      "member_count": 2,
+      "total_frequency": 2,
+      "avg_coherence": 0.8624103665351868,
+      "representative_topics": [
+        "senses experiencing video",
+        "video right senses"
+      ],
+      "video_ids": [
+        "7563283786532703502"
+      ],
+      "stats": {
+        "min_frequency": 1,
+        "max_frequency": 1,
+        "avg_score": 0.47895
+      }
+    },
+    {
+      "umbrella_id": "umbrella_2",
+      "label": "Real",
+      "members": [
+        "real shadow real",
+        "real real shadow"
+      ],
+      "member_count": 2,
+      "total_frequency": 2,
+      "avg_coherence": 0.9744981527328491,
+      "representative_topics": [
+        "real shadow real",
+        "real real shadow"
+      ],
+      "video_ids": [
+        "7562732104442858765"
+      ],
+      "stats": {
+        "min_frequency": 1,
+        "max_frequency": 1,
+        "avg_score": 0.46330000000000005
+      }
+    },
+    {
+      "umbrella_id": "umbrella_3",
+      "label": "Darkness",
+      "members": [
+        "darkness",
+        "dark light"
+      ],
+      "member_count": 2,
+      "total_frequency": 2,
+      "avg_coherence": 0.813499927520752,
+      "representative_topics": [
+        "darkness",
+        "dark light"
+      ],
+      "video_ids": [
+        "7562732104442858765"
+      ],
+      "stats": {
+        "min_frequency": 1,
+        "max_frequency": 1,
+        "avg_score": 0.4446
+      }
+    },
+    {
+      "umbrella_id": "umbrella_4",
+      "label": "Thoughts",
+      "members": [
+        "bad thoughts",
+        "bad thoughts beliefs"
+      ],
+      "member_count": 2,
+      "total_frequency": 2,
+      "avg_coherence": 0.7734584808349609,
+      "representative_topics": [
+        "bad thoughts",
+        "bad thoughts beliefs"
+      ],
+      "video_ids": [
+        "7562732104442858765"
+      ],
+      "stats": {
+        "min_frequency": 1,
+        "max_frequency": 1,
+        "avg_score": 0.43405
+      }
+    }
+  ]
+}

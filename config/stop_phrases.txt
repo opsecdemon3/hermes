@@ -1,0 +1,55 @@
+# Generic boilerplate phrases to filter out
+thank watching video
+watching video
+thank watching
+thanks for watching
+follow for more
+like and subscribe
+video
+follow me
+check out
+link in bio
+comment below
+let me know
+make sure
+going to be
+want to be
+lot of people
+kind of like
+sort of like
+end of the day
+at the end
+point is
+thing is
+you know what
+you know
+I mean
+basically
+literally
+actually
+honestly
+obviously
+clearly
+definitely
+probably
+maybe
+perhaps
+right now
+right here
+this video
+next video
+last video
+previous video
+today's video
+new video
+recent video
+latest video
+coming up
+stay tuned
+don't forget
+remember to
+make sure to
+be sure to
+if you enjoyed
+if you liked
+# Creator-specific boilerplate (add as needed)

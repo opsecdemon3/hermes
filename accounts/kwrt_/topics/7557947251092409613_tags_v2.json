@@ -1,0 +1,267 @@
+{
+  "video_id": "7557947251092409613",
+  "username": "kwrt_",
+  "title": "#philosophy #wisdom #life #spirituality ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "philosophy",
+      "canonical": "philosophy",
+      "confidence": 0.925,
+      "score": 0.39460915327072144,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7557947251092409613\nTitle: #philosophy #wisdom #life #spirituality \nTimestamp: 2025-10-22T12:52:20"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But I'm here to tell you that all of philosophy is not going to give you the answers you want  because all of it is this inherent belief that there is"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But it's what we are questioning that philosophy so inherently misses, right?  And if we're asking what the meaning of life is, philosophy will try to"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.39460915327072144
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.698,
+      "score": 0.12240897864103317,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7557947251092409613\nTitle: #philosophy #wisdom #life #spirituality \nTimestamp: 2025-10-22T12:52:20"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But it's what we are questioning that philosophy so inherently misses, right?  And if we're asking what the meaning of life is, philosophy will try to"
+        },
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You're asking what the meaning of life is, why do you care?  You care what the meaning of life is because you don't feel, you invented this concept,  "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.12240897864103317
+      }
+    },
+    {
+      "tag": "meaninglessness",
+      "canonical": "meaninglessness",
+      "confidence": 0.684,
+      "score": 0.18900763988494873,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "236855\n==================================================\n\nMany people in my age have this pervasive sense of meaninglessness in their lives"
+        },
+        {
+          "sentence_index": 58,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That's the real issue, right?  There's a level of meaninglessness because you cannot, you cannot grapple with the hardships with the pain, with certai"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.18900763988494873
+      }
+    },
+    {
+      "tag": "physical world",
+      "canonical": "physical world",
+      "confidence": 0.602,
+      "score": 0.029536806046962738,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The physical world, what we never interact with it"
+        },
+        {
+          "sentence_index": 21,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Color doesn't exist in the physical world"
+        },
+        {
+          "sentence_index": 25,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "They're metaphysical, right?  The physical world, the closest that you get ever approximated, would be to like something like math"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.029536806046962738
+      }
+    },
+    {
+      "tag": "meditation",
+      "canonical": "meditation",
+      "confidence": 0.584,
+      "score": 0.007728993892669678,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 29,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And it becomes especially apparent to either long periods of meditation or psychs"
+        },
+        {
+          "sentence_index": 41,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But this is what meditation is for meditation is just being aware"
+        },
+        {
+          "sentence_index": 44,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's not like the point of meditation is meditation"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.007728993892669678
+      }
+    },
+    {
+      "tag": "absurdism",
+      "canonical": "absurdism",
+      "confidence": 0.58,
+      "score": 0.0635920912027359,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And that's why things like absurdism have become so popular in recent years"
+        },
+        {
+          "sentence_index": 35,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Anyways, I feel like I just, I get certain disheartened or saddened when I see people go down this absurdism,  nihilism pathway that I did when I was "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.0635920912027359
+      }
+    },
+    {
+      "tag": "philosophy # wisdom # life # spirituality \n timestamp",
+      "canonical": "philosophy # wisdom # life # spirituality \n timestamp",
+      "confidence": 0.556,
+      "score": 0.16716697812080383,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.16716697812080383
+      }
+    },
+    {
+      "tag": "thinking",
+      "canonical": "thinking",
+      "confidence": 0.537,
+      "score": 0.06067858636379242,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 71,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like if you do any amount of thinking on your own, you'll come to all the conclusions that they came to"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06067858636379242
+      }
+    },
+    {
+      "tag": "obligation",
+      "canonical": "obligation",
+      "confidence": 0.535,
+      "score": 0.009628154337406158,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 54,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You have no obligation to view things in any particular way other than what they are"
+        },
+        {
+          "sentence_index": 55,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "No obligation at all"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.009628154337406158
+      }
+    },
+    {
+      "tag": "concept",
+      "canonical": "concept",
+      "confidence": 0.524,
+      "score": 0.0452793687582016,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You're asking what the meaning of life is, why do you care?  You care what the meaning of life is because you don't feel, you invented this concept,  "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0452793687582016
+      }
+    }
+  ]
+}

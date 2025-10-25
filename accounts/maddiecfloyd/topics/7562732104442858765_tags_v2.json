@@ -1,0 +1,254 @@
+{
+  "video_id": "7562732104442858765",
+  "username": "maddiecfloyd",
+  "title": "TikTok video #7562732104442858765",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "perceive darkness",
+      "canonical": "perceive darkness",
+      "confidence": 0.729,
+      "score": 0.3742573857307434,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.3742573857307434
+      }
+    },
+    {
+      "tag": "feeling",
+      "canonical": "feeling",
+      "confidence": 0.649,
+      "score": 0.1471039056777954,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 62,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This doesn't mean that you control yourself or choose your thoughts or choose your feelings"
+        },
+        {
+          "sentence_index": 63,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Thoughts and feelings will arise no matter what"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.1471039056777954
+      }
+    },
+    {
+      "tag": "thought",
+      "canonical": "thought",
+      "confidence": 0.629,
+      "score": 0.03926582634449005,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 23,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And when you label parts of you as bad or behaviors as bad or emotions as bad or thoughts or beliefs as bad,  you are rejecting you"
+        },
+        {
+          "sentence_index": 31,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "There may be thoughts that you are not worthy or thoughts that you have something to heal or work on  or thoughts that you are bad"
+        },
+        {
+          "sentence_index": 62,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This doesn't mean that you control yourself or choose your thoughts or choose your feelings"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.03926582634449005
+      }
+    },
+    {
+      "tag": "tiktok video # 7562732104442858765 \n timestamp",
+      "canonical": "tiktok video # 7562732104442858765 \n timestamp",
+      "confidence": 0.625,
+      "score": 0.2500852942466736,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.2500852942466736
+      }
+    },
+    {
+      "tag": "self",
+      "canonical": "self",
+      "confidence": 0.61,
+      "score": 0.017203927040100098,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 22,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you choose to divide yourself up into parts that are acceptable in parts that are not"
+        },
+        {
+          "sentence_index": 25,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And it is going to prolong the process of individuation,  which is just self mastery,  loving the self because the self is all"
+        },
+        {
+          "sentence_index": 27,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The whole, the one remembering itself through you"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.017203927040100098
+      }
+    },
+    {
+      "tag": "experience",
+      "canonical": "experience",
+      "confidence": 0.607,
+      "score": 0.012803897261619568,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Your beingness is the only thing the only thing about this experience that is ultimately real"
+        },
+        {
+          "sentence_index": 34,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This experience you are in right now"
+        },
+        {
+          "sentence_index": 71,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You are just the experienceer and the observer of them"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.012803897261619568
+      }
+    },
+    {
+      "tag": "love",
+      "canonical": "love",
+      "confidence": 0.604,
+      "score": 0.009489864110946655,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Love is the only thing that's real"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Light, you're awareness and love"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Their own lack of awareness of the light, awareness of the love within"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.009489864110946655
+      }
+    },
+    {
+      "tag": "dark",
+      "canonical": "dark",
+      "confidence": 0.567,
+      "score": 0.048843398690223694,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Any perceived darkness that you feel is within you is not real"
+        },
+        {
+          "sentence_index": 45,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The whole fine of this human experiment is that you get to play with dark and light or with binaries with contrast"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.048843398690223694
+      }
+    },
+    {
+      "tag": "shadow",
+      "canonical": "shadow",
+      "confidence": 0.565,
+      "score": 0.09435006976127625,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The shadow is not real"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09435006976127625
+      }
+    },
+    {
+      "tag": "beingness",
+      "canonical": "beingness",
+      "confidence": 0.551,
+      "score": 0.07801593840122223,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Your beingness is the only thing the only thing about this experience that is ultimately real"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07801593840122223
+      }
+    }
+  ]
+}

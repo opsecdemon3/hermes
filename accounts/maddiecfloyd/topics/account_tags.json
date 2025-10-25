@@ -1,0 +1,506 @@
+{
+  "total_tags": 50,
+  "total_videos": 5,
+  "tags": [
+    {
+      "tag": "senses experiencing video",
+      "frequency": 1,
+      "avg_score": 0.5284,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5284,
+      "video_ids": [
+        "7563283786532703502"
+      ]
+    },
+    {
+      "tag": "senses humans complicate",
+      "frequency": 1,
+      "avg_score": 0.482,
+      "engagement_weight": 1.0,
+      "combined_score": 0.482,
+      "video_ids": [
+        "7563283786532703502"
+      ]
+    },
+    {
+      "tag": "real shadow real",
+      "frequency": 1,
+      "avg_score": 0.4762,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4762,
+      "video_ids": [
+        "7562732104442858765"
+      ]
+    },
+    {
+      "tag": "spaces space experience",
+      "frequency": 1,
+      "avg_score": 0.464,
+      "engagement_weight": 1.0,
+      "combined_score": 0.464,
+      "video_ids": [
+        "7564196776366837005"
+      ]
+    },
+    {
+      "tag": "consciously living",
+      "frequency": 1,
+      "avg_score": 0.464,
+      "engagement_weight": 1.0,
+      "combined_score": 0.464,
+      "video_ids": [
+        "7563283786532703502"
+      ]
+    },
+    {
+      "tag": "darkness",
+      "frequency": 1,
+      "avg_score": 0.4608,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4608,
+      "video_ids": [
+        "7562732104442858765"
+      ]
+    },
+    {
+      "tag": "subconscious",
+      "frequency": 1,
+      "avg_score": 0.4594,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4594,
+      "video_ids": [
+        "7563283786532703502"
+      ]
+    },
+    {
+      "tag": "denying love light",
+      "frequency": 1,
+      "avg_score": 0.455,
+      "engagement_weight": 1.0,
+      "combined_score": 0.455,
+      "video_ids": [
+        "7562732104442858765"
+      ]
+    },
+    {
+      "tag": "emotion experience",
+      "frequency": 1,
+      "avg_score": 0.4526,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4526,
+      "video_ids": [
+        "7563283786532703502"
+      ]
+    },
+    {
+      "tag": "real real shadow",
+      "frequency": 1,
+      "avg_score": 0.4504,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4504,
+      "video_ids": [
+        "7562732104442858765"
+      ]
+    },
+    {
+      "tag": "bad thoughts",
+      "frequency": 1,
+      "avg_score": 0.4481,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4481,
+      "video_ids": [
+        "7562732104442858765"
+      ]
+    },
+    {
+      "tag": "empathetic deeply feeling",
+      "frequency": 1,
+      "avg_score": 0.4472,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4472,
+      "video_ids": [
+        "7563283786532703502"
+      ]
+    },
+    {
+      "tag": "memory visions feelings",
+      "frequency": 1,
+      "avg_score": 0.4468,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4468,
+      "video_ids": [
+        "7563283786532703502"
+      ]
+    },
+    {
+      "tag": "perceived bad parts",
+      "frequency": 1,
+      "avg_score": 0.4467,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4467,
+      "video_ids": [
+        "7562732104442858765"
+      ]
+    },
+    {
+      "tag": "mind understanding energy",
+      "frequency": 1,
+      "avg_score": 0.4437,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4437,
+      "video_ids": [
+        "7564153038626196749"
+      ]
+    },
+    {
+      "tag": "human life experience",
+      "frequency": 1,
+      "avg_score": 0.4428,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4428,
+      "video_ids": [
+        "7563283786532703502"
+      ]
+    },
+    {
+      "tag": "awareness human thought",
+      "frequency": 1,
+      "avg_score": 0.4375,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4375,
+      "video_ids": [
+        "7563283786532703502"
+      ]
+    },
+    {
+      "tag": "feel real perceived",
+      "frequency": 1,
+      "avg_score": 0.4355,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4355,
+      "video_ids": [
+        "7562732104442858765"
+      ]
+    },
+    {
+      "tag": "light awareness love",
+      "frequency": 1,
+      "avg_score": 0.4329,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4329,
+      "video_ids": [
+        "7562732104442858765"
+      ]
+    },
+    {
+      "tag": "reflecting love",
+      "frequency": 1,
+      "avg_score": 0.4321,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4321,
+      "video_ids": [
+        "7564196776366837005"
+      ]
+    },
+    {
+      "tag": "video right senses",
+      "frequency": 1,
+      "avg_score": 0.4295,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4295,
+      "video_ids": [
+        "7563283786532703502"
+      ]
+    },
+    {
+      "tag": "dark light",
+      "frequency": 1,
+      "avg_score": 0.4284,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4284,
+      "video_ids": [
+        "7562732104442858765"
+      ]
+    },
+    {
+      "tag": "deep space",
+      "frequency": 1,
+      "avg_score": 0.4236,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4236,
+      "video_ids": [
+        "7564196776366837005"
+      ]
+    },
+    {
+      "tag": "feel thoughts",
+      "frequency": 1,
+      "avg_score": 0.4217,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4217,
+      "video_ids": [
+        "7564196776366837005"
+      ]
+    },
+    {
+      "tag": "bad thoughts beliefs",
+      "frequency": 1,
+      "avg_score": 0.42,
+      "engagement_weight": 1.0,
+      "combined_score": 0.42,
+      "video_ids": [
+        "7562732104442858765"
+      ]
+    },
+    {
+      "tag": "letting space",
+      "frequency": 1,
+      "avg_score": 0.419,
+      "engagement_weight": 1.0,
+      "combined_score": 0.419,
+      "video_ids": [
+        "7564196776366837005"
+      ]
+    },
+    {
+      "tag": "feel love love",
+      "frequency": 1,
+      "avg_score": 0.4141,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4141,
+      "video_ids": [
+        "7564196776366837005"
+      ]
+    },
+    {
+      "tag": "spaces space sky",
+      "frequency": 1,
+      "avg_score": 0.4141,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4141,
+      "video_ids": [
+        "7564196776366837005"
+      ]
+    },
+    {
+      "tag": "left comment videos",
+      "frequency": 1,
+      "avg_score": 0.4098,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4098,
+      "video_ids": [
+        "7564400957002501431"
+      ]
+    },
+    {
+      "tag": "felt called working",
+      "frequency": 1,
+      "avg_score": 0.4087,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4087,
+      "video_ids": [
+        "7564153038626196749"
+      ]
+    },
+    {
+      "tag": "music immersed",
+      "frequency": 1,
+      "avg_score": 0.4046,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4046,
+      "video_ids": [
+        "7564153038626196749"
+      ]
+    },
+    {
+      "tag": "really energized talk",
+      "frequency": 1,
+      "avg_score": 0.4043,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4043,
+      "video_ids": [
+        "7564153038626196749"
+      ]
+    },
+    {
+      "tag": "emptiness sky",
+      "frequency": 1,
+      "avg_score": 0.4039,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4039,
+      "video_ids": [
+        "7564196776366837005"
+      ]
+    },
+    {
+      "tag": "create love engaging",
+      "frequency": 1,
+      "avg_score": 0.4017,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4017,
+      "video_ids": [
+        "7564153038626196749"
+      ]
+    },
+    {
+      "tag": "infinite emptiness sky",
+      "frequency": 1,
+      "avg_score": 0.3999,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3999,
+      "video_ids": [
+        "7564196776366837005"
+      ]
+    },
+    {
+      "tag": "experience love",
+      "frequency": 1,
+      "avg_score": 0.3979,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3979,
+      "video_ids": [
+        "7564196776366837005"
+      ]
+    },
+    {
+      "tag": "reason feeling thing",
+      "frequency": 1,
+      "avg_score": 0.3943,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3943,
+      "video_ids": [
+        "7564153038626196749"
+      ]
+    },
+    {
+      "tag": "activity mind pulling",
+      "frequency": 1,
+      "avg_score": 0.3914,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3914,
+      "video_ids": [
+        "7564153038626196749"
+      ]
+    },
+    {
+      "tag": "energized talk post",
+      "frequency": 1,
+      "avg_score": 0.3911,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3911,
+      "video_ids": [
+        "7564153038626196749"
+      ]
+    },
+    {
+      "tag": "life getting emotional",
+      "frequency": 1,
+      "avg_score": 0.3904,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3904,
+      "video_ids": [
+        "7564400957002501431"
+      ]
+    },
+    {
+      "tag": "reason feeling",
+      "frequency": 1,
+      "avg_score": 0.3898,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3898,
+      "video_ids": [
+        "7564153038626196749"
+      ]
+    },
+    {
+      "tag": "doing immersed",
+      "frequency": 1,
+      "avg_score": 0.3884,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3884,
+      "video_ids": [
+        "7564153038626196749"
+      ]
+    },
+    {
+      "tag": "want people life",
+      "frequency": 1,
+      "avg_score": 0.3799,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3799,
+      "video_ids": [
+        "7564400957002501431"
+      ]
+    },
+    {
+      "tag": "friends lucky conversations",
+      "frequency": 1,
+      "avg_score": 0.3748,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3748,
+      "video_ids": [
+        "7564400957002501431"
+      ]
+    },
+    {
+      "tag": "comment videos really",
+      "frequency": 1,
+      "avg_score": 0.3713,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3713,
+      "video_ids": [
+        "7564400957002501431"
+      ]
+    },
+    {
+      "tag": "conversations meaningful memories",
+      "frequency": 1,
+      "avg_score": 0.3629,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3629,
+      "video_ids": [
+        "7564400957002501431"
+      ]
+    },
+    {
+      "tag": "conversation like deep",
+      "frequency": 1,
+      "avg_score": 0.3533,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3533,
+      "video_ids": [
+        "7564400957002501431"
+      ]
+    },
+    {
+      "tag": "make video really",
+      "frequency": 1,
+      "avg_score": 0.348,
+      "engagement_weight": 1.0,
+      "combined_score": 0.348,
+      "video_ids": [
+        "7564400957002501431"
+      ]
+    },
+    {
+      "tag": "deeply feeling",
+      "frequency": 1,
+      "avg_score": 0.3396,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3396,
+      "video_ids": [
+        "7564400957002501431"
+      ]
+    },
+    {
+      "tag": "comment emotional think",
+      "frequency": 1,
+      "avg_score": 0.3308,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3308,
+      "video_ids": [
+        "7564400957002501431"
+      ]
+    }
+  ]
+}

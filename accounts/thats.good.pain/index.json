@@ -1,0 +1,64 @@
+{
+  "account": "thats.good.pain",
+  "created_at": "2025-10-22T18:47:44.038402",
+  "last_updated": "2025-10-22T18:49:37.964593",
+  "processed_videos": {
+    "7564034770506747150": {
+      "video_id": "7564034770506747150",
+      "title": "Men Don't Follow Titles-They Follow Courage #williamwallace #masculin...",
+      "processed_at": "2025-10-22T18:48:18.454534",
+      "success": true,
+      "transcript_file": "7564034770506747150_transcript.txt",
+      "transcription_length": 6709,
+      "duration": 380,
+      "url": "https://www.tiktok.com/@thats.good.pain/video/7564034770506747150"
+    },
+    "7564020230029135159": {
+      "video_id": "7564020230029135159",
+      "title": "Men Don't Follow Titles-They Follow Courage #williamwallace #masculin...",
+      "processed_at": "2025-10-22T18:48:41.576472",
+      "success": true,
+      "transcript_file": "7564020230029135159_transcript.txt",
+      "transcription_length": 5046,
+      "duration": 316,
+      "url": "https://www.tiktok.com/@thats.good.pain/video/7564020230029135159"
+    },
+    "7563659317203733815": {
+      "video_id": "7563659317203733815",
+      "title": "4 Words Women Say Before They Play You (And Exactly What To Do) #fema...",
+      "processed_at": "2025-10-22T18:48:58.696434",
+      "success": true,
+      "transcript_file": "7563659317203733815_transcript.txt",
+      "transcription_length": 3181,
+      "duration": 290,
+      "url": "https://www.tiktok.com/@thats.good.pain/video/7563659317203733815"
+    },
+    "7563647976346815757": {
+      "video_id": "7563647976346815757",
+      "title": "4 Words Women Say Before They Play You (And Exactly What To Do) #fema...",
+      "processed_at": "2025-10-22T18:49:21.373242",
+      "success": true,
+      "transcript_file": "7563647976346815757_transcript.txt",
+      "transcription_length": 4201,
+      "duration": 365,
+      "url": "https://www.tiktok.com/@thats.good.pain/video/7563647976346815757"
+    },
+    "7560316103818366221": {
+      "video_id": "7560316103818366221",
+      "title": "5 Signs She Never Really Loved You - MUST WATCH (Female Psychology) #...",
+      "processed_at": "2025-10-22T18:49:37.964078",
+      "success": true,
+      "transcript_file": "7560316103818366221_transcript.txt",
+      "transcription_length": 3315,
+      "duration": 275,
+      "url": "https://www.tiktok.com/@thats.good.pain/video/7560316103818366221"
+    }
+  },
+  "stats": {
+    "total_videos_found": 5,
+    "total_processed": 5,
+    "total_skipped": 0,
+    "total_failed": 0,
+    "last_ingestion_date": "2025-10-22T18:49:37.964586"
+  }
+}

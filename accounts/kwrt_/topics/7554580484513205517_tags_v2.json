@@ -1,0 +1,249 @@
+{
+  "video_id": "7554580484513205517",
+  "username": "kwrt_",
+  "title": "#wisdom #spirituality #growth #life ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "spiritual change",
+      "canonical": "spiritual change",
+      "confidence": 0.797,
+      "score": 0.3727251887321472,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "562668\n==================================================\n\nSpiritual change happens completely spontaneously"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.3727251887321472
+      }
+    },
+    {
+      "tag": "moment",
+      "canonical": "moment",
+      "confidence": 0.667,
+      "score": 0.10746357589960098,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is an in the moment thing"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If you're not aware of the present moment"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If you're not in some way, literally physically capable of having like a distressed enough relax  enough moment to breathe, to actually notice what's "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.10746357589960098
+      }
+    },
+    {
+      "tag": "spirituality",
+      "canonical": "spirituality",
+      "confidence": 0.642,
+      "score": 0.10425513982772827,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7554580484513205517\nTitle: #wisdom #spirituality #growth #life \nTimestamp: 2025-10-22T12:52:36"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "In the only reason we talk about cultivation and spirituality  is because, yeah, you don't have the opportunity to be spontaneous if you're dissociati"
+        },
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And so in this way, spirituality is less about fucking crafting yourself into something"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.10425513982772827
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.595,
+      "score": -0.0009744465351104736,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7554580484513205517\nTitle: #wisdom #spirituality #growth #life \nTimestamp: 2025-10-22T12:52:36"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And this is just a great rule for life"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like, don't be things that you're not, don't force things that you're not, don't cultivate  things in your life that you're not"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": -0.0009744465351104736
+      }
+    },
+    {
+      "tag": "transitionary period",
+      "canonical": "transitionary period",
+      "confidence": 0.553,
+      "score": 0.03206023573875427,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 23,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like, transitionary periods are a great way to realize you're not living life"
+        },
+        {
+          "sentence_index": 24,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Life is not a transitionary period"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.03206023573875427
+      }
+    },
+    {
+      "tag": "meditation",
+      "canonical": "meditation",
+      "confidence": 0.546,
+      "score": 0.07215981185436249,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That's not how it works and that's why Zen Master is constantly say like the best meditation  is no meditation or the best meditation is not trying, y"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07215981185436249
+      }
+    },
+    {
+      "tag": "self - generate thing",
+      "canonical": "self - generate thing",
+      "confidence": 0.529,
+      "score": 0.13465426862239838,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.13465426862239838
+      }
+    },
+    {
+      "tag": "inspiration",
+      "canonical": "inspiration",
+      "confidence": 0.517,
+      "score": 0.03709886223077774,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It happens in your inspiration that it will happen"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.03709886223077774
+      }
+    },
+    {
+      "tag": "spontaneity",
+      "canonical": "spontaneity",
+      "confidence": 0.509,
+      "score": -0.020977593958377838,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 21,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If you're cultivating something, it should bring you excitement and joy in a level  of spontaneity into your life"
+        },
+        {
+          "sentence_index": 27,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If you're doing something you don't like, if you're cultivating something that's  not worth your time, that's what needs the quote-unquote change, but"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": -0.020977593958377838
+      }
+    },
+    {
+      "tag": "belief",
+      "canonical": "belief",
+      "confidence": 0.507,
+      "score": 0.025419160723686218,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It happens now and it happens in your belief that it will happen"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.025419160723686218
+      }
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "video_id": "7526276322830699831",
+  "username": "kwrt_",
+  "title": "kortemplations 8 is out on all platforms \ud83d\ude04 #identity #ego #happiness ...",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "craving",
+      "canonical": "craving",
+      "confidence": 0.803,
+      "score": 0.2976771891117096,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And those cravings and a versions lay the foundation for all of your behavior"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It doesn't matter how you deal with those cravings and a versions"
+        },
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You wouldn't come up with all these creative methods to deal with your craving  for, I don't know, attention or your version of shame"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.2976771891117096
+      }
+    },
+    {
+      "tag": "attachment",
+      "canonical": "attachment",
+      "confidence": 0.76,
+      "score": 0.19649718701839447,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You choose your attachments"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But foundationally, the reason that you are the way you are  is because of your attachments, because of your preferences for reality"
+        },
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But the trueest essence of your identity is rooted in those  attachments"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.19649718701839447
+      }
+    },
+    {
+      "tag": "identity",
+      "canonical": "identity",
+      "confidence": 0.745,
+      "score": 0.1789809614419937,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7526276322830699831\nTitle: kortemplations 8 is out on all platforms \ud83d\ude04 #identity #ego #happiness"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "594825\n==================================================\n\nYou do not create your identity"
+        },
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But the trueest essence of your identity is rooted in those  attachments"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.1789809614419937
+      }
+    },
+    {
+      "tag": "self",
+      "canonical": "self",
+      "confidence": 0.703,
+      "score": 0.12824071943759918,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is why the self is not real"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "In this way, life is not about creating  yourself"
+        },
+        {
+          "sentence_index": 21,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's about unlearning yourself"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.12824071943759918
+      }
+    },
+    {
+      "tag": "kortemplation",
+      "canonical": "kortemplation",
+      "confidence": 0.608,
+      "score": 0.1461477279663086,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7526276322830699831\nTitle: kortemplations 8 is out on all platforms \ud83d\ude04 #identity #ego #happiness"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1461477279663086
+      }
+    },
+    {
+      "tag": "passion",
+      "canonical": "passion",
+      "confidence": 0.606,
+      "score": 0.09494243562221527,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 26,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That creative energy, your spirit, your joy, your passion"
+        },
+        {
+          "sentence_index": 62,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Have compassion and love for yourself"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.09494243562221527
+      }
+    },
+    {
+      "tag": "creative energy",
+      "canonical": "creative energy",
+      "confidence": 0.585,
+      "score": 0.11895310878753662,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 26,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That creative energy, your spirit, your joy, your passion"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.11895310878753662
+      }
+    },
+    {
+      "tag": "moment",
+      "canonical": "moment",
+      "confidence": 0.574,
+      "score": 0.05752996355295181,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 38,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you play,  are you thinking I need this or I need that or are you in the moment? Are you with the universe  and flow? Do so many things participa"
+        },
+        {
+          "sentence_index": 39,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Just to forget ourselves for a moment"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.05752996355295181
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.574,
+      "score": 0.021879196166992188,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "In this way, life is not about creating  yourself"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's not about letting life create you"
+        },
+        {
+          "sentence_index": 56,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "How you're wanting  for things is the bad part of life, not the pain, not the shame, not the embarrassment or the  lack of attention or the innocence"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.021879196166992188
+      }
+    },
+    {
+      "tag": "ignorance",
+      "canonical": "ignorance",
+      "confidence": 0.545,
+      "score": 0.07030734419822693,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 58,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is you doing your best to figure reality out with your ignorance"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07030734419822693
+      }
+    }
+  ]
+}

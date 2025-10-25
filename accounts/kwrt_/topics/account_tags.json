@@ -1,0 +1,4306 @@
+{
+  "total_tags": 429,
+  "total_videos": 45,
+  "tags": [
+    {
+      "tag": "thank watching video",
+      "frequency": 2,
+      "avg_score": 0.5699000000000001,
+      "engagement_weight": 1.0,
+      "combined_score": 1.1398000000000001,
+      "video_ids": [
+        "7552739292049607949",
+        "7531842643249089847"
+      ]
+    },
+    {
+      "tag": "lack self",
+      "frequency": 2,
+      "avg_score": 0.5346500000000001,
+      "engagement_weight": 1.0,
+      "combined_score": 1.0693000000000001,
+      "video_ids": [
+        "7527458041403362574",
+        "7523049487636401422"
+      ]
+    },
+    {
+      "tag": "meditation isn",
+      "frequency": 2,
+      "avg_score": 0.49355000000000004,
+      "engagement_weight": 1.0,
+      "combined_score": 0.9871000000000001,
+      "video_ids": [
+        "7521656942910065933",
+        "7520323029956709645"
+      ]
+    },
+    {
+      "tag": "video",
+      "frequency": 3,
+      "avg_score": 0.32039999999999996,
+      "engagement_weight": 1.0,
+      "combined_score": 0.9611999999999998,
+      "video_ids": [
+        "7552739292049607949",
+        "7531842643249089847",
+        "7526059683250031927"
+      ]
+    },
+    {
+      "tag": "thank watching",
+      "frequency": 2,
+      "avg_score": 0.47895,
+      "engagement_weight": 1.0,
+      "combined_score": 0.9579,
+      "video_ids": [
+        "7552739292049607949",
+        "7531842643249089847"
+      ]
+    },
+    {
+      "tag": "self",
+      "frequency": 2,
+      "avg_score": 0.39645,
+      "engagement_weight": 1.0,
+      "combined_score": 0.7929,
+      "video_ids": [
+        "7527454165635763469",
+        "7526276322830699831"
+      ]
+    },
+    {
+      "tag": "watching video",
+      "frequency": 2,
+      "avg_score": 0.39595,
+      "engagement_weight": 1.0,
+      "combined_score": 0.7919,
+      "video_ids": [
+        "7552739292049607949",
+        "7531842643249089847"
+      ]
+    },
+    {
+      "tag": "understanding enlightenment",
+      "frequency": 1,
+      "avg_score": 0.643,
+      "engagement_weight": 1.0,
+      "combined_score": 0.643,
+      "video_ids": [
+        "7530318451114659127"
+      ]
+    },
+    {
+      "tag": "meditate just noisy",
+      "frequency": 1,
+      "avg_score": 0.633,
+      "engagement_weight": 1.0,
+      "combined_score": 0.633,
+      "video_ids": [
+        "7522920358098308365"
+      ]
+    },
+    {
+      "tag": "things apparent meditate",
+      "frequency": 1,
+      "avg_score": 0.6256,
+      "engagement_weight": 1.0,
+      "combined_score": 0.6256,
+      "video_ids": [
+        "7522920358098308365"
+      ]
+    },
+    {
+      "tag": "capitalism exacerbated america",
+      "frequency": 1,
+      "avg_score": 0.6229,
+      "engagement_weight": 1.0,
+      "combined_score": 0.6229,
+      "video_ids": [
+        "7535944128375360781"
+      ]
+    },
+    {
+      "tag": "redefine masculinity femininity",
+      "frequency": 1,
+      "avg_score": 0.6185,
+      "engagement_weight": 1.0,
+      "combined_score": 0.6185,
+      "video_ids": [
+        "7533342350630718733"
+      ]
+    },
+    {
+      "tag": "bring job meditation",
+      "frequency": 1,
+      "avg_score": 0.6171,
+      "engagement_weight": 1.0,
+      "combined_score": 0.6171,
+      "video_ids": [
+        "7521656942910065933"
+      ]
+    },
+    {
+      "tag": "watch video rage",
+      "frequency": 1,
+      "avg_score": 0.616,
+      "engagement_weight": 1.0,
+      "combined_score": 0.616,
+      "video_ids": [
+        "7526059683250031927"
+      ]
+    },
+    {
+      "tag": "masculinity make argument",
+      "frequency": 1,
+      "avg_score": 0.6123,
+      "engagement_weight": 1.0,
+      "combined_score": 0.6123,
+      "video_ids": [
+        "7533342350630718733"
+      ]
+    },
+    {
+      "tag": "convince people exploited",
+      "frequency": 1,
+      "avg_score": 0.6039,
+      "engagement_weight": 1.0,
+      "combined_score": 0.6039,
+      "video_ids": [
+        "7541546593024085262"
+      ]
+    },
+    {
+      "tag": "meditation exactly minute",
+      "frequency": 1,
+      "avg_score": 0.6029,
+      "engagement_weight": 1.0,
+      "combined_score": 0.6029,
+      "video_ids": [
+        "7520323029956709645"
+      ]
+    },
+    {
+      "tag": "discipline hating point",
+      "frequency": 1,
+      "avg_score": 0.5996,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5996,
+      "video_ids": [
+        "7524436014618643726"
+      ]
+    },
+    {
+      "tag": "mastering oneself quick",
+      "frequency": 1,
+      "avg_score": 0.598,
+      "engagement_weight": 1.0,
+      "combined_score": 0.598,
+      "video_ids": [
+        "7552248342441479438"
+      ]
+    },
+    {
+      "tag": "people understanding enlightenment",
+      "frequency": 1,
+      "avg_score": 0.5979,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5979,
+      "video_ids": [
+        "7530318451114659127"
+      ]
+    },
+    {
+      "tag": "meditating bringing breath",
+      "frequency": 1,
+      "avg_score": 0.5956,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5956,
+      "video_ids": [
+        "7520767568085323021"
+      ]
+    },
+    {
+      "tag": "enlightenment",
+      "frequency": 1,
+      "avg_score": 0.5926,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5926,
+      "video_ids": [
+        "7530318451114659127"
+      ]
+    },
+    {
+      "tag": "rage light night",
+      "frequency": 1,
+      "avg_score": 0.5904,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5904,
+      "video_ids": [
+        "7526059683250031927"
+      ]
+    },
+    {
+      "tag": "masculinity giving critical",
+      "frequency": 1,
+      "avg_score": 0.5895,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5895,
+      "video_ids": [
+        "7533342350630718733"
+      ]
+    },
+    {
+      "tag": "curiosity right belief",
+      "frequency": 1,
+      "avg_score": 0.5886,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5886,
+      "video_ids": [
+        "7554449964382965047"
+      ]
+    },
+    {
+      "tag": "life truly classism",
+      "frequency": 1,
+      "avg_score": 0.5853,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5853,
+      "video_ids": [
+        "7537842409489632526"
+      ]
+    },
+    {
+      "tag": "thank",
+      "frequency": 2,
+      "avg_score": 0.2902,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5804,
+      "video_ids": [
+        "7552739292049607949",
+        "7531842643249089847"
+      ]
+    },
+    {
+      "tag": "lack self esteem",
+      "frequency": 1,
+      "avg_score": 0.5783,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5783,
+      "video_ids": [
+        "7527458041403362574"
+      ]
+    },
+    {
+      "tag": "capitalism surrounded nature",
+      "frequency": 1,
+      "avg_score": 0.5739,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5739,
+      "video_ids": [
+        "7535944128375360781"
+      ]
+    },
+    {
+      "tag": "capitalism just byproduct",
+      "frequency": 1,
+      "avg_score": 0.5735,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5735,
+      "video_ids": [
+        "7535944128375360781"
+      ]
+    },
+    {
+      "tag": "apparent symptoms capitalism",
+      "frequency": 1,
+      "avg_score": 0.5724,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5724,
+      "video_ids": [
+        "7535944128375360781"
+      ]
+    },
+    {
+      "tag": "questioning philosophy inherently",
+      "frequency": 1,
+      "avg_score": 0.5715,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5715,
+      "video_ids": [
+        "7557947251092409613"
+      ]
+    },
+    {
+      "tag": "spiritual change",
+      "frequency": 1,
+      "avg_score": 0.571,
+      "engagement_weight": 1.0,
+      "combined_score": 0.571,
+      "video_ids": [
+        "7554580484513205517"
+      ]
+    },
+    {
+      "tag": "normal point meditation",
+      "frequency": 1,
+      "avg_score": 0.5681,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5681,
+      "video_ids": [
+        "7520411395536506126"
+      ]
+    },
+    {
+      "tag": "hatred hatred meaning",
+      "frequency": 1,
+      "avg_score": 0.5673,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5673,
+      "video_ids": [
+        "7539677568996281614"
+      ]
+    },
+    {
+      "tag": "propaganda machine capitalism",
+      "frequency": 1,
+      "avg_score": 0.5672,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5672,
+      "video_ids": [
+        "7537842409489632526"
+      ]
+    },
+    {
+      "tag": "talking masculinity",
+      "frequency": 1,
+      "avg_score": 0.5671,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5671,
+      "video_ids": [
+        "7533342350630718733"
+      ]
+    },
+    {
+      "tag": "interested meditation just",
+      "frequency": 1,
+      "avg_score": 0.5668,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5668,
+      "video_ids": [
+        "7520411395536506126"
+      ]
+    },
+    {
+      "tag": "normal meditation mind",
+      "frequency": 1,
+      "avg_score": 0.5662,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5662,
+      "video_ids": [
+        "7520323029956709645"
+      ]
+    },
+    {
+      "tag": "understand paper ai",
+      "frequency": 1,
+      "avg_score": 0.5649,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5649,
+      "video_ids": [
+        "7525239594711878967"
+      ]
+    },
+    {
+      "tag": "hatred meaning",
+      "frequency": 1,
+      "avg_score": 0.5618,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5618,
+      "video_ids": [
+        "7539677568996281614"
+      ]
+    },
+    {
+      "tag": "blah like capitalism",
+      "frequency": 1,
+      "avg_score": 0.5594,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5594,
+      "video_ids": [
+        "7535944128375360781"
+      ]
+    },
+    {
+      "tag": "tell everybody greed",
+      "frequency": 1,
+      "avg_score": 0.5571,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5571,
+      "video_ids": [
+        "7537842409489632526"
+      ]
+    },
+    {
+      "tag": "idea masculinity real",
+      "frequency": 1,
+      "avg_score": 0.5554,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5554,
+      "video_ids": [
+        "7533342350630718733"
+      ]
+    },
+    {
+      "tag": "misrepresentate buddhism spirituality",
+      "frequency": 1,
+      "avg_score": 0.5552,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5552,
+      "video_ids": [
+        "7530318451114659127"
+      ]
+    },
+    {
+      "tag": "day meditating",
+      "frequency": 1,
+      "avg_score": 0.554,
+      "engagement_weight": 1.0,
+      "combined_score": 0.554,
+      "video_ids": [
+        "7520767568085323021"
+      ]
+    },
+    {
+      "tag": "making incapable doing",
+      "frequency": 1,
+      "avg_score": 0.5532,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5532,
+      "video_ids": [
+        "7527458041403362574"
+      ]
+    },
+    {
+      "tag": "capitalism fundamentally anti",
+      "frequency": 1,
+      "avg_score": 0.5531,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5531,
+      "video_ids": [
+        "7537842409489632526"
+      ]
+    },
+    {
+      "tag": "fucking despised dead",
+      "frequency": 1,
+      "avg_score": 0.5528,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5528,
+      "video_ids": [
+        "7526059683250031927"
+      ]
+    },
+    {
+      "tag": "spirituality experience",
+      "frequency": 1,
+      "avg_score": 0.5519,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5519,
+      "video_ids": [
+        "7530318451114659127"
+      ]
+    },
+    {
+      "tag": "sense meaninglessness lives",
+      "frequency": 1,
+      "avg_score": 0.5504,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5504,
+      "video_ids": [
+        "7557947251092409613"
+      ]
+    },
+    {
+      "tag": "help going philosophy",
+      "frequency": 1,
+      "avg_score": 0.5485,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5485,
+      "video_ids": [
+        "7557947251092409613"
+      ]
+    },
+    {
+      "tag": "intuitive understanding buddhism",
+      "frequency": 1,
+      "avg_score": 0.5485,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5485,
+      "video_ids": [
+        "7530318451114659127"
+      ]
+    },
+    {
+      "tag": "believe masculinity define",
+      "frequency": 1,
+      "avg_score": 0.5484,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5484,
+      "video_ids": [
+        "7533342350630718733"
+      ]
+    },
+    {
+      "tag": "repackage masculinity",
+      "frequency": 1,
+      "avg_score": 0.5473,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5473,
+      "video_ids": [
+        "7533342350630718733"
+      ]
+    },
+    {
+      "tag": "greed human",
+      "frequency": 1,
+      "avg_score": 0.5459,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5459,
+      "video_ids": [
+        "7537842409489632526"
+      ]
+    },
+    {
+      "tag": "loneliness lack love",
+      "frequency": 1,
+      "avg_score": 0.5445,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5445,
+      "video_ids": [
+        "7520122784752700686"
+      ]
+    },
+    {
+      "tag": "ugliness capitalism just",
+      "frequency": 1,
+      "avg_score": 0.544,
+      "engagement_weight": 1.0,
+      "combined_score": 0.544,
+      "video_ids": [
+        "7535944128375360781"
+      ]
+    },
+    {
+      "tag": "things experiences beliefs",
+      "frequency": 1,
+      "avg_score": 0.5437,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5437,
+      "video_ids": [
+        "7554449964382965047"
+      ]
+    },
+    {
+      "tag": "universe ego",
+      "frequency": 1,
+      "avg_score": 0.5437,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5437,
+      "video_ids": [
+        "7535948734648110350"
+      ]
+    },
+    {
+      "tag": "meditation isn achieving",
+      "frequency": 1,
+      "avg_score": 0.5428,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5428,
+      "video_ids": [
+        "7520323029956709645"
+      ]
+    },
+    {
+      "tag": "point meditation",
+      "frequency": 1,
+      "avg_score": 0.5419,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5419,
+      "video_ids": [
+        "7520411395536506126"
+      ]
+    },
+    {
+      "tag": "watching",
+      "frequency": 2,
+      "avg_score": 0.2701,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5402,
+      "video_ids": [
+        "7552739292049607949",
+        "7531842643249089847"
+      ]
+    },
+    {
+      "tag": "meditate",
+      "frequency": 1,
+      "avg_score": 0.5399,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5399,
+      "video_ids": [
+        "7522920358098308365"
+      ]
+    },
+    {
+      "tag": "capitalism homogenization",
+      "frequency": 1,
+      "avg_score": 0.5395,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5395,
+      "video_ids": [
+        "7541546593024085262"
+      ]
+    },
+    {
+      "tag": "clarity going come",
+      "frequency": 1,
+      "avg_score": 0.5389,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5389,
+      "video_ids": [
+        "7531829927667059981"
+      ]
+    },
+    {
+      "tag": "zen master constantly",
+      "frequency": 1,
+      "avg_score": 0.5383,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5383,
+      "video_ids": [
+        "7554580484513205517"
+      ]
+    },
+    {
+      "tag": "meaning life",
+      "frequency": 1,
+      "avg_score": 0.5382,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5382,
+      "video_ids": [
+        "7557947251092409613"
+      ]
+    },
+    {
+      "tag": "say believe masculinity",
+      "frequency": 1,
+      "avg_score": 0.538,
+      "engagement_weight": 1.0,
+      "combined_score": 0.538,
+      "video_ids": [
+        "7533342350630718733"
+      ]
+    },
+    {
+      "tag": "spirituality spirituality assimilated",
+      "frequency": 1,
+      "avg_score": 0.5374,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5374,
+      "video_ids": [
+        "7535681487547403533"
+      ]
+    },
+    {
+      "tag": "masculinity femininity",
+      "frequency": 1,
+      "avg_score": 0.5373,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5373,
+      "video_ids": [
+        "7533342350630718733"
+      ]
+    },
+    {
+      "tag": "spirituality real",
+      "frequency": 1,
+      "avg_score": 0.536,
+      "engagement_weight": 1.0,
+      "combined_score": 0.536,
+      "video_ids": [
+        "7530318451114659127"
+      ]
+    },
+    {
+      "tag": "masculinity means",
+      "frequency": 1,
+      "avg_score": 0.5351,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5351,
+      "video_ids": [
+        "7533342350630718733"
+      ]
+    },
+    {
+      "tag": "say ugliness capitalism",
+      "frequency": 1,
+      "avg_score": 0.535,
+      "engagement_weight": 1.0,
+      "combined_score": 0.535,
+      "video_ids": [
+        "7535944128375360781"
+      ]
+    },
+    {
+      "tag": "day meditating hour",
+      "frequency": 1,
+      "avg_score": 0.5342,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5342,
+      "video_ids": [
+        "7520411395536506126"
+      ]
+    },
+    {
+      "tag": "make imposter syndrome",
+      "frequency": 1,
+      "avg_score": 0.5338,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5338,
+      "video_ids": [
+        "7523049487636401422"
+      ]
+    },
+    {
+      "tag": "meaning life asking",
+      "frequency": 1,
+      "avg_score": 0.5335,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5335,
+      "video_ids": [
+        "7557947251092409613"
+      ]
+    },
+    {
+      "tag": "time meditating focused",
+      "frequency": 1,
+      "avg_score": 0.5331,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5331,
+      "video_ids": [
+        "7520767568085323021"
+      ]
+    },
+    {
+      "tag": "understanding buddhism know",
+      "frequency": 1,
+      "avg_score": 0.5324,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5324,
+      "video_ids": [
+        "7530318451114659127"
+      ]
+    },
+    {
+      "tag": "ugliness capitalism",
+      "frequency": 1,
+      "avg_score": 0.5309,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5309,
+      "video_ids": [
+        "7535944128375360781"
+      ]
+    },
+    {
+      "tag": "right belief belief",
+      "frequency": 1,
+      "avg_score": 0.5304,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5304,
+      "video_ids": [
+        "7554449964382965047"
+      ]
+    },
+    {
+      "tag": "feelings inadequacy loneliness",
+      "frequency": 1,
+      "avg_score": 0.5302,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5302,
+      "video_ids": [
+        "7520122784752700686"
+      ]
+    },
+    {
+      "tag": "universe universe ego",
+      "frequency": 1,
+      "avg_score": 0.5298,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5298,
+      "video_ids": [
+        "7535948734648110350"
+      ]
+    },
+    {
+      "tag": "capitalism homogenization responsibility",
+      "frequency": 1,
+      "avg_score": 0.529,
+      "engagement_weight": 1.0,
+      "combined_score": 0.529,
+      "video_ids": [
+        "7541546593024085262"
+      ]
+    },
+    {
+      "tag": "people exploited",
+      "frequency": 1,
+      "avg_score": 0.529,
+      "engagement_weight": 1.0,
+      "combined_score": 0.529,
+      "video_ids": [
+        "7541546593024085262"
+      ]
+    },
+    {
+      "tag": "depression",
+      "frequency": 1,
+      "avg_score": 0.5288,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5288,
+      "video_ids": [
+        "7531829927667059981"
+      ]
+    },
+    {
+      "tag": "spirituality victor",
+      "frequency": 1,
+      "avg_score": 0.5276,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5276,
+      "video_ids": [
+        "7530318451114659127"
+      ]
+    },
+    {
+      "tag": "everybody greed human",
+      "frequency": 1,
+      "avg_score": 0.5266,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5266,
+      "video_ids": [
+        "7537842409489632526"
+      ]
+    },
+    {
+      "tag": "think capitalism exacerbated",
+      "frequency": 1,
+      "avg_score": 0.5244,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5244,
+      "video_ids": [
+        "7535944128375360781"
+      ]
+    },
+    {
+      "tag": "meditating bringing",
+      "frequency": 1,
+      "avg_score": 0.5238,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5238,
+      "video_ids": [
+        "7520767568085323021"
+      ]
+    },
+    {
+      "tag": "just inadequacy self",
+      "frequency": 1,
+      "avg_score": 0.5234,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5234,
+      "video_ids": [
+        "7523049487636401422"
+      ]
+    },
+    {
+      "tag": "experience think capitalism",
+      "frequency": 1,
+      "avg_score": 0.523,
+      "engagement_weight": 1.0,
+      "combined_score": 0.523,
+      "video_ids": [
+        "7535944128375360781"
+      ]
+    },
+    {
+      "tag": "capitalism harder communicate",
+      "frequency": 1,
+      "avg_score": 0.5221,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5221,
+      "video_ids": [
+        "7541546593024085262"
+      ]
+    },
+    {
+      "tag": "attachment freedom literally",
+      "frequency": 1,
+      "avg_score": 0.5216,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5216,
+      "video_ids": [
+        "7532188850555342094"
+      ]
+    },
+    {
+      "tag": "belief safe experiences",
+      "frequency": 1,
+      "avg_score": 0.5205,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5205,
+      "video_ids": [
+        "7554449964382965047"
+      ]
+    },
+    {
+      "tag": "ruining education education",
+      "frequency": 1,
+      "avg_score": 0.5204,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5204,
+      "video_ids": [
+        "7525239594711878967"
+      ]
+    },
+    {
+      "tag": "solitude loneliness loneliness",
+      "frequency": 1,
+      "avg_score": 0.5203,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5203,
+      "video_ids": [
+        "7520122784752700686"
+      ]
+    },
+    {
+      "tag": "belief outside world",
+      "frequency": 1,
+      "avg_score": 0.5199,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5199,
+      "video_ids": [
+        "7554449964382965047"
+      ]
+    },
+    {
+      "tag": "meditation enter perfect",
+      "frequency": 1,
+      "avg_score": 0.5199,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5199,
+      "video_ids": [
+        "7520411395536506126"
+      ]
+    },
+    {
+      "tag": "livelihood evil capitalism",
+      "frequency": 1,
+      "avg_score": 0.5192,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5192,
+      "video_ids": [
+        "7541546593024085262"
+      ]
+    },
+    {
+      "tag": "classism does need",
+      "frequency": 1,
+      "avg_score": 0.5191,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5191,
+      "video_ids": [
+        "7537842409489632526"
+      ]
+    },
+    {
+      "tag": "going teach meditation",
+      "frequency": 1,
+      "avg_score": 0.5191,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5191,
+      "video_ids": [
+        "7520323029956709645"
+      ]
+    },
+    {
+      "tag": "difference ego identity",
+      "frequency": 1,
+      "avg_score": 0.5183,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5183,
+      "video_ids": [
+        "7535948734648110350"
+      ]
+    },
+    {
+      "tag": "ego essence",
+      "frequency": 1,
+      "avg_score": 0.5176,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5176,
+      "video_ids": [
+        "7535948734648110350"
+      ]
+    },
+    {
+      "tag": "truly classism",
+      "frequency": 1,
+      "avg_score": 0.5162,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5162,
+      "video_ids": [
+        "7537842409489632526"
+      ]
+    },
+    {
+      "tag": "hope enjoyed",
+      "frequency": 1,
+      "avg_score": 0.5153,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5153,
+      "video_ids": [
+        "7531842643249089847"
+      ]
+    },
+    {
+      "tag": "entire time meditating",
+      "frequency": 1,
+      "avg_score": 0.515,
+      "engagement_weight": 1.0,
+      "combined_score": 0.515,
+      "video_ids": [
+        "7520767568085323021"
+      ]
+    },
+    {
+      "tag": "life belief outside",
+      "frequency": 1,
+      "avg_score": 0.5148,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5148,
+      "video_ids": [
+        "7554449964382965047"
+      ]
+    },
+    {
+      "tag": "history capitalism epitome",
+      "frequency": 1,
+      "avg_score": 0.5141,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5141,
+      "video_ids": [
+        "7537842409489632526"
+      ]
+    },
+    {
+      "tag": "overcoming having self",
+      "frequency": 1,
+      "avg_score": 0.5131,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5131,
+      "video_ids": [
+        "7523049487636401422"
+      ]
+    },
+    {
+      "tag": "teach meditation exactly",
+      "frequency": 1,
+      "avg_score": 0.5131,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5131,
+      "video_ids": [
+        "7520323029956709645"
+      ]
+    },
+    {
+      "tag": "philosophy going answers",
+      "frequency": 1,
+      "avg_score": 0.5124,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5124,
+      "video_ids": [
+        "7557947251092409613"
+      ]
+    },
+    {
+      "tag": "paper ai summary",
+      "frequency": 1,
+      "avg_score": 0.5124,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5124,
+      "video_ids": [
+        "7525239594711878967"
+      ]
+    },
+    {
+      "tag": "feel meaningless",
+      "frequency": 1,
+      "avg_score": 0.5123,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5123,
+      "video_ids": [
+        "7557947251092409613"
+      ]
+    },
+    {
+      "tag": "self esteem",
+      "frequency": 1,
+      "avg_score": 0.512,
+      "engagement_weight": 1.0,
+      "combined_score": 0.512,
+      "video_ids": [
+        "7527458041403362574"
+      ]
+    },
+    {
+      "tag": "attachment freedom",
+      "frequency": 1,
+      "avg_score": 0.5112,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5112,
+      "video_ids": [
+        "7532188850555342094"
+      ]
+    },
+    {
+      "tag": "meditation feel like",
+      "frequency": 1,
+      "avg_score": 0.5107,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5107,
+      "video_ids": [
+        "7520767568085323021"
+      ]
+    },
+    {
+      "tag": "spirituality spirituality",
+      "frequency": 1,
+      "avg_score": 0.5103,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5103,
+      "video_ids": [
+        "7535681487547403533"
+      ]
+    },
+    {
+      "tag": "spirituality believe",
+      "frequency": 1,
+      "avg_score": 0.5095,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5095,
+      "video_ids": [
+        "7530318451114659127"
+      ]
+    },
+    {
+      "tag": "trust belief",
+      "frequency": 1,
+      "avg_score": 0.5087,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5087,
+      "video_ids": [
+        "7554449964382965047"
+      ]
+    },
+    {
+      "tag": "philosophy use",
+      "frequency": 1,
+      "avg_score": 0.5085,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5085,
+      "video_ids": [
+        "7557947251092409613"
+      ]
+    },
+    {
+      "tag": "ego personality fundamental",
+      "frequency": 1,
+      "avg_score": 0.5085,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5085,
+      "video_ids": [
+        "7535948734648110350"
+      ]
+    },
+    {
+      "tag": "philosophy doesn work",
+      "frequency": 1,
+      "avg_score": 0.5084,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5084,
+      "video_ids": [
+        "7557947251092409613"
+      ]
+    },
+    {
+      "tag": "meditation feel",
+      "frequency": 1,
+      "avg_score": 0.5083,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5083,
+      "video_ids": [
+        "7520767568085323021"
+      ]
+    },
+    {
+      "tag": "like nostalgia right",
+      "frequency": 1,
+      "avg_score": 0.508,
+      "engagement_weight": 1.0,
+      "combined_score": 0.508,
+      "video_ids": [
+        "7529372935006522638"
+      ]
+    },
+    {
+      "tag": "ruining education",
+      "frequency": 1,
+      "avg_score": 0.5074,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5074,
+      "video_ids": [
+        "7525239594711878967"
+      ]
+    },
+    {
+      "tag": "makes evils capitalism",
+      "frequency": 1,
+      "avg_score": 0.5066,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5066,
+      "video_ids": [
+        "7541546593024085262"
+      ]
+    },
+    {
+      "tag": "experience belief precise",
+      "frequency": 1,
+      "avg_score": 0.5063,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5063,
+      "video_ids": [
+        "7554449964382965047"
+      ]
+    },
+    {
+      "tag": "misunderstanding reality self",
+      "frequency": 1,
+      "avg_score": 0.5062,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5062,
+      "video_ids": [
+        "7532737291828071693"
+      ]
+    },
+    {
+      "tag": "ego distinctly confirmation",
+      "frequency": 1,
+      "avg_score": 0.5059,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5059,
+      "video_ids": [
+        "7535948734648110350"
+      ]
+    },
+    {
+      "tag": "need belief",
+      "frequency": 1,
+      "avg_score": 0.5058,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5058,
+      "video_ids": [
+        "7554449964382965047"
+      ]
+    },
+    {
+      "tag": "quantum physics reliant",
+      "frequency": 1,
+      "avg_score": 0.5035,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5035,
+      "video_ids": [
+        "7537485498542034189"
+      ]
+    },
+    {
+      "tag": "don feel meaningless",
+      "frequency": 1,
+      "avg_score": 0.5033,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5033,
+      "video_ids": [
+        "7557947251092409613"
+      ]
+    },
+    {
+      "tag": "thinking incapable literally",
+      "frequency": 1,
+      "avg_score": 0.5033,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5033,
+      "video_ids": [
+        "7527458041403362574"
+      ]
+    },
+    {
+      "tag": "meditating hour single",
+      "frequency": 1,
+      "avg_score": 0.5031,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5031,
+      "video_ids": [
+        "7520411395536506126"
+      ]
+    },
+    {
+      "tag": "open experience belief",
+      "frequency": 1,
+      "avg_score": 0.5028,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5028,
+      "video_ids": [
+        "7554449964382965047"
+      ]
+    },
+    {
+      "tag": "outcomes meditating",
+      "frequency": 1,
+      "avg_score": 0.5027,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5027,
+      "video_ids": [
+        "7520767568085323021"
+      ]
+    },
+    {
+      "tag": "solitude loneliness",
+      "frequency": 1,
+      "avg_score": 0.5013,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5013,
+      "video_ids": [
+        "7520122784752700686"
+      ]
+    },
+    {
+      "tag": "problem confident good",
+      "frequency": 1,
+      "avg_score": 0.5006,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5006,
+      "video_ids": [
+        "7527458041403362574"
+      ]
+    },
+    {
+      "tag": "outcomes meditating bringing",
+      "frequency": 1,
+      "avg_score": 0.5006,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5006,
+      "video_ids": [
+        "7520767568085323021"
+      ]
+    },
+    {
+      "tag": "life ego",
+      "frequency": 1,
+      "avg_score": 0.5002,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5002,
+      "video_ids": [
+        "7535948734648110350"
+      ]
+    },
+    {
+      "tag": "capitalism epitome egoic",
+      "frequency": 1,
+      "avg_score": 0.4994,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4994,
+      "video_ids": [
+        "7537842409489632526"
+      ]
+    },
+    {
+      "tag": "essentially think spiritual",
+      "frequency": 1,
+      "avg_score": 0.499,
+      "engagement_weight": 1.0,
+      "combined_score": 0.499,
+      "video_ids": [
+        "7535948734648110350"
+      ]
+    },
+    {
+      "tag": "difference ego",
+      "frequency": 1,
+      "avg_score": 0.4978,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4978,
+      "video_ids": [
+        "7535948734648110350"
+      ]
+    },
+    {
+      "tag": "depression mental illness",
+      "frequency": 1,
+      "avg_score": 0.4972,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4972,
+      "video_ids": [
+        "7531829927667059981"
+      ]
+    },
+    {
+      "tag": "discipline",
+      "frequency": 1,
+      "avg_score": 0.4943,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4943,
+      "video_ids": [
+        "7524436014618643726"
+      ]
+    },
+    {
+      "tag": "things meditation feel",
+      "frequency": 1,
+      "avg_score": 0.493,
+      "engagement_weight": 1.0,
+      "combined_score": 0.493,
+      "video_ids": [
+        "7520767568085323021"
+      ]
+    },
+    {
+      "tag": "end ve meditating",
+      "frequency": 1,
+      "avg_score": 0.4921,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4921,
+      "video_ids": [
+        "7520323029956709645"
+      ]
+    },
+    {
+      "tag": "capitalism harder",
+      "frequency": 1,
+      "avg_score": 0.4916,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4916,
+      "video_ids": [
+        "7541546593024085262"
+      ]
+    },
+    {
+      "tag": "spirituality understanding consciousness",
+      "frequency": 1,
+      "avg_score": 0.4907,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4907,
+      "video_ids": [
+        "7532188850555342094"
+      ]
+    },
+    {
+      "tag": "make quantum",
+      "frequency": 1,
+      "avg_score": 0.4898,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4898,
+      "video_ids": [
+        "7537485498542034189"
+      ]
+    },
+    {
+      "tag": "information read books",
+      "frequency": 1,
+      "avg_score": 0.4893,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4893,
+      "video_ids": [
+        "7532183501328633101"
+      ]
+    },
+    {
+      "tag": "meditation isn state",
+      "frequency": 1,
+      "avg_score": 0.4891,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4891,
+      "video_ids": [
+        "7521656942910065933"
+      ]
+    },
+    {
+      "tag": "wrong god disagrees",
+      "frequency": 1,
+      "avg_score": 0.4876,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4876,
+      "video_ids": [
+        "7524801149480799502"
+      ]
+    },
+    {
+      "tag": "think spiritual",
+      "frequency": 1,
+      "avg_score": 0.4875,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4875,
+      "video_ids": [
+        "7535948734648110350"
+      ]
+    },
+    {
+      "tag": "inadequacy self hatred",
+      "frequency": 1,
+      "avg_score": 0.4873,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4873,
+      "video_ids": [
+        "7523049487636401422"
+      ]
+    },
+    {
+      "tag": "understand like esoteric",
+      "frequency": 1,
+      "avg_score": 0.4872,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4872,
+      "video_ids": [
+        "7534532078554205453"
+      ]
+    },
+    {
+      "tag": "debate change",
+      "frequency": 1,
+      "avg_score": 0.4863,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4863,
+      "video_ids": [
+        "7525976998284479757"
+      ]
+    },
+    {
+      "tag": "paint arthritis know",
+      "frequency": 1,
+      "avg_score": 0.4842,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4842,
+      "video_ids": [
+        "7531901891580628238"
+      ]
+    },
+    {
+      "tag": "information debate",
+      "frequency": 1,
+      "avg_score": 0.4838,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4838,
+      "video_ids": [
+        "7525976998284479757"
+      ]
+    },
+    {
+      "tag": "self esteem let",
+      "frequency": 1,
+      "avg_score": 0.4838,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4838,
+      "video_ids": [
+        "7523049487636401422"
+      ]
+    },
+    {
+      "tag": "state meditation isn",
+      "frequency": 1,
+      "avg_score": 0.4834,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4834,
+      "video_ids": [
+        "7520323029956709645"
+      ]
+    },
+    {
+      "tag": "science aren actually",
+      "frequency": 1,
+      "avg_score": 0.4831,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4831,
+      "video_ids": [
+        "7524801149480799502"
+      ]
+    },
+    {
+      "tag": "capitalism just",
+      "frequency": 1,
+      "avg_score": 0.4827,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4827,
+      "video_ids": [
+        "7541546593024085262"
+      ]
+    },
+    {
+      "tag": "trying self hypnotize",
+      "frequency": 1,
+      "avg_score": 0.4815,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4815,
+      "video_ids": [
+        "7520323029956709645"
+      ]
+    },
+    {
+      "tag": "zen master",
+      "frequency": 1,
+      "avg_score": 0.4813,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4813,
+      "video_ids": [
+        "7554580484513205517"
+      ]
+    },
+    {
+      "tag": "making incapable",
+      "frequency": 1,
+      "avg_score": 0.4803,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4803,
+      "video_ids": [
+        "7527458041403362574"
+      ]
+    },
+    {
+      "tag": "understand science",
+      "frequency": 1,
+      "avg_score": 0.4796,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4796,
+      "video_ids": [
+        "7524801149480799502"
+      ]
+    },
+    {
+      "tag": "confidence makes good",
+      "frequency": 1,
+      "avg_score": 0.4792,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4792,
+      "video_ids": [
+        "7527458041403362574"
+      ]
+    },
+    {
+      "tag": "know imposter syndrome",
+      "frequency": 1,
+      "avg_score": 0.477,
+      "engagement_weight": 1.0,
+      "combined_score": 0.477,
+      "video_ids": [
+        "7523049487636401422"
+      ]
+    },
+    {
+      "tag": "esteem wrong",
+      "frequency": 1,
+      "avg_score": 0.477,
+      "engagement_weight": 1.0,
+      "combined_score": 0.477,
+      "video_ids": [
+        "7523049487636401422"
+      ]
+    },
+    {
+      "tag": "mental illness sadness",
+      "frequency": 1,
+      "avg_score": 0.4747,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4747,
+      "video_ids": [
+        "7531829927667059981"
+      ]
+    },
+    {
+      "tag": "clarity",
+      "frequency": 1,
+      "avg_score": 0.4743,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4743,
+      "video_ids": [
+        "7531829927667059981"
+      ]
+    },
+    {
+      "tag": "avoid things cravings",
+      "frequency": 1,
+      "avg_score": 0.4743,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4743,
+      "video_ids": [
+        "7526276322830699831"
+      ]
+    },
+    {
+      "tag": "rest sitting pain",
+      "frequency": 1,
+      "avg_score": 0.4741,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4741,
+      "video_ids": [
+        "7520411395536506126"
+      ]
+    },
+    {
+      "tag": "enjoyed",
+      "frequency": 1,
+      "avg_score": 0.4738,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4738,
+      "video_ids": [
+        "7531842643249089847"
+      ]
+    },
+    {
+      "tag": "esteem wrong attitude",
+      "frequency": 1,
+      "avg_score": 0.4728,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4728,
+      "video_ids": [
+        "7523049487636401422"
+      ]
+    },
+    {
+      "tag": "fact imposter syndrome",
+      "frequency": 1,
+      "avg_score": 0.4723,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4723,
+      "video_ids": [
+        "7523049487636401422"
+      ]
+    },
+    {
+      "tag": "spontaneous dissociating",
+      "frequency": 1,
+      "avg_score": 0.4712,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4712,
+      "video_ids": [
+        "7554580484513205517"
+      ]
+    },
+    {
+      "tag": "spontaneous dissociating aware",
+      "frequency": 1,
+      "avg_score": 0.4703,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4703,
+      "video_ids": [
+        "7554580484513205517"
+      ]
+    },
+    {
+      "tag": "loneliness ideas loneliness",
+      "frequency": 1,
+      "avg_score": 0.4703,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4703,
+      "video_ids": [
+        "7534532078554205453"
+      ]
+    },
+    {
+      "tag": "identity rooted attachments",
+      "frequency": 1,
+      "avg_score": 0.4683,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4683,
+      "video_ids": [
+        "7526276322830699831"
+      ]
+    },
+    {
+      "tag": "understanding ego",
+      "frequency": 1,
+      "avg_score": 0.4676,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4676,
+      "video_ids": [
+        "7532188850555342094"
+      ]
+    },
+    {
+      "tag": "god believe omniscient",
+      "frequency": 1,
+      "avg_score": 0.4673,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4673,
+      "video_ids": [
+        "7524801149480799502"
+      ]
+    },
+    {
+      "tag": "esteem doubt",
+      "frequency": 1,
+      "avg_score": 0.4664,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4664,
+      "video_ids": [
+        "7527458041403362574"
+      ]
+    },
+    {
+      "tag": "understanding ego allowed",
+      "frequency": 1,
+      "avg_score": 0.4662,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4662,
+      "video_ids": [
+        "7532188850555342094"
+      ]
+    },
+    {
+      "tag": "realizing self realizing",
+      "frequency": 1,
+      "avg_score": 0.466,
+      "engagement_weight": 1.0,
+      "combined_score": 0.466,
+      "video_ids": [
+        "7526276322830699831"
+      ]
+    },
+    {
+      "tag": "like loneliness solitude",
+      "frequency": 1,
+      "avg_score": 0.4654,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4654,
+      "video_ids": [
+        "7520122784752700686"
+      ]
+    },
+    {
+      "tag": "self self",
+      "frequency": 1,
+      "avg_score": 0.4652,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4652,
+      "video_ids": [
+        "7532737291828071693"
+      ]
+    },
+    {
+      "tag": "energy spirit",
+      "frequency": 1,
+      "avg_score": 0.4639,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4639,
+      "video_ids": [
+        "7532188850555342094"
+      ]
+    },
+    {
+      "tag": "confidence comes",
+      "frequency": 1,
+      "avg_score": 0.4637,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4637,
+      "video_ids": [
+        "7527458041403362574"
+      ]
+    },
+    {
+      "tag": "stop mind wandering",
+      "frequency": 1,
+      "avg_score": 0.4636,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4636,
+      "video_ids": [
+        "7520323029956709645"
+      ]
+    },
+    {
+      "tag": "identity choose attachments",
+      "frequency": 1,
+      "avg_score": 0.4634,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4634,
+      "video_ids": [
+        "7526276322830699831"
+      ]
+    },
+    {
+      "tag": "sitting pain okay",
+      "frequency": 1,
+      "avg_score": 0.4632,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4632,
+      "video_ids": [
+        "7520411395536506126"
+      ]
+    },
+    {
+      "tag": "watching videos",
+      "frequency": 1,
+      "avg_score": 0.463,
+      "engagement_weight": 1.0,
+      "combined_score": 0.463,
+      "video_ids": [
+        "7532183501328633101"
+      ]
+    },
+    {
+      "tag": "quantum computers study",
+      "frequency": 1,
+      "avg_score": 0.4622,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4622,
+      "video_ids": [
+        "7537485498542034189"
+      ]
+    },
+    {
+      "tag": "status ego attractiveness",
+      "frequency": 1,
+      "avg_score": 0.4621,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4621,
+      "video_ids": [
+        "7520122784752700686"
+      ]
+    },
+    {
+      "tag": "free spirit like",
+      "frequency": 1,
+      "avg_score": 0.4616,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4616,
+      "video_ids": [
+        "7532188850555342094"
+      ]
+    },
+    {
+      "tag": "spirituality assimilated amorphous",
+      "frequency": 1,
+      "avg_score": 0.4614,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4614,
+      "video_ids": [
+        "7535681487547403533"
+      ]
+    },
+    {
+      "tag": "omnipotent god understand",
+      "frequency": 1,
+      "avg_score": 0.4612,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4612,
+      "video_ids": [
+        "7524801149480799502"
+      ]
+    },
+    {
+      "tag": "science aren",
+      "frequency": 1,
+      "avg_score": 0.46,
+      "engagement_weight": 1.0,
+      "combined_score": 0.46,
+      "video_ids": [
+        "7524801149480799502"
+      ]
+    },
+    {
+      "tag": "create art regardless",
+      "frequency": 1,
+      "avg_score": 0.4596,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4596,
+      "video_ids": [
+        "7532730182600330510"
+      ]
+    },
+    {
+      "tag": "opposite religion belief",
+      "frequency": 1,
+      "avg_score": 0.4584,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4584,
+      "video_ids": [
+        "7524801149480799502"
+      ]
+    },
+    {
+      "tag": "barely like loneliness",
+      "frequency": 1,
+      "avg_score": 0.4577,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4577,
+      "video_ids": [
+        "7520122784752700686"
+      ]
+    },
+    {
+      "tag": "energy spirit meaning",
+      "frequency": 1,
+      "avg_score": 0.4576,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4576,
+      "video_ids": [
+        "7532188850555342094"
+      ]
+    },
+    {
+      "tag": "improvement capitalism just",
+      "frequency": 1,
+      "avg_score": 0.4575,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4575,
+      "video_ids": [
+        "7541546593024085262"
+      ]
+    },
+    {
+      "tag": "nostalgia right",
+      "frequency": 1,
+      "avg_score": 0.4574,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4574,
+      "video_ids": [
+        "7529372935006522638"
+      ]
+    },
+    {
+      "tag": "time paint arthritis",
+      "frequency": 1,
+      "avg_score": 0.457,
+      "engagement_weight": 1.0,
+      "combined_score": 0.457,
+      "video_ids": [
+        "7531901891580628238"
+      ]
+    },
+    {
+      "tag": "sitting pain",
+      "frequency": 1,
+      "avg_score": 0.4569,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4569,
+      "video_ids": [
+        "7520411395536506126"
+      ]
+    },
+    {
+      "tag": "trying fulfill attachment",
+      "frequency": 1,
+      "avg_score": 0.4568,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4568,
+      "video_ids": [
+        "7526276322830699831"
+      ]
+    },
+    {
+      "tag": "happens completely spontaneously",
+      "frequency": 1,
+      "avg_score": 0.4562,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4562,
+      "video_ids": [
+        "7554580484513205517"
+      ]
+    },
+    {
+      "tag": "physics reliant conscious",
+      "frequency": 1,
+      "avg_score": 0.4549,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4549,
+      "video_ids": [
+        "7537485498542034189"
+      ]
+    },
+    {
+      "tag": "exist fundamentally way",
+      "frequency": 1,
+      "avg_score": 0.4544,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4544,
+      "video_ids": [
+        "7532737291828071693"
+      ]
+    },
+    {
+      "tag": "don information life",
+      "frequency": 1,
+      "avg_score": 0.454,
+      "engagement_weight": 1.0,
+      "combined_score": 0.454,
+      "video_ids": [
+        "7532183501328633101"
+      ]
+    },
+    {
+      "tag": "justifying entertainment parasocial",
+      "frequency": 1,
+      "avg_score": 0.4515,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4515,
+      "video_ids": [
+        "7532252504092871991"
+      ]
+    },
+    {
+      "tag": "ego attractiveness",
+      "frequency": 1,
+      "avg_score": 0.4497,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4497,
+      "video_ids": [
+        "7520122784752700686"
+      ]
+    },
+    {
+      "tag": "meditation meditation",
+      "frequency": 1,
+      "avg_score": 0.4496,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4496,
+      "video_ids": [
+        "7554580484513205517"
+      ]
+    },
+    {
+      "tag": "countries identify different",
+      "frequency": 1,
+      "avg_score": 0.4491,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4491,
+      "video_ids": [
+        "7525970884893379895"
+      ]
+    },
+    {
+      "tag": "opposite religion",
+      "frequency": 1,
+      "avg_score": 0.4489,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4489,
+      "video_ids": [
+        "7524801149480799502"
+      ]
+    },
+    {
+      "tag": "quantum physics complex",
+      "frequency": 1,
+      "avg_score": 0.4482,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4482,
+      "video_ids": [
+        "7537485498542034189"
+      ]
+    },
+    {
+      "tag": "study god ll",
+      "frequency": 1,
+      "avg_score": 0.4478,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4478,
+      "video_ids": [
+        "7524801149480799502"
+      ]
+    },
+    {
+      "tag": "reality way spirituality",
+      "frequency": 1,
+      "avg_score": 0.447,
+      "engagement_weight": 1.0,
+      "combined_score": 0.447,
+      "video_ids": [
+        "7554580484513205517"
+      ]
+    },
+    {
+      "tag": "talk cultivation spirituality",
+      "frequency": 1,
+      "avg_score": 0.4462,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4462,
+      "video_ids": [
+        "7554580484513205517"
+      ]
+    },
+    {
+      "tag": "operating position hatred",
+      "frequency": 1,
+      "avg_score": 0.4454,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4454,
+      "video_ids": [
+        "7539677568996281614"
+      ]
+    },
+    {
+      "tag": "preventing feeling reality",
+      "frequency": 1,
+      "avg_score": 0.4448,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4448,
+      "video_ids": [
+        "7532188850555342094"
+      ]
+    },
+    {
+      "tag": "god literally worshiping",
+      "frequency": 1,
+      "avg_score": 0.4444,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4444,
+      "video_ids": [
+        "7524801149480799502"
+      ]
+    },
+    {
+      "tag": "feel disconnection reality",
+      "frequency": 1,
+      "avg_score": 0.4438,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4438,
+      "video_ids": [
+        "7532188850555342094"
+      ]
+    },
+    {
+      "tag": "online personalities clips",
+      "frequency": 1,
+      "avg_score": 0.4433,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4433,
+      "video_ids": [
+        "7532252504092871991"
+      ]
+    },
+    {
+      "tag": "deal cravings",
+      "frequency": 1,
+      "avg_score": 0.4425,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4425,
+      "video_ids": [
+        "7526276322830699831"
+      ]
+    },
+    {
+      "tag": "don discipline growing",
+      "frequency": 1,
+      "avg_score": 0.4422,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4422,
+      "video_ids": [
+        "7552248342441479438"
+      ]
+    },
+    {
+      "tag": "information beliefs hold",
+      "frequency": 1,
+      "avg_score": 0.4417,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4417,
+      "video_ids": [
+        "7525976998284479757"
+      ]
+    },
+    {
+      "tag": "conscious observation just",
+      "frequency": 1,
+      "avg_score": 0.4412,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4412,
+      "video_ids": [
+        "7537485498542034189"
+      ]
+    },
+    {
+      "tag": "opportunity spontaneous dissociating",
+      "frequency": 1,
+      "avg_score": 0.4409,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4409,
+      "video_ids": [
+        "7554580484513205517"
+      ]
+    },
+    {
+      "tag": "deeply thing creating",
+      "frequency": 1,
+      "avg_score": 0.439,
+      "engagement_weight": 1.0,
+      "combined_score": 0.439,
+      "video_ids": [
+        "7532730182600330510"
+      ]
+    },
+    {
+      "tag": "rooted attachments self",
+      "frequency": 1,
+      "avg_score": 0.4388,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4388,
+      "video_ids": [
+        "7526276322830699831"
+      ]
+    },
+    {
+      "tag": "deeper understand universe",
+      "frequency": 1,
+      "avg_score": 0.4387,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4387,
+      "video_ids": [
+        "7535681487547403533"
+      ]
+    },
+    {
+      "tag": "cultures identify",
+      "frequency": 1,
+      "avg_score": 0.4387,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4387,
+      "video_ids": [
+        "7525970884893379895"
+      ]
+    },
+    {
+      "tag": "playing paintball hikki",
+      "frequency": 1,
+      "avg_score": 0.4385,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4385,
+      "video_ids": [
+        "7531901891580628238"
+      ]
+    },
+    {
+      "tag": "ego just belief",
+      "frequency": 1,
+      "avg_score": 0.4383,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4383,
+      "video_ids": [
+        "7535681487547403533"
+      ]
+    },
+    {
+      "tag": "understanding world unique",
+      "frequency": 1,
+      "avg_score": 0.4379,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4379,
+      "video_ids": [
+        "7535681487547403533"
+      ]
+    },
+    {
+      "tag": "loneliness narcissism facing",
+      "frequency": 1,
+      "avg_score": 0.4359,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4359,
+      "video_ids": [
+        "7534532078554205453"
+      ]
+    },
+    {
+      "tag": "song silence",
+      "frequency": 1,
+      "avg_score": 0.4355,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4355,
+      "video_ids": [
+        "7532730182600330510"
+      ]
+    },
+    {
+      "tag": "change mind",
+      "frequency": 1,
+      "avg_score": 0.4351,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4351,
+      "video_ids": [
+        "7525976998284479757"
+      ]
+    },
+    {
+      "tag": "self real",
+      "frequency": 1,
+      "avg_score": 0.4343,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4343,
+      "video_ids": [
+        "7526276322830699831"
+      ]
+    },
+    {
+      "tag": "video ll video",
+      "frequency": 1,
+      "avg_score": 0.4339,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4339,
+      "video_ids": [
+        "7552739292049607949"
+      ]
+    },
+    {
+      "tag": "action clarity",
+      "frequency": 1,
+      "avg_score": 0.4336,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4336,
+      "video_ids": [
+        "7531829927667059981"
+      ]
+    },
+    {
+      "tag": "new information read",
+      "frequency": 1,
+      "avg_score": 0.4335,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4335,
+      "video_ids": [
+        "7532183501328633101"
+      ]
+    },
+    {
+      "tag": "reality value things",
+      "frequency": 1,
+      "avg_score": 0.4334,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4334,
+      "video_ids": [
+        "7532737291828071693"
+      ]
+    },
+    {
+      "tag": "fucking despised",
+      "frequency": 1,
+      "avg_score": 0.4327,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4327,
+      "video_ids": [
+        "7526059683250031927"
+      ]
+    },
+    {
+      "tag": "compare experiences life",
+      "frequency": 1,
+      "avg_score": 0.4326,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4326,
+      "video_ids": [
+        "7529372935006522638"
+      ]
+    },
+    {
+      "tag": "things understanding individual",
+      "frequency": 1,
+      "avg_score": 0.4312,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4312,
+      "video_ids": [
+        "7535681487547403533"
+      ]
+    },
+    {
+      "tag": "stop saying sin",
+      "frequency": 1,
+      "avg_score": 0.4311,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4311,
+      "video_ids": [
+        "7520772172218895629"
+      ]
+    },
+    {
+      "tag": "video ll",
+      "frequency": 1,
+      "avg_score": 0.4305,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4305,
+      "video_ids": [
+        "7552739292049607949"
+      ]
+    },
+    {
+      "tag": "absolute isn universe",
+      "frequency": 1,
+      "avg_score": 0.4299,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4299,
+      "video_ids": [
+        "7532737291828071693"
+      ]
+    },
+    {
+      "tag": "respect mathematicians",
+      "frequency": 1,
+      "avg_score": 0.4297,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4297,
+      "video_ids": [
+        "7534532078554205453"
+      ]
+    },
+    {
+      "tag": "deal craving",
+      "frequency": 1,
+      "avg_score": 0.4296,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4296,
+      "video_ids": [
+        "7526276322830699831"
+      ]
+    },
+    {
+      "tag": "set path hatred",
+      "frequency": 1,
+      "avg_score": 0.4294,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4294,
+      "video_ids": [
+        "7524436014618643726"
+      ]
+    },
+    {
+      "tag": "lonely understands know",
+      "frequency": 1,
+      "avg_score": 0.4293,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4293,
+      "video_ids": [
+        "7534532078554205453"
+      ]
+    },
+    {
+      "tag": "quantum effects need",
+      "frequency": 1,
+      "avg_score": 0.4281,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4281,
+      "video_ids": [
+        "7537485498542034189"
+      ]
+    },
+    {
+      "tag": "quantum computers",
+      "frequency": 1,
+      "avg_score": 0.4279,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4279,
+      "video_ids": [
+        "7537485498542034189"
+      ]
+    },
+    {
+      "tag": "conscious observation",
+      "frequency": 1,
+      "avg_score": 0.4277,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4277,
+      "video_ids": [
+        "7537485498542034189"
+      ]
+    },
+    {
+      "tag": "personalities clips people",
+      "frequency": 1,
+      "avg_score": 0.4277,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4277,
+      "video_ids": [
+        "7532252504092871991"
+      ]
+    },
+    {
+      "tag": "thoughts conscious observation",
+      "frequency": 1,
+      "avg_score": 0.4272,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4272,
+      "video_ids": [
+        "7537485498542034189"
+      ]
+    },
+    {
+      "tag": "things existence",
+      "frequency": 1,
+      "avg_score": 0.4264,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4264,
+      "video_ids": [
+        "7532737291828071693"
+      ]
+    },
+    {
+      "tag": "understand universe deeper",
+      "frequency": 1,
+      "avg_score": 0.4261,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4261,
+      "video_ids": [
+        "7535681487547403533"
+      ]
+    },
+    {
+      "tag": "completely disconnected gym",
+      "frequency": 1,
+      "avg_score": 0.4261,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4261,
+      "video_ids": [
+        "7527454165635763469"
+      ]
+    },
+    {
+      "tag": "experienced things watching",
+      "frequency": 1,
+      "avg_score": 0.4257,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4257,
+      "video_ids": [
+        "7532183501328633101"
+      ]
+    },
+    {
+      "tag": "identity trying convince",
+      "frequency": 1,
+      "avg_score": 0.4255,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4255,
+      "video_ids": [
+        "7525976998284479757"
+      ]
+    },
+    {
+      "tag": "ai revealing sucks",
+      "frequency": 1,
+      "avg_score": 0.4255,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4255,
+      "video_ids": [
+        "7525239594711878967"
+      ]
+    },
+    {
+      "tag": "love self",
+      "frequency": 1,
+      "avg_score": 0.4255,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4255,
+      "video_ids": [
+        "7524436014618643726"
+      ]
+    },
+    {
+      "tag": "watching video hope",
+      "frequency": 1,
+      "avg_score": 0.4243,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4243,
+      "video_ids": [
+        "7531842643249089847"
+      ]
+    },
+    {
+      "tag": "self love self",
+      "frequency": 1,
+      "avg_score": 0.4224,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4224,
+      "video_ids": [
+        "7524436014618643726"
+      ]
+    },
+    {
+      "tag": "thoughts scatteredness reminds",
+      "frequency": 1,
+      "avg_score": 0.422,
+      "engagement_weight": 1.0,
+      "combined_score": 0.422,
+      "video_ids": [
+        "7522920358098308365"
+      ]
+    },
+    {
+      "tag": "defines universe",
+      "frequency": 1,
+      "avg_score": 0.4215,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4215,
+      "video_ids": [
+        "7532737291828071693"
+      ]
+    },
+    {
+      "tag": "understanding like ai",
+      "frequency": 1,
+      "avg_score": 0.4212,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4212,
+      "video_ids": [
+        "7525239594711878967"
+      ]
+    },
+    {
+      "tag": "minds dependent information",
+      "frequency": 1,
+      "avg_score": 0.4209,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4209,
+      "video_ids": [
+        "7525976998284479757"
+      ]
+    },
+    {
+      "tag": "thoughts scatteredness",
+      "frequency": 1,
+      "avg_score": 0.4206,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4206,
+      "video_ids": [
+        "7522920358098308365"
+      ]
+    },
+    {
+      "tag": "just appreciate esoteric",
+      "frequency": 1,
+      "avg_score": 0.4205,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4205,
+      "video_ids": [
+        "7534532078554205453"
+      ]
+    },
+    {
+      "tag": "courage hatred limits",
+      "frequency": 1,
+      "avg_score": 0.4205,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4205,
+      "video_ids": [
+        "7524436014618643726"
+      ]
+    },
+    {
+      "tag": "justifying entertainment",
+      "frequency": 1,
+      "avg_score": 0.4203,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4203,
+      "video_ids": [
+        "7532252504092871991"
+      ]
+    },
+    {
+      "tag": "identity ego identity",
+      "frequency": 1,
+      "avg_score": 0.4199,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4199,
+      "video_ids": [
+        "7535681487547403533"
+      ]
+    },
+    {
+      "tag": "self actually want",
+      "frequency": 1,
+      "avg_score": 0.4199,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4199,
+      "video_ids": [
+        "7527454165635763469"
+      ]
+    },
+    {
+      "tag": "looks personality problems",
+      "frequency": 1,
+      "avg_score": 0.4199,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4199,
+      "video_ids": [
+        "7520122784752700686"
+      ]
+    },
+    {
+      "tag": "addictive chorus reality",
+      "frequency": 1,
+      "avg_score": 0.4194,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4194,
+      "video_ids": [
+        "7532730182600330510"
+      ]
+    },
+    {
+      "tag": "ego identity actually",
+      "frequency": 1,
+      "avg_score": 0.4193,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4193,
+      "video_ids": [
+        "7535681487547403533"
+      ]
+    },
+    {
+      "tag": "attractiveness",
+      "frequency": 1,
+      "avg_score": 0.4191,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4191,
+      "video_ids": [
+        "7520122784752700686"
+      ]
+    },
+    {
+      "tag": "doesn exist fundamentally",
+      "frequency": 1,
+      "avg_score": 0.4182,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4182,
+      "video_ids": [
+        "7532737291828071693"
+      ]
+    },
+    {
+      "tag": "guys literally performative",
+      "frequency": 1,
+      "avg_score": 0.4173,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4173,
+      "video_ids": [
+        "7530308721088482573"
+      ]
+    },
+    {
+      "tag": "ego dissolves politics",
+      "frequency": 1,
+      "avg_score": 0.4173,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4173,
+      "video_ids": [
+        "7525970884893379895"
+      ]
+    },
+    {
+      "tag": "provide knowledge",
+      "frequency": 1,
+      "avg_score": 0.4169,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4169,
+      "video_ids": [
+        "7532183501328633101"
+      ]
+    },
+    {
+      "tag": "forget water",
+      "frequency": 1,
+      "avg_score": 0.4166,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4166,
+      "video_ids": [
+        "7522409256159694093"
+      ]
+    },
+    {
+      "tag": "head clarity comes",
+      "frequency": 1,
+      "avg_score": 0.4163,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4163,
+      "video_ids": [
+        "7531829927667059981"
+      ]
+    },
+    {
+      "tag": "information actually",
+      "frequency": 1,
+      "avg_score": 0.4161,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4161,
+      "video_ids": [
+        "7532183501328633101"
+      ]
+    },
+    {
+      "tag": "remembering things say",
+      "frequency": 1,
+      "avg_score": 0.416,
+      "engagement_weight": 1.0,
+      "combined_score": 0.416,
+      "video_ids": [
+        "7532183501328633101"
+      ]
+    },
+    {
+      "tag": "internal family systems",
+      "frequency": 1,
+      "avg_score": 0.4154,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4154,
+      "video_ids": [
+        "7525970884893379895"
+      ]
+    },
+    {
+      "tag": "things absolutes fundamental",
+      "frequency": 1,
+      "avg_score": 0.4152,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4152,
+      "video_ids": [
+        "7532737291828071693"
+      ]
+    },
+    {
+      "tag": "giving life confused",
+      "frequency": 1,
+      "avg_score": 0.4144,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4144,
+      "video_ids": [
+        "7534532078554205453"
+      ]
+    },
+    {
+      "tag": "true self",
+      "frequency": 1,
+      "avg_score": 0.4144,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4144,
+      "video_ids": [
+        "7532737291828071693"
+      ]
+    },
+    {
+      "tag": "people want pretend",
+      "frequency": 1,
+      "avg_score": 0.4144,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4144,
+      "video_ids": [
+        "7532252504092871991"
+      ]
+    },
+    {
+      "tag": "discipline growing person",
+      "frequency": 1,
+      "avg_score": 0.4138,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4138,
+      "video_ids": [
+        "7552248342441479438"
+      ]
+    },
+    {
+      "tag": "reminding people experience",
+      "frequency": 1,
+      "avg_score": 0.4138,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4138,
+      "video_ids": [
+        "7532183501328633101"
+      ]
+    },
+    {
+      "tag": "killing education sure",
+      "frequency": 1,
+      "avg_score": 0.4135,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4135,
+      "video_ids": [
+        "7525239594711878967"
+      ]
+    },
+    {
+      "tag": "illness sadness lack",
+      "frequency": 1,
+      "avg_score": 0.413,
+      "engagement_weight": 1.0,
+      "combined_score": 0.413,
+      "video_ids": [
+        "7531829927667059981"
+      ]
+    },
+    {
+      "tag": "successful hating",
+      "frequency": 1,
+      "avg_score": 0.4116,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4116,
+      "video_ids": [
+        "7524436014618643726"
+      ]
+    },
+    {
+      "tag": "silence boring",
+      "frequency": 1,
+      "avg_score": 0.4113,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4113,
+      "video_ids": [
+        "7532730182600330510"
+      ]
+    },
+    {
+      "tag": "external identities emergent",
+      "frequency": 1,
+      "avg_score": 0.4113,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4113,
+      "video_ids": [
+        "7525970884893379895"
+      ]
+    },
+    {
+      "tag": "inspect reality learn",
+      "frequency": 1,
+      "avg_score": 0.41,
+      "engagement_weight": 1.0,
+      "combined_score": 0.41,
+      "video_ids": [
+        "7532183501328633101"
+      ]
+    },
+    {
+      "tag": "conquering ignoring",
+      "frequency": 1,
+      "avg_score": 0.4098,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4098,
+      "video_ids": [
+        "7552248342441479438"
+      ]
+    },
+    {
+      "tag": "just noisy mind",
+      "frequency": 1,
+      "avg_score": 0.4092,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4092,
+      "video_ids": [
+        "7522920358098308365"
+      ]
+    },
+    {
+      "tag": "man respect mathematicians",
+      "frequency": 1,
+      "avg_score": 0.4091,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4091,
+      "video_ids": [
+        "7534532078554205453"
+      ]
+    },
+    {
+      "tag": "like amazing people",
+      "frequency": 1,
+      "avg_score": 0.4081,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4081,
+      "video_ids": [
+        "7532252504092871991"
+      ]
+    },
+    {
+      "tag": "peace just make",
+      "frequency": 1,
+      "avg_score": 0.4079,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4079,
+      "video_ids": [
+        "7521250822622170381"
+      ]
+    },
+    {
+      "tag": "families political systems",
+      "frequency": 1,
+      "avg_score": 0.4076,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4076,
+      "video_ids": [
+        "7525970884893379895"
+      ]
+    },
+    {
+      "tag": "different cultures substituents",
+      "frequency": 1,
+      "avg_score": 0.4073,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4073,
+      "video_ids": [
+        "7525970884893379895"
+      ]
+    },
+    {
+      "tag": "mind different parts",
+      "frequency": 1,
+      "avg_score": 0.4071,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4071,
+      "video_ids": [
+        "7525970884893379895"
+      ]
+    },
+    {
+      "tag": "denial identity things",
+      "frequency": 1,
+      "avg_score": 0.4065,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4065,
+      "video_ids": [
+        "7530308721088482573"
+      ]
+    },
+    {
+      "tag": "famous like amazing",
+      "frequency": 1,
+      "avg_score": 0.4057,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4057,
+      "video_ids": [
+        "7532252504092871991"
+      ]
+    },
+    {
+      "tag": "addiction novelty",
+      "frequency": 1,
+      "avg_score": 0.4054,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4054,
+      "video_ids": [
+        "7532730182600330510"
+      ]
+    },
+    {
+      "tag": "time played minecraft",
+      "frequency": 1,
+      "avg_score": 0.4054,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4054,
+      "video_ids": [
+        "7529372935006522638"
+      ]
+    },
+    {
+      "tag": "expression creativity worldview",
+      "frequency": 1,
+      "avg_score": 0.4046,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4046,
+      "video_ids": [
+        "7531829927667059981"
+      ]
+    },
+    {
+      "tag": "saying sin attachment",
+      "frequency": 1,
+      "avg_score": 0.4044,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4044,
+      "video_ids": [
+        "7520772172218895629"
+      ]
+    },
+    {
+      "tag": "expression lack creativity",
+      "frequency": 1,
+      "avg_score": 0.4041,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4041,
+      "video_ids": [
+        "7531829927667059981"
+      ]
+    },
+    {
+      "tag": "somebody popular unless",
+      "frequency": 1,
+      "avg_score": 0.4038,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4038,
+      "video_ids": [
+        "7532252504092871991"
+      ]
+    },
+    {
+      "tag": "marks hurt pretty",
+      "frequency": 1,
+      "avg_score": 0.4035,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4035,
+      "video_ids": [
+        "7531901891580628238"
+      ]
+    },
+    {
+      "tag": "paintball hikki",
+      "frequency": 1,
+      "avg_score": 0.4031,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4031,
+      "video_ids": [
+        "7531901891580628238"
+      ]
+    },
+    {
+      "tag": "played minecraft 2011",
+      "frequency": 1,
+      "avg_score": 0.4027,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4027,
+      "video_ids": [
+        "7529372935006522638"
+      ]
+    },
+    {
+      "tag": "international relations issues",
+      "frequency": 1,
+      "avg_score": 0.4024,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4024,
+      "video_ids": [
+        "7525970884893379895"
+      ]
+    },
+    {
+      "tag": "good artist means",
+      "frequency": 1,
+      "avg_score": 0.4022,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4022,
+      "video_ids": [
+        "7532730182600330510"
+      ]
+    },
+    {
+      "tag": "disconnected gym",
+      "frequency": 1,
+      "avg_score": 0.4021,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4021,
+      "video_ids": [
+        "7527454165635763469"
+      ]
+    },
+    {
+      "tag": "education education sucked",
+      "frequency": 1,
+      "avg_score": 0.4013,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4013,
+      "video_ids": [
+        "7525239594711878967"
+      ]
+    },
+    {
+      "tag": "boring parts song",
+      "frequency": 1,
+      "avg_score": 0.401,
+      "engagement_weight": 1.0,
+      "combined_score": 0.401,
+      "video_ids": [
+        "7532730182600330510"
+      ]
+    },
+    {
+      "tag": "art judgment expectation",
+      "frequency": 1,
+      "avg_score": 0.4003,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4003,
+      "video_ids": [
+        "7532730182600330510"
+      ]
+    },
+    {
+      "tag": "water day days",
+      "frequency": 1,
+      "avg_score": 0.4003,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4003,
+      "video_ids": [
+        "7522409256159694093"
+      ]
+    },
+    {
+      "tag": "online think paradox",
+      "frequency": 1,
+      "avg_score": 0.4,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4,
+      "video_ids": [
+        "7532252504092871991"
+      ]
+    },
+    {
+      "tag": "shot felt like",
+      "frequency": 1,
+      "avg_score": 0.3995,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3995,
+      "video_ids": [
+        "7531901891580628238"
+      ]
+    },
+    {
+      "tag": "like hijacking ego",
+      "frequency": 1,
+      "avg_score": 0.399,
+      "engagement_weight": 1.0,
+      "combined_score": 0.399,
+      "video_ids": [
+        "7532252504092871991"
+      ]
+    },
+    {
+      "tag": "ideas loneliness ideas",
+      "frequency": 1,
+      "avg_score": 0.3972,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3972,
+      "video_ids": [
+        "7534532078554205453"
+      ]
+    },
+    {
+      "tag": "watching video ll",
+      "frequency": 1,
+      "avg_score": 0.397,
+      "engagement_weight": 1.0,
+      "combined_score": 0.397,
+      "video_ids": [
+        "7552739292049607949"
+      ]
+    },
+    {
+      "tag": "identity systems life",
+      "frequency": 1,
+      "avg_score": 0.3966,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3966,
+      "video_ids": [
+        "7525970884893379895"
+      ]
+    },
+    {
+      "tag": "mastering",
+      "frequency": 1,
+      "avg_score": 0.3964,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3964,
+      "video_ids": [
+        "7552248342441479438"
+      ]
+    },
+    {
+      "tag": "conquering ignoring needs",
+      "frequency": 1,
+      "avg_score": 0.3952,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3952,
+      "video_ids": [
+        "7552248342441479438"
+      ]
+    },
+    {
+      "tag": "meditation working",
+      "frequency": 1,
+      "avg_score": 0.3941,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3941,
+      "video_ids": [
+        "7524436014618643726"
+      ]
+    },
+    {
+      "tag": "failure ll days",
+      "frequency": 1,
+      "avg_score": 0.3937,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3937,
+      "video_ids": [
+        "7522409256159694093"
+      ]
+    },
+    {
+      "tag": "hypocrisy actually empathize",
+      "frequency": 1,
+      "avg_score": 0.3933,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3933,
+      "video_ids": [
+        "7539677568996281614"
+      ]
+    },
+    {
+      "tag": "love self expression",
+      "frequency": 1,
+      "avg_score": 0.3928,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3928,
+      "video_ids": [
+        "7524436014618643726"
+      ]
+    },
+    {
+      "tag": "spirituality like esoteric",
+      "frequency": 1,
+      "avg_score": 0.3914,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3914,
+      "video_ids": [
+        "7534532078554205453"
+      ]
+    },
+    {
+      "tag": "identification realizing realized",
+      "frequency": 1,
+      "avg_score": 0.3908,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3908,
+      "video_ids": [
+        "7525976998284479757"
+      ]
+    },
+    {
+      "tag": "hatred limits waste",
+      "frequency": 1,
+      "avg_score": 0.3902,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3902,
+      "video_ids": [
+        "7524436014618643726"
+      ]
+    },
+    {
+      "tag": "change mind way",
+      "frequency": 1,
+      "avg_score": 0.3898,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3898,
+      "video_ids": [
+        "7525976998284479757"
+      ]
+    },
+    {
+      "tag": "ai capable want",
+      "frequency": 1,
+      "avg_score": 0.3895,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3895,
+      "video_ids": [
+        "7525239594711878967"
+      ]
+    },
+    {
+      "tag": "sucked ai",
+      "frequency": 1,
+      "avg_score": 0.3894,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3894,
+      "video_ids": [
+        "7525239594711878967"
+      ]
+    },
+    {
+      "tag": "categorize things",
+      "frequency": 1,
+      "avg_score": 0.3892,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3892,
+      "video_ids": [
+        "7532730182600330510"
+      ]
+    },
+    {
+      "tag": "meaningful genuine change",
+      "frequency": 1,
+      "avg_score": 0.3891,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3891,
+      "video_ids": [
+        "7525976998284479757"
+      ]
+    },
+    {
+      "tag": "ego identification realizing",
+      "frequency": 1,
+      "avg_score": 0.3888,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3888,
+      "video_ids": [
+        "7525976998284479757"
+      ]
+    },
+    {
+      "tag": "gym people just",
+      "frequency": 1,
+      "avg_score": 0.3875,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3875,
+      "video_ids": [
+        "7527454165635763469"
+      ]
+    },
+    {
+      "tag": "precisely deem sin",
+      "frequency": 1,
+      "avg_score": 0.3872,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3872,
+      "video_ids": [
+        "7520772172218895629"
+      ]
+    },
+    {
+      "tag": "compare experiences",
+      "frequency": 1,
+      "avg_score": 0.3869,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3869,
+      "video_ids": [
+        "7529372935006522638"
+      ]
+    },
+    {
+      "tag": "acceptance ways hurt",
+      "frequency": 1,
+      "avg_score": 0.3859,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3859,
+      "video_ids": [
+        "7521250822622170381"
+      ]
+    },
+    {
+      "tag": "fine time breath",
+      "frequency": 1,
+      "avg_score": 0.3838,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3838,
+      "video_ids": [
+        "7521656942910065933"
+      ]
+    },
+    {
+      "tag": "hurt considerably noticed",
+      "frequency": 1,
+      "avg_score": 0.3836,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3836,
+      "video_ids": [
+        "7531901891580628238"
+      ]
+    },
+    {
+      "tag": "bad shot felt",
+      "frequency": 1,
+      "avg_score": 0.3822,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3822,
+      "video_ids": [
+        "7531901891580628238"
+      ]
+    },
+    {
+      "tag": "deepest roots denial",
+      "frequency": 1,
+      "avg_score": 0.3818,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3818,
+      "video_ids": [
+        "7552248342441479438"
+      ]
+    },
+    {
+      "tag": "saying missed yesterday",
+      "frequency": 1,
+      "avg_score": 0.3795,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3795,
+      "video_ids": [
+        "7522409256159694093"
+      ]
+    },
+    {
+      "tag": "despised",
+      "frequency": 1,
+      "avg_score": 0.3794,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3794,
+      "video_ids": [
+        "7526059683250031927"
+      ]
+    },
+    {
+      "tag": "procedures hurt",
+      "frequency": 1,
+      "avg_score": 0.379,
+      "engagement_weight": 1.0,
+      "combined_score": 0.379,
+      "video_ids": [
+        "7531901891580628238"
+      ]
+    },
+    {
+      "tag": "want gym ll",
+      "frequency": 1,
+      "avg_score": 0.3788,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3788,
+      "video_ids": [
+        "7527454165635763469"
+      ]
+    },
+    {
+      "tag": "rest sitting",
+      "frequency": 1,
+      "avg_score": 0.377,
+      "engagement_weight": 1.0,
+      "combined_score": 0.377,
+      "video_ids": [
+        "7520411395536506126"
+      ]
+    },
+    {
+      "tag": "stop living",
+      "frequency": 1,
+      "avg_score": 0.3761,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3761,
+      "video_ids": [
+        "7521250822622170381"
+      ]
+    },
+    {
+      "tag": "change act hypocrisy",
+      "frequency": 1,
+      "avg_score": 0.3757,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3757,
+      "video_ids": [
+        "7539677568996281614"
+      ]
+    },
+    {
+      "tag": "control just realizing",
+      "frequency": 1,
+      "avg_score": 0.3752,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3752,
+      "video_ids": [
+        "7522920358098308365"
+      ]
+    },
+    {
+      "tag": "remembering things good",
+      "frequency": 1,
+      "avg_score": 0.3748,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3748,
+      "video_ids": [
+        "7529372935006522638"
+      ]
+    },
+    {
+      "tag": "day days die",
+      "frequency": 1,
+      "avg_score": 0.3741,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3741,
+      "video_ids": [
+        "7522409256159694093"
+      ]
+    },
+    {
+      "tag": "rot consumed cultivation",
+      "frequency": 1,
+      "avg_score": 0.3736,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3736,
+      "video_ids": [
+        "7552248342441479438"
+      ]
+    },
+    {
+      "tag": "minecraft just",
+      "frequency": 1,
+      "avg_score": 0.3733,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3733,
+      "video_ids": [
+        "7529372935006522638"
+      ]
+    },
+    {
+      "tag": "water day",
+      "frequency": 1,
+      "avg_score": 0.3723,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3723,
+      "video_ids": [
+        "7522409256159694093"
+      ]
+    },
+    {
+      "tag": "cultivation",
+      "frequency": 1,
+      "avg_score": 0.3708,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3708,
+      "video_ids": [
+        "7552248342441479438"
+      ]
+    },
+    {
+      "tag": "happy don discipline",
+      "frequency": 1,
+      "avg_score": 0.3706,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3706,
+      "video_ids": [
+        "7552248342441479438"
+      ]
+    },
+    {
+      "tag": "birth constraining accepting",
+      "frequency": 1,
+      "avg_score": 0.3706,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3706,
+      "video_ids": [
+        "7520772172218895629"
+      ]
+    },
+    {
+      "tag": "video games experience",
+      "frequency": 1,
+      "avg_score": 0.3705,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3705,
+      "video_ids": [
+        "7529372935006522638"
+      ]
+    },
+    {
+      "tag": "gym people",
+      "frequency": 1,
+      "avg_score": 0.37,
+      "engagement_weight": 1.0,
+      "combined_score": 0.37,
+      "video_ids": [
+        "7527454165635763469"
+      ]
+    },
+    {
+      "tag": "felt ignorant kid",
+      "frequency": 1,
+      "avg_score": 0.3691,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3691,
+      "video_ids": [
+        "7529372935006522638"
+      ]
+    },
+    {
+      "tag": "meditation",
+      "frequency": 1,
+      "avg_score": 0.3682,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3682,
+      "video_ids": [
+        "7522409256159694093"
+      ]
+    },
+    {
+      "tag": "mind experiencing day",
+      "frequency": 1,
+      "avg_score": 0.3657,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3657,
+      "video_ids": [
+        "7522920358098308365"
+      ]
+    },
+    {
+      "tag": "gym want version",
+      "frequency": 1,
+      "avg_score": 0.3656,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3656,
+      "video_ids": [
+        "7527454165635763469"
+      ]
+    },
+    {
+      "tag": "grow life forget",
+      "frequency": 1,
+      "avg_score": 0.3632,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3632,
+      "video_ids": [
+        "7522409256159694093"
+      ]
+    },
+    {
+      "tag": "people making fun",
+      "frequency": 1,
+      "avg_score": 0.3631,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3631,
+      "video_ids": [
+        "7530308721088482573"
+      ]
+    },
+    {
+      "tag": "meditation okay",
+      "frequency": 1,
+      "avg_score": 0.3612,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3612,
+      "video_ids": [
+        "7522409256159694093"
+      ]
+    },
+    {
+      "tag": "going hurt new",
+      "frequency": 1,
+      "avg_score": 0.3605,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3605,
+      "video_ids": [
+        "7531901891580628238"
+      ]
+    },
+    {
+      "tag": "gym active participation",
+      "frequency": 1,
+      "avg_score": 0.3605,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3605,
+      "video_ids": [
+        "7527454165635763469"
+      ]
+    },
+    {
+      "tag": "meditation okay don",
+      "frequency": 1,
+      "avg_score": 0.3599,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3599,
+      "video_ids": [
+        "7522409256159694093"
+      ]
+    },
+    {
+      "tag": "light night",
+      "frequency": 1,
+      "avg_score": 0.3531,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3531,
+      "video_ids": [
+        "7526059683250031927"
+      ]
+    },
+    {
+      "tag": "confront actual self",
+      "frequency": 1,
+      "avg_score": 0.3519,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3519,
+      "video_ids": [
+        "7527454165635763469"
+      ]
+    },
+    {
+      "tag": "identity serve identities",
+      "frequency": 1,
+      "avg_score": 0.3512,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3512,
+      "video_ids": [
+        "7530308721088482573"
+      ]
+    },
+    {
+      "tag": "irritated performative people",
+      "frequency": 1,
+      "avg_score": 0.3509,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3509,
+      "video_ids": [
+        "7530308721088482573"
+      ]
+    },
+    {
+      "tag": "identity things",
+      "frequency": 1,
+      "avg_score": 0.3498,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3498,
+      "video_ids": [
+        "7530308721088482573"
+      ]
+    },
+    {
+      "tag": "don want selfish",
+      "frequency": 1,
+      "avg_score": 0.3471,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3471,
+      "video_ids": [
+        "7520772172218895629"
+      ]
+    },
+    {
+      "tag": "breath bring",
+      "frequency": 1,
+      "avg_score": 0.3425,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3425,
+      "video_ids": [
+        "7521656942910065933"
+      ]
+    },
+    {
+      "tag": "reality rejecting",
+      "frequency": 1,
+      "avg_score": 0.3398,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3398,
+      "video_ids": [
+        "7539677568996281614"
+      ]
+    },
+    {
+      "tag": "performativity",
+      "frequency": 1,
+      "avg_score": 0.3378,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3378,
+      "video_ids": [
+        "7530308721088482573"
+      ]
+    },
+    {
+      "tag": "engages belief identity",
+      "frequency": 1,
+      "avg_score": 0.3364,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3364,
+      "video_ids": [
+        "7530308721088482573"
+      ]
+    },
+    {
+      "tag": "exist future existed",
+      "frequency": 1,
+      "avg_score": 0.3355,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3355,
+      "video_ids": [
+        "7539677568996281614"
+      ]
+    },
+    {
+      "tag": "ways hurt ruined",
+      "frequency": 1,
+      "avg_score": 0.3319,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3319,
+      "video_ids": [
+        "7521250822622170381"
+      ]
+    },
+    {
+      "tag": "exist future",
+      "frequency": 1,
+      "avg_score": 0.3303,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3303,
+      "video_ids": [
+        "7539677568996281614"
+      ]
+    },
+    {
+      "tag": "performative person",
+      "frequency": 1,
+      "avg_score": 0.3303,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3303,
+      "video_ids": [
+        "7530308721088482573"
+      ]
+    },
+    {
+      "tag": "forcing regret shame",
+      "frequency": 1,
+      "avg_score": 0.3285,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3285,
+      "video_ids": [
+        "7539677568996281614"
+      ]
+    },
+    {
+      "tag": "rejecting fundamental truth",
+      "frequency": 1,
+      "avg_score": 0.3262,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3262,
+      "video_ids": [
+        "7539677568996281614"
+      ]
+    },
+    {
+      "tag": "making fun cringing",
+      "frequency": 1,
+      "avg_score": 0.3253,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3253,
+      "video_ids": [
+        "7530308721088482573"
+      ]
+    },
+    {
+      "tag": "don stop life",
+      "frequency": 1,
+      "avg_score": 0.3252,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3252,
+      "video_ids": [
+        "7521250822622170381"
+      ]
+    },
+    {
+      "tag": "qualities human condition",
+      "frequency": 1,
+      "avg_score": 0.324,
+      "engagement_weight": 1.0,
+      "combined_score": 0.324,
+      "video_ids": [
+        "7520772172218895629"
+      ]
+    },
+    {
+      "tag": "character personality completely",
+      "frequency": 1,
+      "avg_score": 0.3232,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3232,
+      "video_ids": [
+        "7520772172218895629"
+      ]
+    },
+    {
+      "tag": "loving appreciating understanding",
+      "frequency": 1,
+      "avg_score": 0.3222,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3222,
+      "video_ids": [
+        "7520772172218895629"
+      ]
+    },
+    {
+      "tag": "stop constraining",
+      "frequency": 1,
+      "avg_score": 0.3218,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3218,
+      "video_ids": [
+        "7520772172218895629"
+      ]
+    },
+    {
+      "tag": "hatred subjugation acceptance",
+      "frequency": 1,
+      "avg_score": 0.3197,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3197,
+      "video_ids": [
+        "7520772172218895629"
+      ]
+    },
+    {
+      "tag": "ruined refusal things",
+      "frequency": 1,
+      "avg_score": 0.3144,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3144,
+      "video_ids": [
+        "7521250822622170381"
+      ]
+    },
+    {
+      "tag": "control just",
+      "frequency": 1,
+      "avg_score": 0.3094,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3094,
+      "video_ids": [
+        "7522920358098308365"
+      ]
+    },
+    {
+      "tag": "mind",
+      "frequency": 1,
+      "avg_score": 0.2974,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2974,
+      "video_ids": [
+        "7522920358098308365"
+      ]
+    },
+    {
+      "tag": "peace just",
+      "frequency": 1,
+      "avg_score": 0.2938,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2938,
+      "video_ids": [
+        "7521250822622170381"
+      ]
+    },
+    {
+      "tag": "life refuse don",
+      "frequency": 1,
+      "avg_score": 0.2893,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2893,
+      "video_ids": [
+        "7521250822622170381"
+      ]
+    },
+    {
+      "tag": "refusal things let",
+      "frequency": 1,
+      "avg_score": 0.2874,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2874,
+      "video_ids": [
+        "7521250822622170381"
+      ]
+    },
+    {
+      "tag": "presence acceptance ways",
+      "frequency": 1,
+      "avg_score": 0.2864,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2864,
+      "video_ids": [
+        "7521250822622170381"
+      ]
+    },
+    {
+      "tag": "apartment dry throat",
+      "frequency": 1,
+      "avg_score": 0.249,
+      "engagement_weight": 1.0,
+      "combined_score": 0.249,
+      "video_ids": [
+        "7521656942910065933"
+      ]
+    },
+    {
+      "tag": "dry throat",
+      "frequency": 1,
+      "avg_score": 0.2333,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2333,
+      "video_ids": [
+        "7521656942910065933"
+      ]
+    },
+    {
+      "tag": "dead",
+      "frequency": 1,
+      "avg_score": 0.2332,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2332,
+      "video_ids": [
+        "7526059683250031927"
+      ]
+    },
+    {
+      "tag": "successful strong",
+      "frequency": 1,
+      "avg_score": 0.2329,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2329,
+      "video_ids": [
+        "7521656942910065933"
+      ]
+    },
+    {
+      "tag": "hope",
+      "frequency": 1,
+      "avg_score": 0.2278,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2278,
+      "video_ids": [
+        "7531842643249089847"
+      ]
+    },
+    {
+      "tag": "drink water started",
+      "frequency": 1,
+      "avg_score": 0.2231,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2231,
+      "video_ids": [
+        "7521656942910065933"
+      ]
+    },
+    {
+      "tag": "watch",
+      "frequency": 1,
+      "avg_score": 0.2217,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2217,
+      "video_ids": [
+        "7526059683250031927"
+      ]
+    },
+    {
+      "tag": "busy like",
+      "frequency": 1,
+      "avg_score": 0.2076,
+      "engagement_weight": 1.0,
+      "combined_score": 0.2076,
+      "video_ids": [
+        "7521656942910065933"
+      ]
+    },
+    {
+      "tag": "light",
+      "frequency": 1,
+      "avg_score": 0.1789,
+      "engagement_weight": 1.0,
+      "combined_score": 0.1789,
+      "video_ids": [
+        "7526059683250031927"
+      ]
+    }
+  ]
+}

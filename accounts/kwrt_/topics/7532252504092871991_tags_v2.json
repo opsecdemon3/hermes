@@ -1,0 +1,267 @@
+{
+  "video_id": "7532252504092871991",
+  "username": "kwrt_",
+  "title": "should i do more brain dumps? #politics #twitch #streaming #maga #lef...",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "twitch",
+      "canonical": "twitch",
+      "confidence": 0.795,
+      "score": 0.2875804603099823,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532252504092871991\nTitle: should i do more brain dumps? #politics #twitch #streaming #maga #lef"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "660581\n==================================================\n\nMaybe I'm online too much, but I think there's this paradox that I find really interesting "
+        },
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "People actually start to lose their sense of self and on an extreme level, so like obviously  the Twitch level is much less extreme than MAGA, but on "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.2875804603099823
+      }
+    },
+    {
+      "tag": "good role model",
+      "canonical": "good role model",
+      "confidence": 0.686,
+      "score": 0.24053239822387695,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "What a good role model"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.24053239822387695
+      }
+    },
+    {
+      "tag": "social connection",
+      "canonical": "social connection",
+      "confidence": 0.674,
+      "score": 0.09420299530029297,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 36,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I think it just goes to show how important natural social connection  is to maintaining a functioning and sane society with good politics,  with g"
+        },
+        {
+          "sentence_index": 44,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "They don't maintain good social connections"
+        },
+        {
+          "sentence_index": 45,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "There's not a variety of social connections, all sorts of clicks  and toxic environments form and these, you know, like  maladapted, like low populati"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.09420299530029297
+      }
+    },
+    {
+      "tag": "person",
+      "canonical": "person",
+      "confidence": 0.637,
+      "score": 0.04908401519060135,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "660581\n==================================================\n\nMaybe I'm online too much, but I think there's this paradox that I find really interesting "
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But then we like to pretend like we actually care about their moral standards and that  we quote unquote made the right person famous"
+        },
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like people get attached to this one sided image of what a person is and they actually  derive self worth from that one way relationship"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.04908401519060135
+      }
+    },
+    {
+      "tag": "brain dump",
+      "canonical": "brain dump",
+      "confidence": 0.621,
+      "score": 0.11322169750928879,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532252504092871991\nTitle: should i do more brain dumps? #politics #twitch #streaming #maga #lef"
+        },
+        {
+          "sentence_index": 53,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Anyways, the total brain dump, but I hope you enjoyed the video"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.11322169750928879
+      }
+    },
+    {
+      "tag": "dangerous parasocial connection",
+      "canonical": "dangerous parasocial connection",
+      "confidence": 0.614,
+      "score": 0.15340250730514526,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 50,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And in order to stay sane,  they developed these really dangerous parasocial connections  which end up becoming like these deities of politics that th"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.15340250730514526
+      }
+    },
+    {
+      "tag": "persona",
+      "canonical": "persona",
+      "confidence": 0.608,
+      "score": 0.036413535475730896,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "660581\n==================================================\n\nMaybe I'm online too much, but I think there's this paradox that I find really interesting "
+        },
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "People actually start to lose their sense of self and on an extreme level, so like obviously  the Twitch level is much less extreme than MAGA, but on "
+        },
+        {
+          "sentence_index": 28,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And and then also, I have got so much to say about this, then you have shit  like Trump derangement syndrome, where now it's almost like because these"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.036413535475730896
+      }
+    },
+    {
+      "tag": "push",
+      "canonical": "push",
+      "confidence": 0.569,
+      "score": 0.0508493110537529,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I find it really strange that, you know, there's this like push and pull between somebody can't  be popular unless they're normal and complacent and l"
+        },
+        {
+          "sentence_index": 31,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like the things that they're actually responsible for are the things  that they accuse everybody else of doing, which is I think also linked to this  "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.0508493110537529
+      }
+    },
+    {
+      "tag": "trump derangement syndrome",
+      "canonical": "trump derangement syndrome",
+      "confidence": 0.567,
+      "score": 0.04836425930261612,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 28,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And and then also, I have got so much to say about this, then you have shit  like Trump derangement syndrome, where now it's almost like because these"
+        },
+        {
+          "sentence_index": 29,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like there's this Trump derangement syndrome where it's like, how can you not see this  perfect and all good and amazing image that I have propped up?"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.04836425930261612
+      }
+    },
+    {
+      "tag": "online personality",
+      "canonical": "online personality",
+      "confidence": 0.566,
+      "score": 0.17932531237602234,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.17932531237602234
+      }
+    }
+  ]
+}

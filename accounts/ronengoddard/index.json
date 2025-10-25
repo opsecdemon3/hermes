@@ -1,0 +1,114 @@
+{
+  "account": "ronengoddard",
+  "created_at": "2025-10-22T13:40:14.057925",
+  "last_updated": "2025-10-22T16:23:08.166452",
+  "processed_videos": {
+    "7554188044161633549": {
+      "video_id": "7554188044161633549",
+      "title": "Truth + care + body awareness = repair. #RespectfulConfrontation #Com...",
+      "processed_at": "2025-10-22T13:40:28.211947",
+      "success": true,
+      "transcript_file": "7554188044161633549_transcript.txt",
+      "transcription_length": 1075,
+      "duration": 97,
+      "url": "https://www.tiktok.com/@ronengoddard/video/7554188044161633549"
+    },
+    "7553368479827512589": {
+      "video_id": "7553368479827512589",
+      "title": "Bonds don\u2019t die from confrontation. They die from no repair. #Conflic...",
+      "processed_at": "2025-10-22T13:40:36.516637",
+      "success": true,
+      "transcript_file": "7553368479827512589_transcript.txt",
+      "transcription_length": 1120,
+      "duration": 91,
+      "url": "https://www.tiktok.com/@ronengoddard/video/7553368479827512589"
+    },
+    "7551971240777616654": {
+      "video_id": "7551971240777616654",
+      "title": "Life throws detours. Be a slippery traveler: skill + attitude = flow....",
+      "processed_at": "2025-10-22T13:40:46.452430",
+      "success": true,
+      "transcript_file": "7551971240777616654_transcript.txt",
+      "transcription_length": 1703,
+      "duration": 131,
+      "url": "https://www.tiktok.com/@ronengoddard/video/7551971240777616654"
+    },
+    "7545584930223344951": {
+      "video_id": "7545584930223344951",
+      "title": "AI is real. Stress is real. What matters is noticing it, acting on wh...",
+      "processed_at": "2025-10-22T13:40:55.833642",
+      "success": true,
+      "transcript_file": "7545584930223344951_transcript.txt",
+      "transcription_length": 1361,
+      "duration": 100,
+      "url": "https://www.tiktok.com/@ronengoddard/video/7545584930223344951"
+    },
+    "7545558871021079822": {
+      "video_id": "7545558871021079822",
+      "title": "Replying to @Westie777 Job and money fears are real. But our worth is...",
+      "processed_at": "2025-10-22T13:41:03.386225",
+      "success": true,
+      "transcript_file": "7545558871021079822_transcript.txt",
+      "transcription_length": 1026,
+      "duration": 88,
+      "url": "https://www.tiktok.com/@ronengoddard/video/7545558871021079822"
+    },
+    "7545534221608111374": {
+      "video_id": "7545534221608111374",
+      "title": "AI reveals what was always true: your value was never your output. It...",
+      "processed_at": "2025-10-22T16:18:02.930197",
+      "success": true,
+      "transcript_file": "7545534221608111374_transcript.txt",
+      "transcription_length": 793,
+      "duration": 76,
+      "url": "https://www.tiktok.com/@ronengoddard/video/7545534221608111374"
+    },
+    "7545525066960735543": {
+      "video_id": "7545525066960735543",
+      "title": "Replying to @Dorian Grey We don\u2019t control hurricanes \u2014 or AI. What we...",
+      "processed_at": "2025-10-22T16:22:01.249414",
+      "success": true,
+      "transcript_file": "7545525066960735543_transcript.txt",
+      "transcription_length": 722,
+      "duration": 65,
+      "url": "https://www.tiktok.com/@ronengoddard/video/7545525066960735543"
+    },
+    "7545170795346119949": {
+      "video_id": "7545170795346119949",
+      "title": "We\u2019ve tied our identity to jobs and output. But that story is ending....",
+      "processed_at": "2025-10-22T16:22:38.368299",
+      "success": true,
+      "transcript_file": "7545170795346119949_transcript.txt",
+      "transcription_length": 915,
+      "duration": 86,
+      "url": "https://www.tiktok.com/@ronengoddard/video/7545170795346119949"
+    },
+    "7545155658878946574": {
+      "video_id": "7545155658878946574",
+      "title": "Replying to @Tim Brunk Old story = complicated. New story = simple: g...",
+      "processed_at": "2025-10-22T16:22:49.473465",
+      "success": true,
+      "transcript_file": "7545155658878946574_transcript.txt",
+      "transcription_length": 194,
+      "duration": 19,
+      "url": "https://www.tiktok.com/@ronengoddard/video/7545155658878946574"
+    },
+    "7545155064151821582": {
+      "video_id": "7545155064151821582",
+      "title": "Replying to @OutofTheBox \u2018Life is for the living of it.\u2019 Yes. Presenc...",
+      "processed_at": "2025-10-22T16:23:08.165546",
+      "success": true,
+      "transcript_file": "7545155064151821582_transcript.txt",
+      "transcription_length": 401,
+      "duration": 31,
+      "url": "https://www.tiktok.com/@ronengoddard/video/7545155064151821582"
+    }
+  },
+  "stats": {
+    "total_videos_found": 10,
+    "total_processed": 10,
+    "total_skipped": 0,
+    "total_failed": 0,
+    "last_ingestion_date": "2025-10-22T16:23:08.166439"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "total_tags": 10,
+  "total_videos": 1,
+  "tags": [
+    {
+      "tag": "going ai scaled",
+      "frequency": 1,
+      "avg_score": 0.5674,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5674,
+      "video_ids": [
+        "7564175953111371022"
+      ]
+    },
+    {
+      "tag": "ai scaled",
+      "frequency": 1,
+      "avg_score": 0.5328,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5328,
+      "video_ids": [
+        "7564175953111371022"
+      ]
+    },
+    {
+      "tag": "caring skill ai",
+      "frequency": 1,
+      "avg_score": 0.526,
+      "engagement_weight": 1.0,
+      "combined_score": 0.526,
+      "video_ids": [
+        "7564175953111371022"
+      ]
+    },
+    {
+      "tag": "processing need humanity",
+      "frequency": 1,
+      "avg_score": 0.5093,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5093,
+      "video_ids": [
+        "7564175953111371022"
+      ]
+    },
+    {
+      "tag": "ai fucking",
+      "frequency": 1,
+      "avg_score": 0.5078,
+      "engagement_weight": 1.0,
+      "combined_score": 0.5078,
+      "video_ids": [
+        "7564175953111371022"
+      ]
+    },
+    {
+      "tag": "need humanity teamwork",
+      "frequency": 1,
+      "avg_score": 0.4393,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4393,
+      "video_ids": [
+        "7564175953111371022"
+      ]
+    },
+    {
+      "tag": "deal adversity people",
+      "frequency": 1,
+      "avg_score": 0.4304,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4304,
+      "video_ids": [
+        "7564175953111371022"
+      ]
+    },
+    {
+      "tag": "people deal adversity",
+      "frequency": 1,
+      "avg_score": 0.4265,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4265,
+      "video_ids": [
+        "7564175953111371022"
+      ]
+    },
+    {
+      "tag": "adversity people deal",
+      "frequency": 1,
+      "avg_score": 0.4064,
+      "engagement_weight": 1.0,
+      "combined_score": 0.4064,
+      "video_ids": [
+        "7564175953111371022"
+      ]
+    },
+    {
+      "tag": "world humanity",
+      "frequency": 1,
+      "avg_score": 0.3976,
+      "engagement_weight": 1.0,
+      "combined_score": 0.3976,
+      "video_ids": [
+        "7564175953111371022"
+      ]
+    }
+  ]
+}

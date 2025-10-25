@@ -1,0 +1,225 @@
+{
+  "video_id": "7537842409489632526",
+  "username": "kwrt_",
+  "title": "#capitalism #spirituality #philosophy #rant #esoteric ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "capitalism",
+      "canonical": "capitalism",
+      "confidence": 0.881,
+      "score": 0.3636403977870941,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7537842409489632526\nTitle: #capitalism #spirituality #philosophy #rant #esoteric \nTimestamp: 2025-10-22T17:45:51"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Capitalism is not deliberately planned"
+        },
+        {
+          "sentence_index": 16,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And this is why capitalism is fundamentally anti-spirituality,  not because there is any one part of this world that needs to be erased or eradicated,"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.3636403977870941
+      }
+    },
+    {
+      "tag": "classism",
+      "canonical": "classism",
+      "confidence": 0.669,
+      "score": 0.21934548020362854,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Classism does not need a propaganda machine"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.21934548020362854
+      }
+    },
+    {
+      "tag": "greed",
+      "canonical": "greed",
+      "confidence": 0.651,
+      "score": 0.1490071713924408,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "790521\n==================================================\n\nGreed is not human nature"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Human nature is that greedy people will accumulate wealth and power and then tell everybody that greed is human nature  so that we normalize their psy"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.1490071713924408
+      }
+    },
+    {
+      "tag": "propaganda machine",
+      "canonical": "propaganda machine",
+      "confidence": 0.615,
+      "score": 0.1542527824640274,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Classism does not need a propaganda machine"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1542527824640274
+      }
+    },
+    {
+      "tag": "moral value",
+      "canonical": "moral value",
+      "confidence": 0.601,
+      "score": 0.13835272192955017,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That if they were poor would be labeled a mental illness and is hoarding,  but isn't because when you are in a society devoid of real human connection"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.13835272192955017
+      }
+    },
+    {
+      "tag": "capitalism # spirituality # philosophy # rant # esoteric \n timestamp",
+      "canonical": "capitalism # spirituality # philosophy # rant # esoteric \n timestamp",
+      "confidence": 0.587,
+      "score": 0.20456406474113464,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.20456406474113464
+      }
+    },
+    {
+      "tag": "useless tumor",
+      "canonical": "useless tumor",
+      "confidence": 0.582,
+      "score": 0.11578670889139175,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The only thing that grows is this useless tumor of beliefs and abstractions,  which is why we are obsessed with materialism in the Western world  beca"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.11578670889139175
+      }
+    },
+    {
+      "tag": "capitalist system",
+      "canonical": "capitalist system",
+      "confidence": 0.58,
+      "score": 0.11264027655124664,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The only thing that grows is this useless tumor of beliefs and abstractions,  which is why we are obsessed with materialism in the Western world  beca"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.11264027655124664
+      }
+    },
+    {
+      "tag": "spirituality",
+      "canonical": "spirituality",
+      "confidence": 0.575,
+      "score": 0.05871853232383728,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7537842409489632526\nTitle: #capitalism #spirituality #philosophy #rant #esoteric \nTimestamp: 2025-10-22T17:45:51"
+        },
+        {
+          "sentence_index": 16,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And this is why capitalism is fundamentally anti-spirituality,  not because there is any one part of this world that needs to be erased or eradicated,"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.05871853232383728
+      }
+    },
+    {
+      "tag": "mental illness",
+      "canonical": "mental illness",
+      "confidence": 0.555,
+      "score": 0.08295974135398865,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That if they were poor would be labeled a mental illness and is hoarding,  but isn't because when you are in a society devoid of real human connection"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08295974135398865
+      }
+    }
+  ]
+}

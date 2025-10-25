@@ -1,0 +1,267 @@
+{
+  "video_id": "7529372935006522638",
+  "username": "kwrt_",
+  "title": "minecraft and innocence #minecraft #nostalgia #childhood #gaming ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "nostalgia",
+      "canonical": "nostalgia",
+      "confidence": 0.86,
+      "score": 0.36593347787857056,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7529372935006522638\nTitle: minecraft and innocence #minecraft #nostalgia #childhood #gaming \nTimestamp: 2025-10-23T13:11:41"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I think a lot of people write that office like nostalgia, right?  I think things are always better in your memory, but no"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "What if nostalgia is just remembering things that were good?  And what if younger me was just a lot less hurt than current me is?  What if younger me "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.36593347787857056
+      }
+    },
+    {
+      "tag": "minecraft",
+      "canonical": "minecraft",
+      "confidence": 0.736,
+      "score": 0.21632841229438782,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7529372935006522638\nTitle: minecraft and innocence #minecraft #nostalgia #childhood #gaming \nTimestamp: 2025-10-23T13:11:41"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "796058\n==================================================\n\nI don't think everyone will understand me and that's okay, but Minecraft was so much more t"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I played a lot of video games, but I have not had an experience like the first time I played Minecraft in 2011 since I've been playing"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.21632841229438782
+      }
+    },
+    {
+      "tag": "experience",
+      "canonical": "experience",
+      "confidence": 0.6,
+      "score": 0.05380404740571976,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I played a lot of video games, but I have not had an experience like the first time I played Minecraft in 2011 since I've been playing"
+        },
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The world really isn't our minds and this subtle expectation to have somebody fool you,  to have somebody put the awe-inspiring experience in your at-"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Wondering why none of that will ever compare to those first experiences you had in your life"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.05380404740571976
+      }
+    },
+    {
+      "tag": "video game",
+      "canonical": "video game",
+      "confidence": 0.598,
+      "score": 0.08580191433429718,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "796058\n==================================================\n\nI don't think everyone will understand me and that's okay, but Minecraft was so much more t"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I played a lot of video games, but I have not had an experience like the first time I played Minecraft in 2011 since I've been playing"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.08580191433429718
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.59,
+      "score": 0.014882445335388184,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That was just openness and love for life"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Wondering why none of that will ever compare to those first experiences you had in your life"
+        },
+        {
+          "sentence_index": 22,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I think with a life full of pain and confusion,  we write some pretty shitty rules to keep ourselves safe, to keep ourselves comfortable"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.014882445335388184
+      }
+    },
+    {
+      "tag": "innocence",
+      "canonical": "innocence",
+      "confidence": 0.575,
+      "score": 0.023168250918388367,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7529372935006522638\nTitle: minecraft and innocence #minecraft #nostalgia #childhood #gaming \nTimestamp: 2025-10-23T13:11:41"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You know, we talk about innocence being something that we lose and gain"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When I look back and I think about innocence, you know, maybe when I was like five,  maybe when I literally could not imagine what the world was like,"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.023168250918388367
+      }
+    },
+    {
+      "tag": "memory",
+      "canonical": "memory",
+      "confidence": 0.556,
+      "score": 0.08422382175922394,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I think a lot of people write that office like nostalgia, right?  I think things are always better in your memory, but no"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08422382175922394
+      }
+    },
+    {
+      "tag": "young",
+      "canonical": "young",
+      "confidence": 0.541,
+      "score": 0.06651225686073303,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "What if nostalgia is just remembering things that were good?  And what if younger me was just a lot less hurt than current me is?  What if younger me "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06651225686073303
+      }
+    },
+    {
+      "tag": "immersion",
+      "canonical": "immersion",
+      "confidence": 0.54,
+      "score": 0.06511639058589935,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When the game lied, it's not like I was immediately sucked out of that immersion"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06511639058589935
+      }
+    },
+    {
+      "tag": "# childhood # game \n timestamp",
+      "canonical": "# childhood # game \n timestamp",
+      "confidence": 0.52,
+      "score": 0.12419817596673965,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.12419817596673965
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "video_id": "7552248342441479438",
+  "username": "kwrt_",
+  "title": "#selfimprovement #spirituality #wisdom ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "spirituality",
+      "canonical": "spirituality",
+      "confidence": 0.706,
+      "score": 0.26395702362060547,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7552248342441479438\nTitle: #selfimprovement #spirituality #wisdom \nTimestamp: 2025-10-22T12:53:23"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.26395702362060547
+      }
+    },
+    {
+      "tag": "denial",
+      "canonical": "denial",
+      "confidence": 0.661,
+      "score": 0.16178922355175018,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is not the denial of all the things you wish to go away"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And you are denial of them is not going to stop them from growing"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.16178922355175018
+      }
+    },
+    {
+      "tag": "forceful erasure",
+      "canonical": "forceful erasure",
+      "confidence": 0.643,
+      "score": 0.18866810202598572,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is not some forceful erasure of this rot that has consumed us"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.18866810202598572
+      }
+    },
+    {
+      "tag": "oneself",
+      "canonical": "oneself",
+      "confidence": 0.585,
+      "score": 0.11932311952114105,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Mastering oneself is not a quick process"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.11932311952114105
+      }
+    },
+    {
+      "tag": "regret",
+      "canonical": "regret",
+      "confidence": 0.566,
+      "score": 0.09632882475852966,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's not about ignoring your needs, ignoring your pain, ignoring your regrets"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09632882475852966
+      }
+    },
+    {
+      "tag": "acceptance",
+      "canonical": "acceptance",
+      "confidence": 0.531,
+      "score": 0.05391430854797363,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is the acceptance of those things"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.05391430854797363
+      }
+    },
+    {
+      "tag": "hatred",
+      "canonical": "hatred",
+      "confidence": 0.526,
+      "score": 0.048531994223594666,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 27,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "They do these things out of hatred,  out of not wanting to be the parts of themselves that they still water"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.048531994223594666
+      }
+    },
+    {
+      "tag": "cultivation",
+      "canonical": "cultivation",
+      "confidence": 0.526,
+      "score": 0.04812471568584442,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is cultivation and it is recognition that there is no rot a part of you"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.04812471568584442
+      }
+    },
+    {
+      "tag": "realization",
+      "canonical": "realization",
+      "confidence": 0.526,
+      "score": 0.0476459264755249,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And the realization that if you do not want to bear these fruits, don't water the plant"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0476459264755249
+      }
+    },
+    {
+      "tag": "part",
+      "canonical": "part",
+      "confidence": 0.526,
+      "score": -0.035192377865314484,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Those things you would rather not admit are a part of you"
+        },
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is cultivation and it is recognition that there is no rot a part of you"
+        },
+        {
+          "sentence_index": 27,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "They do these things out of hatred,  out of not wanting to be the parts of themselves that they still water"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": -0.035192377865314484
+      }
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "video_id": "7535944128375360781",
+  "username": "kwrt_",
+  "title": "this was inspired by a painful 25min drive on a stroad #capitalism #l...",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "capitalism",
+      "canonical": "capitalism",
+      "confidence": 0.89,
+      "score": 0.3525484800338745,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7535944128375360781\nTitle: this was inspired by a painful 25min drive on a stroad #capitalism #l"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "892614\n==================================================\n\nAmerica looks like shit and feels like shit to live in and they do it on purpose because it"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We wouldn't constantly use these things as like this comfort blanket of well  Everything sucks, but at least I can go do this at least I can pay for t"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.3525484800338745
+      }
+    },
+    {
+      "tag": "consumerism",
+      "canonical": "consumerism",
+      "confidence": 0.61,
+      "score": 0.1484077274799347,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "892614\n==================================================\n\nAmerica looks like shit and feels like shit to live in and they do it on purpose because it"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1484077274799347
+      }
+    },
+    {
+      "tag": "rat",
+      "canonical": "rat",
+      "confidence": 0.61,
+      "score": 0.09984518587589264,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "892614\n==================================================\n\nAmerica looks like shit and feels like shit to live in and they do it on purpose because it"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We're not like Europe or Asia  We literally are founded on slavery colonialism and  Like mass immigration and we're just like a fucking melting pot of"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.09984518587589264
+      }
+    },
+    {
+      "tag": "heroin water",
+      "canonical": "heroin water",
+      "confidence": 0.596,
+      "score": 0.13210603594779968,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "892614\n==================================================\n\nAmerica looks like shit and feels like shit to live in and they do it on purpose because it"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.13210603594779968
+      }
+    },
+    {
+      "tag": "crime   drug consumption degeneracy",
+      "canonical": "crime   drug consumption degeneracy",
+      "confidence": 0.58,
+      "score": 0.1959831416606903,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.1959831416606903
+      }
+    },
+    {
+      "tag": "addiction",
+      "canonical": "addiction",
+      "confidence": 0.566,
+      "score": 0.0965217798948288,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "892614\n==================================================\n\nAmerica looks like shit and feels like shit to live in and they do it on purpose because it"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0965217798948288
+      }
+    },
+    {
+      "tag": "slavery colonialism",
+      "canonical": "slavery colonialism",
+      "confidence": 0.555,
+      "score": 0.0823211520910263,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We're not like Europe or Asia  We literally are founded on slavery colonialism and  Like mass immigration and we're just like a fucking melting pot of"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0823211520910263
+      }
+    },
+    {
+      "tag": "fucking melting pot",
+      "canonical": "fucking melting pot",
+      "confidence": 0.549,
+      "score": 0.07506083697080612,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We're not like Europe or Asia  We literally are founded on slavery colonialism and  Like mass immigration and we're just like a fucking melting pot of"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07506083697080612
+      }
+    },
+    {
+      "tag": "environment",
+      "canonical": "environment",
+      "confidence": 0.543,
+      "score": 0.019205190241336823,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "892614\n==================================================\n\nAmerica looks like shit and feels like shit to live in and they do it on purpose because it"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We're not like Europe or Asia  We literally are founded on slavery colonialism and  Like mass immigration and we're just like a fucking melting pot of"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.019205190241336823
+      }
+    },
+    {
+      "tag": "byproduct",
+      "canonical": "byproduct",
+      "confidence": 0.54,
+      "score": 0.06522960215806961,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "892614\n==================================================\n\nAmerica looks like shit and feels like shit to live in and they do it on purpose because it"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06522960215806961
+      }
+    }
+  ]
+}

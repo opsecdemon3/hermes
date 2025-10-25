@@ -1,0 +1,64 @@
+{
+  "account": "maddiecfloyd",
+  "created_at": "2025-10-23T16:52:48.028459",
+  "last_updated": "2025-10-23T16:54:55.437294",
+  "processed_videos": {
+    "7564400957002501431": {
+      "video_id": "7564400957002501431",
+      "title": "TikTok video #7564400957002501431",
+      "processed_at": "2025-10-23T16:53:09.870324",
+      "success": true,
+      "transcript_file": "7564400957002501431_transcript.txt",
+      "transcription_length": 4707,
+      "duration": 382,
+      "url": "https://www.tiktok.com/@maddiecfloyd/video/7564400957002501431"
+    },
+    "7564196776366837005": {
+      "video_id": "7564196776366837005",
+      "title": "TikTok video #7564196776366837005",
+      "processed_at": "2025-10-23T16:53:24.568814",
+      "success": true,
+      "transcript_file": "7564196776366837005_transcript.txt",
+      "transcription_length": 3550,
+      "duration": 380,
+      "url": "https://www.tiktok.com/@maddiecfloyd/video/7564196776366837005"
+    },
+    "7564153038626196749": {
+      "video_id": "7564153038626196749",
+      "title": "TikTok video #7564153038626196749",
+      "processed_at": "2025-10-23T16:53:53.687435",
+      "success": true,
+      "transcript_file": "7564153038626196749_transcript.txt",
+      "transcription_length": 7824,
+      "duration": 615,
+      "url": "https://www.tiktok.com/@maddiecfloyd/video/7564153038626196749"
+    },
+    "7563283786532703502": {
+      "video_id": "7563283786532703502",
+      "title": "TikTok video #7563283786532703502",
+      "processed_at": "2025-10-23T16:54:33.849843",
+      "success": true,
+      "transcript_file": "7563283786532703502_transcript.txt",
+      "transcription_length": 11134,
+      "duration": 916,
+      "url": "https://www.tiktok.com/@maddiecfloyd/video/7563283786532703502"
+    },
+    "7562732104442858765": {
+      "video_id": "7562732104442858765",
+      "title": "TikTok video #7562732104442858765",
+      "processed_at": "2025-10-23T16:54:55.437037",
+      "success": true,
+      "transcript_file": "7562732104442858765_transcript.txt",
+      "transcription_length": 5592,
+      "duration": 523,
+      "url": "https://www.tiktok.com/@maddiecfloyd/video/7562732104442858765"
+    }
+  },
+  "stats": {
+    "total_videos_found": 5,
+    "total_processed": 5,
+    "total_skipped": 0,
+    "total_failed": 0,
+    "last_ingestion_date": "2025-10-23T16:54:55.437277"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "video_id": "7530308721088482573",
+  "username": "kwrt_",
+  "title": "performativity #performative #identity #cringe ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "performative people",
+      "canonical": "performative people",
+      "confidence": 0.777,
+      "score": 0.30007022619247437,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 15,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The real reason you see all this content about performativity is not because these people  actually have anything of substance to say, but because the"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That's all it is, fundamentally, that's all it is and it can be nothing else because  I don't give a fuck about performative people because I understa"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.30007022619247437
+      }
+    },
+    {
+      "tag": "identity",
+      "canonical": "identity",
+      "confidence": 0.653,
+      "score": 0.11727061867713928,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7530308721088482573\nTitle: performativity #performative #identity #cringe \nTimestamp: 2025-10-23T13:11:31"
+        },
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But everybody presents an image or engages in a belief of an identity to serve themselves"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If you give a fuck, it shows that there's a reflection of you in that person and what  you're making fun of, that you haven't come to terms with, that"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.11727061867713928
+      }
+    },
+    {
+      "tag": "belief",
+      "canonical": "belief",
+      "confidence": 0.604,
+      "score": 0.141173854470253,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But everybody presents an image or engages in a belief of an identity to serve themselves"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.141173854470253
+      }
+    },
+    {
+      "tag": "performativity",
+      "canonical": "performativity",
+      "confidence": 0.596,
+      "score": 0.08341968059539795,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7530308721088482573\nTitle: performativity #performative #identity #cringe \nTimestamp: 2025-10-23T13:11:31"
+        },
+        {
+          "sentence_index": 15,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The real reason you see all this content about performativity is not because these people  actually have anything of substance to say, but because the"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.08341968059539795
+      }
+    },
+    {
+      "tag": "unique experience",
+      "canonical": "unique experience",
+      "confidence": 0.558,
+      "score": 0.0861218273639679,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is completely dependent on your privilege and your experience and your unique experience"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0861218273639679
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.555,
+      "score": 0.03431873768568039,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "identities are not like these identities are completely emergent of what you care about  and what you are attached to in your life"
+        },
+        {
+          "sentence_index": 21,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We're so quick to otherwise and talk about how weird and insufferable other people are,  but we're all just kids, man, we all just didn't get things t"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.03431873768568039
+      }
+    },
+    {
+      "tag": "# cringe \n timestamp",
+      "canonical": "# cringe \n timestamp",
+      "confidence": 0.548,
+      "score": 0.15745683014392853,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.15745683014392853
+      }
+    },
+    {
+      "tag": "engage",
+      "canonical": "engage",
+      "confidence": 0.542,
+      "score": 0.06764816492795944,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But everybody presents an image or engages in a belief of an identity to serve themselves"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06764816492795944
+      }
+    },
+    {
+      "tag": "mindfulness",
+      "canonical": "mindfulness",
+      "confidence": 0.523,
+      "score": 0.043850257992744446,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 22,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "A little bit of kindness and mindfulness goes a long way"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.043850257992744446
+      }
+    },
+    {
+      "tag": "natural thing",
+      "canonical": "natural thing",
+      "confidence": 0.521,
+      "score": 0.04231681674718857,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is not like this natural thing that happens, but it's not just like there are true  old people and performative old people"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.04231681674718857
+      }
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "video_id": "7539677568996281614",
+  "username": "kwrt_",
+  "title": "#spirituality #peace #therapy #philosophy #wisdom ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "hatred",
+      "canonical": "hatred",
+      "confidence": 0.746,
+      "score": 0.26293495297431946,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When we focus on how we want things to be  and we say that the world should operate in this way, what we are really doing is operating from  a positio"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Hatred meaning that we are rejecting the fundamental truth of reality"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.26293495297431946
+      }
+    },
+    {
+      "tag": "future",
+      "canonical": "future",
+      "confidence": 0.637,
+      "score": 0.04904605448246002,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We're rejecting the condition of things as they are in favor of this condition that should exist  in the future or should have existed in the past"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But the past and the future aren't real places,  they're abstractions of the mind"
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Opportunity is not in the future or in the  past"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.04904605448246002
+      }
+    },
+    {
+      "tag": "philosophy",
+      "canonical": "philosophy",
+      "confidence": 0.622,
+      "score": 0.16281047463417053,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7539677568996281614\nTitle: #spirituality #peace #therapy #philosophy #wisdom \nTimestamp: 2025-10-22T17:45:10"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.16281047463417053
+      }
+    },
+    {
+      "tag": "reality",
+      "canonical": "reality",
+      "confidence": 0.621,
+      "score": 0.051633842289447784,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Hatred meaning that we are rejecting the fundamental truth of reality"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We should have this transcendent choice  in all situations but in reality it's a choice to tap into those things"
+        },
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "In reality we're often  far off in the future or the past or in attachment or an aversion so much so that  we cannot be present with things and so thi"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.051633842289447784
+      }
+    },
+    {
+      "tag": "mind",
+      "canonical": "mind",
+      "confidence": 0.605,
+      "score": 0.0938023030757904,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But the past and the future aren't real places,  they're abstractions of the mind"
+        },
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Our attachments and our frustrations they lead us into new choices unless  we are conscious and mindful and this is why it is so important to lead wit"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.0938023030757904
+      }
+    },
+    {
+      "tag": "psyche",
+      "canonical": "psyche",
+      "confidence": 0.584,
+      "score": 0.06941412389278412,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Our attachments and our frustrations they lead us into new choices unless  we are conscious and mindful and this is why it is so important to lead wit"
+        },
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I can't say that reality should be like this or reality should be like that because  everything is emergent our political systems that we currently ho"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.06941412389278412
+      }
+    },
+    {
+      "tag": "present moment",
+      "canonical": "present moment",
+      "confidence": 0.571,
+      "score": 0.10154479742050171,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "These things are not helpful because the only reason you ever did those things that you  regret or you think should be a different way is because you "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.10154479742050171
+      }
+    },
+    {
+      "tag": "fundamental truth",
+      "canonical": "fundamental truth",
+      "confidence": 0.555,
+      "score": 0.08262236416339874,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Hatred meaning that we are rejecting the fundamental truth of reality"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08262236416339874
+      }
+    },
+    {
+      "tag": "abstraction",
+      "canonical": "abstraction",
+      "confidence": 0.545,
+      "score": 0.07139798253774643,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But the past and the future aren't real places,  they're abstractions of the mind"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07139798253774643
+      }
+    },
+    {
+      "tag": "peace",
+      "canonical": "peace",
+      "confidence": 0.543,
+      "score": 0.06800511479377747,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7539677568996281614\nTitle: #spirituality #peace #therapy #philosophy #wisdom \nTimestamp: 2025-10-22T17:45:10"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06800511479377747
+      }
+    }
+  ]
+}

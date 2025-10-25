@@ -1,0 +1,65 @@
+================================================================================
+🧪 TIKTOK TRANSCRIPT SYSTEM - END-TO-END TEST
+================================================================================
+Testing account: @beabettermandaily
+================================================================================
+
+
+================================================================================
+TEST 1: INGESTION
+================================================================================
+✅ PASS: 3 transcripts ingested successfully
+
+================================================================================
+TEST 2: IDEMPOTENCY
+================================================================================
+✅ PASS: Idempotency tracking in place
+
+================================================================================
+TEST 3: TOPIC EXTRACTION
+================================================================================
+❌ FAIL: Missing account_tags.json
+
+================================================================================
+TEST 4: SEMANTIC SEARCH
+================================================================================
+✅ PASS: Semantic search working
+   Indexed vectors: 162
+   Sample result: @kwrt_ - 7557947251092409613
+
+================================================================================
+TEST 5: CONTEXT EXPANSION
+================================================================================
+✅ PASS: Context expansion working
+   Video: 7563470301808299294
+   Sentences: 21
+
+================================================================================
+TEST 6: CLI COMMANDS
+================================================================================
+✅ PASS: CLI commands available
+
+================================================================================
+TEST 7: VERIFICATION SYSTEM
+================================================================================
+✅ PASS: Verification system available
+
+================================================================================
+📊 TEST SUMMARY
+================================================================================
+
+Feature                   Status       Notes
+--------------------------------------------------------------------------------
+Ingestion                 ✅ PASS       Found 3 transcripts, all files exist
+Idempotency               ✅ PASS       Index properly tracks processed videos for idempot
+Topic Extraction          ❌ FAIL       Missing account_tags.json
+Semantic Search           ✅ PASS       162 vectors indexed, search returns results with p
+Context Expansion         ✅ PASS       Timestamps extracted, 21 sentences parsed, context
+CLI Commands              ✅ PASS       All CLI scripts present and importable
+Verification System       ✅ PASS       Verification script exists
+--------------------------------------------------------------------------------
+
+Total: 6 PASS, 1 FAIL, 0 SKIP
+
+⚠️  Some tests failed. See notes above for details.
+================================================================================

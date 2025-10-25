@@ -1,0 +1,57 @@
+{
+  "video_id": "7556328586714680607",
+  "title": "Pavel Durov on PHP and scaling VK to millions of users - clip from Le...",
+  "tags": [
+    {
+      "tag": "memcached apache",
+      "score": 0.3962,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "stack started php",
+      "score": 0.408,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "server split",
+      "score": 0.4216,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "started php mysql",
+      "score": 0.4224,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "engine linux guy",
+      "score": 0.4262,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "require fewer servers",
+      "score": 0.4262,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "install single engine",
+      "score": 0.4312,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "database quite easy",
+      "score": 0.4314,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "memcached apache servers",
+      "score": 0.4628,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "mysql ve linux",
+      "score": 0.4772,
+      "type": "keyphrase"
+    }
+  ],
+  "extracted_at": "2025-10-22T17:33:57.697583"
+}

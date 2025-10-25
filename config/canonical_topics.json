@@ -1,0 +1,48 @@
+{
+  "_comment": "Canonical topic mappings for consistency",
+  "merge_rules": {
+    "lucid dream": "lucid dreaming",
+    "lucid dreams": "lucid dreaming",
+    "lucid dreaming": "lucid dreaming",
+    
+    "meditation": "meditation",
+    "meditate": "meditation",
+    "meditating": "meditation",
+    "meditations": "meditation",
+    
+    "mindfulness": "mindfulness",
+    "mindful": "mindfulness",
+    
+    "consciousness": "consciousness",
+    "conscious": "consciousness",
+    
+    "self improvement": "self-improvement",
+    "self-improvement": "self-improvement",
+    "personal development": "self-improvement",
+    "personal growth": "self-improvement",
+    
+    "artificial intelligence": "artificial intelligence",
+    "AI": "artificial intelligence",
+    "machine learning": "machine learning",
+    "ML": "machine learning",
+    
+    "mental health": "mental health",
+    "mental wellness": "mental health",
+    
+    "relationships": "relationships",
+    "relationship": "relationships",
+    
+    "psychology": "psychology",
+    "psychological": "psychology",
+    
+    "philosophy": "philosophy",
+    "philosophical": "philosophy",
+    
+    "spirituality": "spirituality",
+    "spiritual": "spirituality"
+  },
+  "auto_merge_threshold": {
+    "cosine_similarity": 0.9,
+    "edit_distance_max": 2
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "video_id": "7564196776366837005",
+  "username": "maddiecfloyd",
+  "title": "TikTok video #7564196776366837005",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "deep space",
+      "canonical": "deep space",
+      "confidence": 0.828,
+      "score": 0.4100862443447113,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "566029\n==================================================\n\nOkay, I'm trying to hear, okay, I'm gonna talk about space, not spaces in the space  up in "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.4100862443447113
+      }
+    },
+    {
+      "tag": "space",
+      "canonical": "space",
+      "confidence": 0.747,
+      "score": 0.18164020776748657,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "566029\n==================================================\n\nOkay, I'm trying to hear, okay, I'm gonna talk about space, not spaces in the space  up in "
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When there's a lot of space in your life, and you're not sure why,  it is calling you within, it is calling you to be where you are now, being where y"
+        },
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The only thing keeping you where you are, stock, if you feel stock, is fear, either here  of going towards something, of creating something, or of let"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.18164020776748657
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.635,
+      "score": 0.13020886480808258,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When there's a lot of space in your life, and you're not sure why,  it is calling you within, it is calling you to be where you are now, being where y"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You can remove your filters, you will always have your human as long as your life  to be the filter for your consciousness, for your wisdom, for your "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.13020886480808258
+      }
+    },
+    {
+      "tag": "tiktok video # 7564196776366837005 \n timestamp",
+      "canonical": "tiktok video # 7564196776366837005 \n timestamp",
+      "confidence": 0.625,
+      "score": 0.2502825856208801,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.2502825856208801
+      }
+    },
+    {
+      "tag": "sky",
+      "canonical": "sky",
+      "confidence": 0.623,
+      "score": 0.116053506731987,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "566029\n==================================================\n\nOkay, I'm trying to hear, okay, I'm gonna talk about space, not spaces in the space  up in "
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Everyone is an angel, everyone is God, everyone is the universe, everyone is the infinite emptiness of the sky"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.116053506731987
+      }
+    },
+    {
+      "tag": "love",
+      "canonical": "love",
+      "confidence": 0.623,
+      "score": 0.03309357166290283,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you are here now, when you are  present now, you are fully you, you have no choice but to feel at all, to experience it all,  to love it all"
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Everyone is here now, reflecting love to you through their own filters"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You can remove your filters, you will always have your human as long as your life  to be the filter for your consciousness, for your wisdom, for your "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.03309357166290283
+      }
+    },
+    {
+      "tag": "human mind",
+      "canonical": "human mind",
+      "confidence": 0.598,
+      "score": 0.1346135139465332,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 27,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You will never know in your human mind what you are worthy of,  but your choices, your actions, which can include resting when you want to rest"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1346135139465332
+      }
+    },
+    {
+      "tag": "infinite emptiness",
+      "canonical": "infinite emptiness",
+      "confidence": 0.596,
+      "score": 0.13177132606506348,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Everyone is an angel, everyone is God, everyone is the universe, everyone is the infinite emptiness of the sky"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.13177132606506348
+      }
+    },
+    {
+      "tag": "universe",
+      "canonical": "universe",
+      "confidence": 0.564,
+      "score": 0.09358943998813629,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Everyone is an angel, everyone is God, everyone is the universe, everyone is the infinite emptiness of the sky"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09358943998813629
+      }
+    },
+    {
+      "tag": "future",
+      "canonical": "future",
+      "confidence": 0.549,
+      "score": 0.0753127783536911,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 32,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "There is no future"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0753127783536911
+      }
+    }
+  ]
+}

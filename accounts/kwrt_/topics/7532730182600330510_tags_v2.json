@@ -1,0 +1,224 @@
+{
+  "video_id": "7532730182600330510",
+  "username": "kwrt_",
+  "title": "#art #spirituality #philosophy #wisdom #artist ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "art",
+      "canonical": "art",
+      "confidence": 0.693,
+      "score": 0.11715137958526611,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532730182600330510\nTitle: #art #spirituality #philosophy #wisdom #artist \nTimestamp: 2025-10-22T17:51:31"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You need to create art regardless of whether it's good or bad"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When we create art without judgment of it or without expectation of the end product,  we are actively letting go of our traumas and our attachments an"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.11715137958526611
+      }
+    },
+    {
+      "tag": "art # spirituality # philosophy # wisdom # artist \n timestamp",
+      "canonical": "art # spirituality # philosophy # wisdom # artist \n timestamp",
+      "confidence": 0.688,
+      "score": 0.3256424069404602,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.3256424069404602
+      }
+    },
+    {
+      "tag": "novelness",
+      "canonical": "novelness",
+      "confidence": 0.586,
+      "score": 0.11967435479164124,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We think pleasure and this uniqueness and this novelness should be at the forefront of reality at all times"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.11967435479164124
+      }
+    },
+    {
+      "tag": "judgment",
+      "canonical": "judgment",
+      "confidence": 0.581,
+      "score": 0.06556306779384613,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When we create art without judgment of it or without expectation of the end product,  we are actively letting go of our traumas and our attachments an"
+        },
+        {
+          "sentence_index": 27,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You escape judgment and rules and all the things that aren't actually real"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.06556306779384613
+      }
+    },
+    {
+      "tag": "creation",
+      "canonical": "creation",
+      "confidence": 0.558,
+      "score": 0.08611860871315002,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 23,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So go out and create and listen deeply to the thing that you are creating  and then create some more based on those thoughts and then listen deeply ag"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08611860871315002
+      }
+    },
+    {
+      "tag": "good artist",
+      "canonical": "good artist",
+      "confidence": 0.553,
+      "score": 0.03174613416194916,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 21,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So there's this myth that is preserved that being a good artist means being the magnum opus,  means having the addictive chorus"
+        },
+        {
+          "sentence_index": 22,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "In reality, being a good artist, being a good person, being the absolute best expression of yourself  includes every part of the spectrum, the boring "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.03174613416194916
+      }
+    },
+    {
+      "tag": "absolute good expression",
+      "canonical": "absolute good expression",
+      "confidence": 0.535,
+      "score": 0.14253249764442444,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.14253249764442444
+      }
+    },
+    {
+      "tag": "addiction",
+      "canonical": "addiction",
+      "confidence": 0.524,
+      "score": 0.045232199132442474,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This preference, this addiction to novelty is a bastardization of reality  because we fail to see that it is the uncomfortable parts of the song"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.045232199132442474
+      }
+    },
+    {
+      "tag": "world",
+      "canonical": "world",
+      "confidence": 0.522,
+      "score": -0.004904851317405701,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Because every time we create something without the need to categorize it,  we realize just how much of ourselves are uncategorized, how uncategorizabl"
+        },
+        {
+          "sentence_index": 28,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You become in touch with the world that you can feel and sense and listen to and hear  and lose touch with the world that you've been told to believe "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": -0.004904851317405701
+      }
+    },
+    {
+      "tag": "normality",
+      "canonical": "normality",
+      "confidence": 0.514,
+      "score": 0.033903926610946655,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 26,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You escape the prison of normality and hierarchy"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.033903926610946655
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "video_id": "7532194647393766670",
+  "username": "kwrt_",
+  "title": "yes im aware i have left hand disease #piano #music #art #improv ",
+  "total_topics": 6,
+  "topics": [
+    {
+      "tag": "tiktok video transcription",
+      "canonical": "tiktok video transcription",
+      "confidence": 0.994,
+      "score": 0.4780423939228058,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "030986\n==================================================\n\nThis is a TikTok video transcription"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is a TikTok video transcription"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is a TikTok video transcription"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.4780423939228058
+      }
+    },
+    {
+      "tag": "tiktok",
+      "canonical": "tiktok",
+      "confidence": 0.703,
+      "score": 0.129045307636261,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "030986\n==================================================\n\nThis is a TikTok video transcription"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is a TikTok video transcription"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is a TikTok video transcription"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.129045307636261
+      }
+    },
+    {
+      "tag": "piano # music # art",
+      "canonical": "piano # music # art",
+      "confidence": 0.65,
+      "score": 0.280027836561203,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.280027836561203
+      }
+    },
+    {
+      "tag": "hand disease",
+      "canonical": "hand disease",
+      "confidence": 0.636,
+      "score": 0.17999549210071564,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532194647393766670\nTitle: yes im aware i have left hand disease #piano #music #art #improv \nTimestamp: 2025-10-22T17:53:59"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.17999549210071564
+      }
+    },
+    {
+      "tag": "video 7532194647393766670 \n title",
+      "canonical": "video 7532194647393766670 \n title",
+      "confidence": 0.627,
+      "score": 0.2527065873146057,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.2527065873146057
+      }
+    },
+    {
+      "tag": "improv \n timestamp",
+      "canonical": "improv \n timestamp",
+      "confidence": 0.513,
+      "score": 0.11551611125469208,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.11551611125469208
+      }
+    }
+  ]
+}

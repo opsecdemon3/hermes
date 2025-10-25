@@ -1,0 +1,237 @@
+{
+  "video_id": "7520411395536506126",
+  "username": "kwrt_",
+  "title": "TikTok video #7520411395536506126",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "meditating",
+      "canonical": "meditation",
+      "confidence": 0.79,
+      "score": 0.36494919657707214,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "778975\n==================================================\n\nThis is day one of meditating for an hour every single day"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.36494919657707214
+      }
+    },
+    {
+      "tag": "discomfort",
+      "canonical": "discomfort",
+      "confidence": 0.603,
+      "score": 0.1405583918094635,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And then it also helps you confront things like pain and discomfort"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1405583918094635
+      }
+    },
+    {
+      "tag": "meditation",
+      "canonical": "meditation",
+      "confidence": 0.596,
+      "score": 0.08280026912689209,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Point of meditation is not to enter this perfect state of concentration, but to bring yourself back to the present moment"
+        },
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If you're interested in how to do this meditation yourself, I just posted a video on it"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.08280026912689209
+      }
+    },
+    {
+      "tag": "rest",
+      "canonical": "rest",
+      "confidence": 0.589,
+      "score": 0.040970638394355774,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Right around here, my leg completely lost feeling and started to hurt for pretty much the rest of the sitting"
+        },
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If you're interested in how to do this meditation yourself, I just posted a video on it"
+        },
+        {
+          "sentence_index": 15,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If you're interested in that, I would appreciate a follow and I love you all"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.040970638394355774
+      }
+    },
+    {
+      "tag": "leg",
+      "canonical": "leg",
+      "confidence": 0.572,
+      "score": 0.054818592965602875,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "On this session, I decided to not move my hands, my legs, or open my eyes for the entirety of the hour"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Right around here, my leg completely lost feeling and started to hurt for pretty much the rest of the sitting"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.054818592965602875
+      }
+    },
+    {
+      "tag": "tiktok video # 7520411395536506126 \n timestamp",
+      "canonical": "tiktok video # 7520411395536506126 \n timestamp",
+      "confidence": 0.547,
+      "score": 0.15630343556404114,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.15630343556404114
+      }
+    },
+    {
+      "tag": "sitting",
+      "canonical": "sitting",
+      "confidence": 0.547,
+      "score": 0.07373826205730438,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Right around here, my leg completely lost feeling and started to hurt for pretty much the rest of the sitting"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07373826205730438
+      }
+    },
+    {
+      "tag": "pain",
+      "canonical": "pain",
+      "confidence": 0.54,
+      "score": -0.018615856766700745,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And then it also helps you confront things like pain and discomfort"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The pain is okay, pain is not suffering"
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's our wish or the pain to go away that makes us suffer"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": -0.018615856766700745
+      }
+    },
+    {
+      "tag": "practice",
+      "canonical": "practice",
+      "confidence": 0.517,
+      "score": 0.037140585482120514,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And that will be posting these videos every day to help you guys and integrate this practice into your life and learn more about it"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.037140585482120514
+      }
+    },
+    {
+      "tag": "willpower",
+      "canonical": "willpower",
+      "confidence": 0.517,
+      "score": 0.03704732656478882,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This helps through establish a strong sense of determination and willpower"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.03704732656478882
+      }
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "video_id": "7520772172218895629",
+  "username": "kwrt_",
+  "title": "#sin #christianity #buddhism #spirituality #morality ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "sin # christianity # buddhism",
+      "canonical": "sin # christianity # buddhism",
+      "confidence": 0.716,
+      "score": 0.3595285713672638,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.3595285713672638
+      }
+    },
+    {
+      "tag": "sin",
+      "canonical": "sin",
+      "confidence": 0.616,
+      "score": 0.10760673880577087,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7520772172218895629\nTitle: #sin #christianity #buddhism #spirituality #morality \nTimestamp: 2025-10-23T13:13:53"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Stop saying you can't do this or you can't do that because it's a sin or because you have an attachment or because you don't want to be selfish or bec"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.10760673880577087
+      }
+    },
+    {
+      "tag": "attachment",
+      "canonical": "attachment",
+      "confidence": 0.615,
+      "score": 0.1552744209766388,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Stop saying you can't do this or you can't do that because it's a sin or because you have an attachment or because you don't want to be selfish or bec"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1552744209766388
+      }
+    },
+    {
+      "tag": "spirituality",
+      "canonical": "spirituality",
+      "confidence": 0.592,
+      "score": 0.12743555009365082,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7520772172218895629\nTitle: #sin #christianity #buddhism #spirituality #morality \nTimestamp: 2025-10-23T13:13:53"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.12743555009365082
+      }
+    },
+    {
+      "tag": "despair",
+      "canonical": "despair",
+      "confidence": 0.582,
+      "score": 0.11519314348697662,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you settle these rules for what you can or can't be all it does is prevent you from being what you already are you are perfect as is you need not"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.11519314348697662
+      }
+    },
+    {
+      "tag": "human condition",
+      "canonical": "human condition",
+      "confidence": 0.518,
+      "score": 0.03850344568490982,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's about accepting all the qualities of the human condition and loving them for what they are appreciating them and understanding them and giving th"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.03850344568490982
+      }
+    },
+    {
+      "tag": "subjugation",
+      "canonical": "subjugation",
+      "confidence": 0.508,
+      "score": 0.027005478739738464,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you settle these rules for what you can or can't be all it does is prevent you from being what you already are you are perfect as is you need not"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.027005478739738464
+      }
+    },
+    {
+      "tag": "chaos",
+      "canonical": "chaos",
+      "confidence": 0.49,
+      "score": 0.0049962252378463745,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you settle these rules for what you can or can't be all it does is prevent you from being what you already are you are perfect as is you need not"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0049962252378463745
+      }
+    },
+    {
+      "tag": "denial",
+      "canonical": "denial",
+      "confidence": 0.489,
+      "score": 0.0037149041891098022,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you settle these rules for what you can or can't be all it does is prevent you from being what you already are you are perfect as is you need not"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0037149041891098022
+      }
+    },
+    {
+      "tag": "hatred",
+      "canonical": "hatred",
+      "confidence": 0.486,
+      "score": 0.0001687556505203247,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you settle these rules for what you can or can't be all it does is prevent you from being what you already are you are perfect as is you need not"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0001687556505203247
+      }
+    }
+  ]
+}

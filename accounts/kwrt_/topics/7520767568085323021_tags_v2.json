@@ -1,0 +1,273 @@
+{
+  "video_id": "7520767568085323021",
+  "username": "kwrt_",
+  "title": "TikTok video #7520767568085323021",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "meditation",
+      "canonical": "meditation",
+      "confidence": 0.875,
+      "score": 0.3836229145526886,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "One of the hardest things about meditation is that if you ever feel like you had a good session,  you will inherently form an attachment to that exper"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "These kinds of obstacles are typically the biggest ones when it comes to meditation"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "John Wesley talked a lot about my first days of experience and some more thoughts on meditation and creativity and meditation"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.3836229145526886
+      }
+    },
+    {
+      "tag": "meditating",
+      "canonical": "meditation",
+      "confidence": 0.656,
+      "score": 0.12079107761383057,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "954515\n==================================================\n\nThis is day two of meditating for an hour every single day"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's a pretty much this entire time that I was meditating"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I was not focused on the practice of meditating, but the outcomes of meditating"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.12079107761383057
+      }
+    },
+    {
+      "tag": "day",
+      "canonical": "day",
+      "confidence": 0.629,
+      "score": 0.04022148996591568,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "954515\n==================================================\n\nThis is day two of meditating for an hour every single day"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Today was a lot harder than yesterday"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I think a key difference is that yesterday's went really well"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.04022148996591568
+      }
+    },
+    {
+      "tag": "tiktok video # 7520767568085323021 \n timestamp",
+      "canonical": "tiktok video # 7520767568085323021 \n timestamp",
+      "confidence": 0.596,
+      "score": 0.2155119776725769,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.2155119776725769
+      }
+    },
+    {
+      "tag": "breath",
+      "canonical": "breath",
+      "confidence": 0.59,
+      "score": 0.07612233608961105,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I was bringing my breath back to my awareness consistently,  but that alone wasn't satisfying enough"
+        },
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I do this by either breathing heavier, switching to an alternative technique or a little bit"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.07612233608961105
+      }
+    },
+    {
+      "tag": "experiential reassurance",
+      "canonical": "experiential reassurance",
+      "confidence": 0.58,
+      "score": 0.11301124095916748,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I needed some sort of experiential reassurance that I was doing it correctly or that"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.11301124095916748
+      }
+    },
+    {
+      "tag": "attachment",
+      "canonical": "attachment",
+      "confidence": 0.578,
+      "score": 0.027400415390729904,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "One of the hardest things about meditation is that if you ever feel like you had a good session,  you will inherently form an attachment to that exper"
+        },
+        {
+          "sentence_index": 15,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "There isn't one single way to let go of your attachment"
+        },
+        {
+          "sentence_index": 16,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Enforcing yourself through one angle can be a sort of attachment in and of itself"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.027400415390729904
+      }
+    },
+    {
+      "tag": "practice",
+      "canonical": "practice",
+      "confidence": 0.568,
+      "score": 0.050110600888729095,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I was not focused on the practice of meditating, but the outcomes of meditating"
+        },
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Long as you're devoting yourself to the practice and help the experience,  though it's okay to change it up"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.050110600888729095
+      }
+    },
+    {
+      "tag": "good session",
+      "canonical": "good session",
+      "confidence": 0.554,
+      "score": 0.08201217651367188,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "One of the hardest things about meditation is that if you ever feel like you had a good session,  you will inherently form an attachment to that exper"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08201217651367188
+      }
+    },
+    {
+      "tag": "experience",
+      "canonical": "experience",
+      "confidence": 0.533,
+      "score": -0.026352643966674805,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "One of the hardest things about meditation is that if you ever feel like you had a good session,  you will inherently form an attachment to that exper"
+        },
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Long as you're devoting yourself to the practice and help the experience,  though it's okay to change it up"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "John Wesley talked a lot about my first days of experience and some more thoughts on meditation and creativity and meditation"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": -0.026352643966674805
+      }
+    }
+  ]
+}

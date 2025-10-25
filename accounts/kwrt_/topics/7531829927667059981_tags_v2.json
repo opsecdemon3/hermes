@@ -1,0 +1,286 @@
+{
+  "video_id": "7531829927667059981",
+  "username": "kwrt_",
+  "title": "do you have the courage? #will #change #art #create ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "depression",
+      "canonical": "depression",
+      "confidence": 0.788,
+      "score": 0.36244428157806396,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Depression is not some mental illness of sadness"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.36244428157806396
+      }
+    },
+    {
+      "tag": "creativity",
+      "canonical": "creativity",
+      "confidence": 0.719,
+      "score": 0.16980955004692078,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Clarity comes from expressing your creativity"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is the lack of creativity and art"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Everything that you do is a form or expression of your creativity in your worldview"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.16980955004692078
+      }
+    },
+    {
+      "tag": "clarity",
+      "canonical": "clarity",
+      "confidence": 0.711,
+      "score": 0.18677082657814026,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "404631\n==================================================\n\nClarity is not going to come from sitting in your fucking head"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Clarity comes from action"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Clarity comes from expressing your creativity"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.18677082657814026
+      }
+    },
+    {
+      "tag": "courage",
+      "canonical": "courage",
+      "confidence": 0.663,
+      "score": 0.16345766186714172,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7531829927667059981\nTitle: do you have the courage? #will #change #art #create \nTimestamp: 2025-10-23T13:11:07"
+        },
+        {
+          "sentence_index": 27,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But do you have the courage?"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.16345766186714172
+      }
+    },
+    {
+      "tag": "change",
+      "canonical": "change",
+      "confidence": 0.63,
+      "score": 0.04066295176744461,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7531829927667059981\nTitle: do you have the courage? #will #change #art #create \nTimestamp: 2025-10-23T13:11:07"
+        },
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "If you have this notion that you have to grow and change in order to get to this place,  then you will live in that reality where you need to grow and"
+        },
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But if you live in the reality where you can just change right now,  then you will just change right now because that's how it works"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.04066295176744461
+      }
+    },
+    {
+      "tag": "art",
+      "canonical": "art",
+      "confidence": 0.597,
+      "score": 0.001878499984741211,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7531829927667059981\nTitle: do you have the courage? #will #change #art #create \nTimestamp: 2025-10-23T13:11:07"
+        },
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is the lack of creativity and art"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You are an artist"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.001878499984741211
+      }
+    },
+    {
+      "tag": "artist",
+      "canonical": "artist",
+      "confidence": 0.586,
+      "score": 0.07179737091064453,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You are an artist"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Everybody is an artist"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.07179737091064453
+      }
+    },
+    {
+      "tag": "expression",
+      "canonical": "expression",
+      "confidence": 0.575,
+      "score": 0.0237799733877182,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is a lack of expression"
+        },
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Everything that you do is a form or expression of your creativity in your worldview"
+        },
+        {
+          "sentence_index": 22,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You are the thing that decides the change through action,  through interaction and creativity and expression"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.0237799733877182
+      }
+    },
+    {
+      "tag": "worldview",
+      "canonical": "worldview",
+      "confidence": 0.567,
+      "score": 0.09735078364610672,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 10,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Everything that you do is a form or expression of your creativity in your worldview"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09735078364610672
+      }
+    },
+    {
+      "tag": "action",
+      "canonical": "action",
+      "confidence": 0.535,
+      "score": 0.010525070130825043,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Clarity comes from action"
+        },
+        {
+          "sentence_index": 22,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You are the thing that decides the change through action,  through interaction and creativity and expression"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.010525070130825043
+      }
+    }
+  ]
+}

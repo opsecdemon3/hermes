@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (keep structure but not actual data)
+data/accounts/*/videos/*.mp4
+data/accounts/*/videos/*.webm
+data/accounts/*/videos/*.mkv
+data/accounts/*/transcriptions/*.wav
+data/accounts/*/transcriptions/*.mp3
+data/accounts/*/transcriptions/*.m4a
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Test outputs
+test_output/
+*.tmp
+
+# Cache
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Docker
+.dockerignore
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment variables
+.env.local
+.env.production
+
+# Sensitive authentication
+cookies.txt
+*.cookies
+
+# Batch reports (CSV exports)
+accounts/_batch_reports/

@@ -1,0 +1,255 @@
+{
+  "video_id": "7532188850555342094",
+  "username": "kwrt_",
+  "title": "ego content is back \ud83e\udd11 #spirituality #psychedelictherapy #ego #soul #s...",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "# spirituality # psychedelictherapy # ego # soul",
+      "canonical": "# spirituality # psychedelictherapy # ego # soul",
+      "confidence": 0.747,
+      "score": 0.39619407057762146,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.39619407057762146
+      }
+    },
+    {
+      "tag": "spirit",
+      "canonical": "spirit",
+      "confidence": 0.67,
+      "score": 0.08880864083766937,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532188850555342094\nTitle: ego content is back \ud83e\udd11 #spirituality #psychedelictherapy #ego #soul #s"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "982285\n==================================================\n\nI used to make a bunch of videos on ego and spirituality and understanding consciousness  a"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Just like spirit is the alternate confirmation, the opposite confirmation of ego where there  is no actual structure to our energy, to our spirit, to "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.08880864083766937
+      }
+    },
+    {
+      "tag": "ego content",
+      "canonical": "ego content",
+      "confidence": 0.668,
+      "score": 0.21844565868377686,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532188850555342094\nTitle: ego content is back \ud83e\udd11 #spirituality #psychedelictherapy #ego #soul #s"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.21844565868377686
+      }
+    },
+    {
+      "tag": "ego",
+      "canonical": "ego",
+      "confidence": 0.643,
+      "score": 0.05701753497123718,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532188850555342094\nTitle: ego content is back \ud83e\udd11 #spirituality #psychedelictherapy #ego #soul #s"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "982285\n==================================================\n\nI used to make a bunch of videos on ego and spirituality and understanding consciousness  a"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Which is that ego is not the arbiter of value"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.05701753497123718
+      }
+    },
+    {
+      "tag": "spirituality",
+      "canonical": "spirituality",
+      "confidence": 0.642,
+      "score": 0.13838711380958557,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532188850555342094\nTitle: ego content is back \ud83e\udd11 #spirituality #psychedelictherapy #ego #soul #s"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "982285\n==================================================\n\nI used to make a bunch of videos on ego and spirituality and understanding consciousness  a"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.13838711380958557
+      }
+    },
+    {
+      "tag": "energy",
+      "canonical": "energy",
+      "confidence": 0.625,
+      "score": 0.03550659120082855,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is just a confirmation of your value, of your energy, of your meaning"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Just like spirit is the alternate confirmation, the opposite confirmation of ego where there  is no actual structure to our energy, to our spirit, to "
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You are allowing your energy and your meaning and your joy to be unconfined"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.03550659120082855
+      }
+    },
+    {
+      "tag": "crazy fucking metaphysical confirmation structure",
+      "canonical": "crazy fucking metaphysical confirmation structure",
+      "confidence": 0.588,
+      "score": 0.12291866540908813,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We literally are not experiencing meaning and joy and whatever else because we have  this crazy fucking metaphysical confirmation structure in our min"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.12291866540908813
+      }
+    },
+    {
+      "tag": "mind",
+      "canonical": "mind",
+      "confidence": 0.585,
+      "score": 0.036187946796417236,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's this maze that we create in our minds where our energy cannot escape"
+        },
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We literally are not experiencing meaning and joy and whatever else because we have  this crazy fucking metaphysical confirmation structure in our min"
+        },
+        {
+          "sentence_index": 32,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We're all stuck in this labyrinth of our own minds and through clarity and  awareness we can we can learn how to navigate it and we learn how to becom"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.036187946796417236
+      }
+    },
+    {
+      "tag": "attachment",
+      "canonical": "attachment",
+      "confidence": 0.577,
+      "score": 0.10892831534147263,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Looking at things like this it becomes much clearer why non-attachment is freedom"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.10892831534147263
+      }
+    },
+    {
+      "tag": "desire",
+      "canonical": "desire",
+      "confidence": 0.568,
+      "score": 0.09823404252529144,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 16,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But that's avoidance, right?  The desire to kill the ego is the ego itself and there's nothing actually to overcome"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09823404252529144
+      }
+    }
+  ]
+}

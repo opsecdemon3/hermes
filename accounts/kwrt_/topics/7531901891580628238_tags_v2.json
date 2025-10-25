@@ -1,0 +1,242 @@
+{
+  "video_id": "7531901891580628238",
+  "username": "kwrt_",
+  "title": "painball #pain #storytime #shock ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "painball # pain # storytime # shock \n timestamp",
+      "canonical": "painball # pain # storytime # shock \n timestamp",
+      "confidence": 0.692,
+      "score": 0.3306690454483032,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.3306690454483032
+      }
+    },
+    {
+      "tag": "pain",
+      "canonical": "pain",
+      "confidence": 0.688,
+      "score": 0.11049963533878326,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7531901891580628238\nTitle: painball #pain #storytime #shock \nTimestamp: 2025-10-23T13:10:26"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "090167\n==================================================\n\nYesterday I was playing paintball, which is why I have these hikki looking marks, but I hur"
+        },
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It was the first time that I had experienced a unique specific kind of paint in that way"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.11049963533878326
+      }
+    },
+    {
+      "tag": "paintball",
+      "canonical": "paintball",
+      "confidence": 0.621,
+      "score": 0.16224932670593262,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "090167\n==================================================\n\nYesterday I was playing paintball, which is why I have these hikki looking marks, but I hur"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.16224932670593262
+      }
+    },
+    {
+      "tag": "shot",
+      "canonical": "shot",
+      "confidence": 0.599,
+      "score": 0.0871075987815857,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I got shot and just a pretty gnarly spot"
+        },
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I had a shot that felt like fucking snake venom that I had to take weekly"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.0871075987815857
+      }
+    },
+    {
+      "tag": "suffering",
+      "canonical": "suffering",
+      "confidence": 0.551,
+      "score": -0.004599586129188538,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 30,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The first arrow is not suffering"
+        },
+        {
+          "sentence_index": 37,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Our complaining, our suffering, our misery, our attachment to the pain or to the experience"
+        },
+        {
+          "sentence_index": 42,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But because no matter what happens to you, in any circumstance, you are always in control of your own suffering"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": -0.004599586129188538
+      }
+    },
+    {
+      "tag": "time",
+      "canonical": "time",
+      "confidence": 0.527,
+      "score": -0.034453533589839935,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7531901891580628238\nTitle: painball #pain #storytime #shock \nTimestamp: 2025-10-23T13:10:26"
+        },
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It was the first time that I had experienced a unique specific kind of paint in that way"
+        },
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's not my first time with paint"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": -0.034453533589839935
+      }
+    },
+    {
+      "tag": "pretty gnarly spot",
+      "canonical": "pretty gnarly spot",
+      "confidence": 0.522,
+      "score": 0.04319682717323303,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I got shot and just a pretty gnarly spot"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.04319682717323303
+      }
+    },
+    {
+      "tag": "hikki look mark",
+      "canonical": "hikki look mark",
+      "confidence": 0.516,
+      "score": 0.11959876120090485,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.11959876120090485
+      }
+    },
+    {
+      "tag": "snake venom",
+      "canonical": "snake venom",
+      "confidence": 0.513,
+      "score": 0.0326363667845726,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I had a shot that felt like fucking snake venom that I had to take weekly"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0326363667845726
+      }
+    },
+    {
+      "tag": "knuckle",
+      "canonical": "knuckle",
+      "confidence": 0.511,
+      "score": -0.018679805099964142,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So I'm not a stranger to it, but I was a stranger to just getting hit on the knuckles"
+        },
+        {
+          "sentence_index": 21,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I've been hit on the knuckles before hurt really bad"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": -0.018679805099964142
+      }
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "video_id": "7563283786532703502",
+  "username": "maddiecfloyd",
+  "title": "TikTok video #7563283786532703502",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "subconscious",
+      "canonical": "subconscious",
+      "confidence": 0.715,
+      "score": 0.2257644385099411,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 35,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You are a belief, so your subconscious mind, everything that people tell you is so important to rewire will naturally rewire when you make new choices"
+        },
+        {
+          "sentence_index": 163,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Your subconscious is running programs from the past"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.2257644385099411
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.672,
+      "score": 0.0916687548160553,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And the most important thing to remember, to understand first, is that the ground of your entire human life is experience"
+        },
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And humans complicate life because they try to create in their mind a way to logic through a sensory world"
+        },
+        {
+          "sentence_index": 31,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You witness the program running in your life"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.0916687548160553
+      }
+    },
+    {
+      "tag": "tiktok video # 7563283786532703502 \n timestamp",
+      "canonical": "tiktok video # 7563283786532703502 \n timestamp",
+      "confidence": 0.668,
+      "score": 0.30133765935897827,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.30133765935897827
+      }
+    },
+    {
+      "tag": "mind",
+      "canonical": "mind",
+      "confidence": 0.637,
+      "score": 0.049124181270599365,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And humans complicate life because they try to create in their mind a way to logic through a sensory world"
+        },
+        {
+          "sentence_index": 35,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You are a belief, so your subconscious mind, everything that people tell you is so important to rewire will naturally rewire when you make new choices"
+        },
+        {
+          "sentence_index": 36,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When you make choices from love, rather than conditioning, when you make choices from love, rather from the program, when you make choices from love, "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.049124181270599365
+      }
+    },
+    {
+      "tag": "awareness",
+      "canonical": "awareness",
+      "confidence": 0.633,
+      "score": 0.044502660632133484,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 27,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "You are the awareness and you are the human"
+        },
+        {
+          "sentence_index": 33,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And when you bring it to your awareness, it is no longer in the background, you can look at it and then choose from a different place"
+        },
+        {
+          "sentence_index": 44,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is reflecting your innate power because you made that choice from a place of a lack of awareness"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.044502660632133484
+      }
+    },
+    {
+      "tag": "behavior",
+      "canonical": "behavior",
+      "confidence": 0.598,
+      "score": 0.08615653961896896,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 184,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Your behavior is what shows that to your brain"
+        },
+        {
+          "sentence_index": 185,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Your behavior is what proves that to your brain"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.08615653961896896
+      }
+    },
+    {
+      "tag": "emotion",
+      "canonical": "emotion",
+      "confidence": 0.587,
+      "score": 0.07209418714046478,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is not emotion"
+        },
+        {
+          "sentence_index": 140,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Through memory, through visions, through feelings, through emotional release, through processing, through letting go of the past"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.07209418714046478
+      }
+    },
+    {
+      "tag": "signal",
+      "canonical": "signal",
+      "confidence": 0.565,
+      "score": 0.04577811807394028,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 57,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So when something feels bad for you, all that is is a signal"
+        },
+        {
+          "sentence_index": 58,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is a very clear loud signal that your actual experience is going to be so much better when you let go of the thing that feels bad"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.04577811807394028
+      }
+    },
+    {
+      "tag": "actual fabric",
+      "canonical": "actual fabric",
+      "confidence": 0.552,
+      "score": 0.07948119193315506,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 23,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The actual structure, the actual fabric of reality itself is not logical"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.07948119193315506
+      }
+    },
+    {
+      "tag": "sensory world",
+      "canonical": "sensory world",
+      "confidence": 0.54,
+      "score": 0.06476004421710968,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And humans complicate life because they try to create in their mind a way to logic through a sensory world"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06476004421710968
+      }
+    }
+  ]
+}

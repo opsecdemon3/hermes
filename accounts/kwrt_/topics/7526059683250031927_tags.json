@@ -1,0 +1,57 @@
+{
+  "video_id": "7526059683250031927",
+  "title": "Replying to @Maldoror ",
+  "tags": [
+    {
+      "tag": "light",
+      "score": 0.1789,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "video",
+      "score": 0.1824,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "watch",
+      "score": 0.2217,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "dead",
+      "score": 0.2332,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "light night",
+      "score": 0.3531,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "despised",
+      "score": 0.3794,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "fucking despised",
+      "score": 0.4327,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "fucking despised dead",
+      "score": 0.5528,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "rage light night",
+      "score": 0.5904,
+      "type": "keyphrase"
+    },
+    {
+      "tag": "watch video rage",
+      "score": 0.616,
+      "type": "keyphrase"
+    }
+  ],
+  "extracted_at": "2025-10-23T13:15:29.184484"
+}

@@ -1,0 +1,212 @@
+{
+  "video_id": "7521656942910065933",
+  "username": "kwrt_",
+  "title": "#meditation #motivation #inspiration #daily ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "meditation",
+      "canonical": "meditation",
+      "confidence": 0.812,
+      "score": 0.3421238660812378,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7521656942910065933\nTitle: #meditation #motivation #inspiration #daily \nTimestamp: 2025-10-23T13:13:42"
+        },
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Meditation isn't about some state that you have to"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.3421238660812378
+      }
+    },
+    {
+      "tag": "dry throat",
+      "canonical": "dry throat",
+      "confidence": 0.622,
+      "score": 0.16330666840076447,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So I was just like in an AD degree apartment with a dry throat and I also was busy from like 10 a"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.16330666840076447
+      }
+    },
+    {
+      "tag": "breath",
+      "canonical": "breath",
+      "confidence": 0.588,
+      "score": 0.12271060794591904,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Every time you can always find your breath, you can always bring it back"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.12271060794591904
+      }
+    },
+    {
+      "tag": "ac",
+      "canonical": "ac",
+      "confidence": 0.54,
+      "score": -0.01871231198310852,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "688838\n==================================================\n\nI did not want to do this in any capacity"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "On top of just having a really long day, I forgot to turn on my AC and drink water before I started"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Every time you can always find your breath, you can always bring it back"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": -0.01871231198310852
+      }
+    },
+    {
+      "tag": "meditation # motivation # inspiration",
+      "canonical": "meditation # motivation # inspiration",
+      "confidence": 0.536,
+      "score": 0.14359232783317566,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.14359232783317566
+      }
+    },
+    {
+      "tag": "10 a.m.",
+      "canonical": "10 a.m.",
+      "confidence": 0.536,
+      "score": 0.1427685022354126,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.1427685022354126
+      }
+    },
+    {
+      "tag": "ad degree apartment",
+      "canonical": "ad degree apartment",
+      "confidence": 0.504,
+      "score": 0.021884825080633163,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So I was just like in an AD degree apartment with a dry throat and I also was busy from like 10 a"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.021884825080633163
+      }
+    },
+    {
+      "tag": "long day",
+      "canonical": "long day",
+      "confidence": 0.496,
+      "score": 0.012435860931873322,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "On top of just having a really long day, I forgot to turn on my AC and drink water before I started"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.012435860931873322
+      }
+    },
+    {
+      "tag": "water",
+      "canonical": "water",
+      "confidence": 0.478,
+      "score": -0.009543538093566895,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "On top of just having a really long day, I forgot to turn on my AC and drink water before I started"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": -0.009543538093566895
+      }
+    },
+    {
+      "tag": "path",
+      "canonical": "path",
+      "confidence": 0.458,
+      "score": -0.0330130010843277,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's about walking the path wherever you are on it"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": -0.0330130010843277
+      }
+    }
+  ]
+}

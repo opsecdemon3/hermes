@@ -1,0 +1,44 @@
+{
+  "account": "lexfridman",
+  "created_at": "2025-10-22T19:16:37.023203",
+  "last_updated": "2025-10-22T19:17:17.560200",
+  "processed_videos": {
+    "7556328586714664223": {
+      "video_id": "7556328586714664223",
+      "title": "How to hire great programmers - clip from Lex Fridman Podcast #482 wi...",
+      "processed_at": "2025-10-22T19:16:51.833676",
+      "success": true,
+      "transcript_file": "7556328586714664223_transcript.txt",
+      "transcription_length": 2912,
+      "duration": 249,
+      "url": "https://www.tiktok.com/@lexfridman/video/7556328586714664223"
+    },
+    "7556328598928461087": {
+      "video_id": "7556328598928461087",
+      "title": "A-players vs B-players: Firing B-players increases productivity - cli...",
+      "processed_at": "2025-10-22T19:17:09.017430",
+      "success": true,
+      "transcript_file": "7556328598928461087_transcript.txt",
+      "transcription_length": 3897,
+      "duration": 299,
+      "url": "https://www.tiktok.com/@lexfridman/video/7556328598928461087"
+    },
+    "7556328594713234718": {
+      "video_id": "7556328594713234718",
+      "title": "Pavel Durov on meeting Mark Zuckerberg - clip from Lex Fridman Podcas...",
+      "processed_at": "2025-10-22T19:17:17.559928",
+      "success": true,
+      "transcript_file": "7556328594713234718_transcript.txt",
+      "transcription_length": 1973,
+      "duration": 164,
+      "url": "https://www.tiktok.com/@lexfridman/video/7556328594713234718"
+    }
+  },
+  "stats": {
+    "total_videos_found": 3,
+    "total_processed": 3,
+    "total_skipped": 0,
+    "total_failed": 0,
+    "last_ingestion_date": "2025-10-22T19:17:17.560196"
+  }
+}

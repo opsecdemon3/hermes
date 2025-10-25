@@ -1,0 +1,261 @@
+{
+  "video_id": "7533342350630718733",
+  "username": "kwrt_",
+  "title": "#masculinity #debate #philosophy #logic ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "masculinity # debate # philosophy # logic \n timestamp",
+      "canonical": "masculinity # debate # philosophy # logic \n timestamp",
+      "confidence": 0.736,
+      "score": 0.383297324180603,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.383297324180603
+      }
+    },
+    {
+      "tag": "define masculinity",
+      "canonical": "define masculinity",
+      "confidence": 0.705,
+      "score": 0.17926761507987976,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We don't need to redefine masculinity as femininity, as this, as that, to the point where it's literally  fucking unrecognizable to the opposing party"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We can just say, why do you believe in masculinity?  Define masculinity"
+        },
+        {
+          "sentence_index": 12,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "There's just this dissonance and you just look like you're coping because they  think, oh, he's existing in my same worldview, except he clearly does "
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.17926761507987976
+      }
+    },
+    {
+      "tag": "masculinity",
+      "canonical": "masculinity",
+      "confidence": 0.64,
+      "score": 0.053314030170440674,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7533342350630718733\nTitle: #masculinity #debate #philosophy #logic \nTimestamp: 2025-10-22T17:49:55"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like when we're talking about masculinity, why are we giving up this critical point  or idea that masculinity is a real thing that needs to be maximiz"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We don't need to redefine masculinity as femininity, as this, as that, to the point where it's literally  fucking unrecognizable to the opposing party"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.053314030170440674
+      }
+    },
+    {
+      "tag": "conversation",
+      "canonical": "conversation",
+      "confidence": 0.598,
+      "score": 0.051122426986694336,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Make an argument for the thing that instead of meeting them where they are, because  what you end up doing is, it's like a lizard tail, right?  Lizard"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This kind of compromise only brings the conversation closer to the fascist, the ignorant, the racist,  whatever"
+        },
+        {
+          "sentence_index": 16,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Conversations go from being these critical, well thought out conversations with a  clearly stronger point and a clearly weaker point to these points t"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.051122426986694336
+      }
+    },
+    {
+      "tag": "misogynist",
+      "canonical": "misogynist",
+      "confidence": 0.595,
+      "score": 0.131201833486557,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When we're talking about a subject and you're addressing somebody who is ignorant, who is  misogynist, who is racist, who is narrow-sighted and closed"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.131201833486557
+      }
+    },
+    {
+      "tag": "appeal decay",
+      "canonical": "appeal decay",
+      "confidence": 0.588,
+      "score": 0.03948669135570526,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "832352\n==================================================\n\nThere's this thing that I feel like everybody subconsciously engages with and they don't re"
+        },
+        {
+          "sentence_index": 15,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And so there's this appeal decay"
+        },
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Like, that is the epitome of appeal decay"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.03948669135570526
+      }
+    },
+    {
+      "tag": "racist",
+      "canonical": "racist",
+      "confidence": 0.576,
+      "score": 0.05914018303155899,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When we're talking about a subject and you're addressing somebody who is ignorant, who is  misogynist, who is racist, who is narrow-sighted and closed"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This kind of compromise only brings the conversation closer to the fascist, the ignorant, the racist,  whatever"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.05914018303155899
+      }
+    },
+    {
+      "tag": "compromise",
+      "canonical": "compromise",
+      "confidence": 0.565,
+      "score": 0.04630474001169205,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "When we're talking about a subject and you're addressing somebody who is ignorant, who is  misogynist, who is racist, who is narrow-sighted and closed"
+        },
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This kind of compromise only brings the conversation closer to the fascist, the ignorant, the racist,  whatever"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.04630474001169205
+      }
+    },
+    {
+      "tag": "fucking critical point",
+      "canonical": "fucking critical point",
+      "confidence": 0.564,
+      "score": 0.09359408169984818,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 19,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "People so deep into handing out fucking critical points that they literally cannot tell the  difference between one side and the other"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09359408169984818
+      }
+    },
+    {
+      "tag": "argument",
+      "canonical": "argument",
+      "confidence": 0.553,
+      "score": 0.08037975430488586,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 6,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Make an argument for the thing that instead of meeting them where they are, because  what you end up doing is, it's like a lizard tail, right?  Lizard"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08037975430488586
+      }
+    }
+  ]
+}

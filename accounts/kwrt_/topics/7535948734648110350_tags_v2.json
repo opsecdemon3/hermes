@@ -1,0 +1,243 @@
+{
+  "video_id": "7535948734648110350",
+  "username": "kwrt_",
+  "title": "Replying to @ianisfun #spirituality #ego #source #soul #identity ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "ego",
+      "canonical": "ego",
+      "confidence": 0.894,
+      "score": 0.35773351788520813,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7535948734648110350\nTitle: Replying to @ianisfun #spirituality #ego #source #soul #identity \nTimestamp: 2025-10-22T17:47:20"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "334836\n==================================================\n\nI'd love to clarify this so Ian says what is the difference between ego as identity and ego"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is the the walls of of your essence the walls that keep  These things contained  That don't allow you to feel this infinite  Interrelationship with"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": 0.35773351788520813
+      }
+    },
+    {
+      "tag": "spiritual pursuit",
+      "canonical": "spiritual pursuit",
+      "confidence": 0.63,
+      "score": 0.17260167002677917,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "334836\n==================================================\n\nI'd love to clarify this so Ian says what is the difference between ego as identity and ego"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.17260167002677917
+      }
+    },
+    {
+      "tag": "identity",
+      "canonical": "identity",
+      "confidence": 0.626,
+      "score": 0.1192488819360733,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7535948734648110350\nTitle: Replying to @ianisfun #spirituality #ego #source #soul #identity \nTimestamp: 2025-10-22T17:47:20"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "334836\n==================================================\n\nI'd love to clarify this so Ian says what is the difference between ego as identity and ego"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.1192488819360733
+      }
+    },
+    {
+      "tag": "soul",
+      "canonical": "soul",
+      "confidence": 0.625,
+      "score": 0.11838281154632568,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7535948734648110350\nTitle: Replying to @ianisfun #spirituality #ego #source #soul #identity \nTimestamp: 2025-10-22T17:47:20"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So the ego is precisely this other ring  conforming  confining factor  It is nothing to do with the essential essence of you as with your spirit or yo"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.11838281154632568
+      }
+    },
+    {
+      "tag": "understanding",
+      "canonical": "understanding",
+      "confidence": 0.622,
+      "score": 0.11448322981595993,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "334836\n==================================================\n\nI'd love to clarify this so Ian says what is the difference between ego as identity and ego"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It is the the walls of of your essence the walls that keep  These things contained  That don't allow you to feel this infinite  Interrelationship with"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.11448322981595993
+      }
+    },
+    {
+      "tag": "essential essence",
+      "canonical": "essential essence",
+      "confidence": 0.609,
+      "score": 0.14814996719360352,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So the ego is precisely this other ring  conforming  confining factor  It is nothing to do with the essential essence of you as with your spirit or yo"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.14814996719360352
+      }
+    },
+    {
+      "tag": "@ianisfun # spirituality # ego # source # soul",
+      "canonical": "@ianisfun # spirituality # ego # source # soul",
+      "confidence": 0.596,
+      "score": 0.21532972157001495,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.21532972157001495
+      }
+    },
+    {
+      "tag": "universe",
+      "canonical": "universe",
+      "confidence": 0.588,
+      "score": 0.07355652004480362,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "334836\n==================================================\n\nI'd love to clarify this so Ian says what is the difference between ego as identity and ego"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "So the ego is precisely this other ring  conforming  confining factor  It is nothing to do with the essential essence of you as with your spirit or yo"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.07355652004480362
+      }
+    },
+    {
+      "tag": "ian",
+      "canonical": "ian",
+      "confidence": 0.57,
+      "score": 0.052595511078834534,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7535948734648110350\nTitle: Replying to @ianisfun #spirituality #ego #source #soul #identity \nTimestamp: 2025-10-22T17:47:20"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "334836\n==================================================\n\nI'd love to clarify this so Ian says what is the difference between ego as identity and ego"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.052595511078834534
+      }
+    },
+    {
+      "tag": "  intellectual answer",
+      "canonical": "intellectual answer",
+      "confidence": 0.561,
+      "score": 0.09036121517419815,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "334836\n==================================================\n\nI'd love to clarify this so Ian says what is the difference between ego as identity and ego"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09036121517419815
+      }
+    }
+  ]
+}

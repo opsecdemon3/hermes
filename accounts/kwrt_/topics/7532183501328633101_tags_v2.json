@@ -1,0 +1,244 @@
+{
+  "video_id": "7532183501328633101",
+  "username": "kwrt_",
+  "title": "#advice #reading #philosophy #media #ideas ",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "information",
+      "canonical": "information",
+      "confidence": 0.828,
+      "score": 0.3002389371395111,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "030721\n==================================================\n\nThe problem is not information"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The problem is that you don't do anything with all the information you already have"
+        },
+        {
+          "sentence_index": 8,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "The problem is not information"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.3002389371395111
+      }
+    },
+    {
+      "tag": "philosophy",
+      "canonical": "philosophy",
+      "confidence": 0.611,
+      "score": 0.1498120129108429,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532183501328633101\nTitle: #advice #reading #philosophy #media #ideas \nTimestamp: 2025-10-22T17:55:14"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.1498120129108429
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.598,
+      "score": 0.08632870763540268,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Life is a universal thing"
+        },
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "No matter how deeply this life can speak to you in terms of external objects it is  ultimately up to you what you intake what you get away from it wha"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.08632870763540268
+      }
+    },
+    {
+      "tag": "attention",
+      "canonical": "attention",
+      "confidence": 0.582,
+      "score": 0.11538092792034149,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 9,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "It's how much you're actually paying attention"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.11538092792034149
+      }
+    },
+    {
+      "tag": "fractal",
+      "canonical": "fractal",
+      "confidence": 0.575,
+      "score": 0.10722890496253967,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "We're in a fractal"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.10722890496253967
+      }
+    },
+    {
+      "tag": "time",
+      "canonical": "time",
+      "confidence": 0.567,
+      "score": 0.0136689692735672,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7532183501328633101\nTitle: #advice #reading #philosophy #media #ideas \nTimestamp: 2025-10-22T17:55:14"
+        },
+        {
+          "sentence_index": 11,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "This is why often times when we describe enlightenment or becoming more conscious we say we're remembering  things"
+        },
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I hope you guys remember things you already know because to somebody who hasn't experienced  the things that I have watching my videos probably sounds"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 3,
+        "mmr_score": 0.0136689692735672
+      }
+    },
+    {
+      "tag": "world view",
+      "canonical": "world view",
+      "confidence": 0.545,
+      "score": 0.0712319016456604,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That filters your identity it's your sense of self it's your world view it's your emotional  attachments this is why meditation provides clarity becau"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.0712319016456604
+      }
+    },
+    {
+      "tag": "meditation",
+      "canonical": "meditation",
+      "confidence": 0.538,
+      "score": 0.06250961124897003,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That filters your identity it's your sense of self it's your world view it's your emotional  attachments this is why meditation provides clarity becau"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.06250961124897003
+      }
+    },
+    {
+      "tag": "mind",
+      "canonical": "mind",
+      "confidence": 0.535,
+      "score": 0.009769365191459656,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 14,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I'm reminding people of their experience"
+        },
+        {
+          "sentence_index": 17,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "No matter how deeply this life can speak to you in terms of external objects it is  ultimately up to you what you intake what you get away from it wha"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.009769365191459656
+      }
+    },
+    {
+      "tag": "clarity",
+      "canonical": "clarity",
+      "confidence": 0.534,
+      "score": 0.05739932507276535,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "That filters your identity it's your sense of self it's your world view it's your emotional  attachments this is why meditation provides clarity becau"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.05739932507276535
+      }
+    }
+  ]
+}

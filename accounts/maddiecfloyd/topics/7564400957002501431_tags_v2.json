@@ -1,0 +1,267 @@
+{
+  "video_id": "7564400957002501431",
+  "username": "maddiecfloyd",
+  "title": "TikTok video #7564400957002501431",
+  "total_topics": 10,
+  "topics": [
+    {
+      "tag": "feeling",
+      "canonical": "feeling",
+      "confidence": 0.737,
+      "score": 0.19147470593452454,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "868176\n==================================================\n\nOkay, I want to make this video really quick because I am feeling happy and just, like, I g"
+        },
+        {
+          "sentence_index": 4,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And now I'm feeling like, okay, I'm ready for people"
+        },
+        {
+          "sentence_index": 25,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I know there are other people that are deeply feeling, that have their hearts open,  that are creative, that are passionate, that just want to connect"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.19147470593452454
+      }
+    },
+    {
+      "tag": "tiktok video # 7564400957002501431 \n timestamp",
+      "canonical": "tiktok video # 7564400957002501431 \n timestamp",
+      "confidence": 0.728,
+      "score": 0.3733583390712738,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [],
+      "stats": {
+        "distinct_sentences": 0,
+        "mmr_score": 0.3733583390712738
+      }
+    },
+    {
+      "tag": "life",
+      "canonical": "life",
+      "confidence": 0.595,
+      "score": -0.0015046298503875732,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 1,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "868176\n==================================================\n\nOkay, I want to make this video really quick because I am feeling happy and just, like, I g"
+        },
+        {
+          "sentence_index": 5,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I want  people in my life that see me and get me"
+        },
+        {
+          "sentence_index": 13,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But if the people in your own life are so caught up in who they think they need  to be, it's really hard to connect with them"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 5,
+        "mmr_score": -0.0015046298503875732
+      }
+    },
+    {
+      "tag": "heart",
+      "canonical": "heart",
+      "confidence": 0.593,
+      "score": 0.017922058701515198,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But I wanted to share this today because somebody left a comment on one of my  videos, and it really made me, like, want to cry, because I had been as"
+        },
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But I come on here and share it from my heart  and channel things in the way I meant to, because I love it and it gives me energy"
+        },
+        {
+          "sentence_index": 25,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I know there are other people that are deeply feeling, that have their hearts open,  that are creative, that are passionate, that just want to connect"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.017922058701515198
+      }
+    },
+    {
+      "tag": "comment",
+      "canonical": "comment",
+      "confidence": 0.59,
+      "score": 0.015168353915214539,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 3,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But I wanted to share this today because somebody left a comment on one of my  videos, and it really made me, like, want to cry, because I had been as"
+        },
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And this comment said  something along the lines of, like, oh, your friends must be so lucky they get to have conversations  I have not had a real con"
+        },
+        {
+          "sentence_index": 28,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Anyway, that comment made me emotional"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 4,
+        "mmr_score": 0.015168353915214539
+      }
+    },
+    {
+      "tag": "deep conversation",
+      "canonical": "deep conversation",
+      "confidence": 0.585,
+      "score": 0.07048875838518143,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 7,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And this comment said  something along the lines of, like, oh, your friends must be so lucky they get to have conversations  I have not had a real con"
+        },
+        {
+          "sentence_index": 29,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And I think it's because there was a time when other people around me kind of wear more on my  wavelength and so, and before I had processed and dealt"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.07048875838518143
+      }
+    },
+    {
+      "tag": "real life",
+      "canonical": "real life",
+      "confidence": 0.564,
+      "score": 0.09314402937889099,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 18,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And so it's this balance of, like, or this question really for me of, like,  how, why am I this way? Like, why did I get made this way and put here in"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.09314402937889099
+      }
+    },
+    {
+      "tag": "# transcription",
+      "canonical": "# transcription",
+      "confidence": 0.558,
+      "score": 0.08667881041765213,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 0,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "# Transcription for Video 7564400957002501431\nTitle: TikTok video #7564400957002501431\nTimestamp: 2025-10-23T16:53:09"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 1,
+        "mmr_score": 0.08667881041765213
+      }
+    },
+    {
+      "tag": "person",
+      "canonical": "person",
+      "confidence": 0.555,
+      "score": 0.03374917060136795,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 34,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "And so, just to the person that left that comment, thank you"
+        },
+        {
+          "sentence_index": 46,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "Even if it just makes one person feel  less alone, I've done my job"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.03374917060136795
+      }
+    },
+    {
+      "tag": "channel thing",
+      "canonical": "channel thing",
+      "confidence": 0.552,
+      "score": 0.030700840055942535,
+      "type": "keyphrase",
+      "source": "transcript",
+      "evidence": [
+        {
+          "sentence_index": 20,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "But I come on here and share it from my heart  and channel things in the way I meant to, because I love it and it gives me energy"
+        },
+        {
+          "sentence_index": 38,
+          "start": 0.0,
+          "end": 0.0,
+          "text": "I just, I like to share and be authentic here,  especially since when you share things, when you channel things, when you  tap into the eternal part o"
+        }
+      ],
+      "stats": {
+        "distinct_sentences": 2,
+        "mmr_score": 0.030700840055942535
+      }
+    }
+  ]
+}
