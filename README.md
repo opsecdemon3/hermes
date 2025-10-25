@@ -399,6 +399,83 @@ Contributions welcome! Areas for improvement:
 
 MIT License - See LICENSE file for details
 
+---
+
+## 🌟 Hermes Phase 0
+
+**NEW:** Hermes is an AI-powered content strategy planner built on top of TikTalk's foundation.
+
+### What is Hermes?
+
+Hermes analyzes top-performing creators and generates personalized content plans tailored to your goals (Growth, Leads, or Sales).
+
+### Quick Start
+
+**Backend:**
+```bash
+# Hermes is enabled by default
+export HERMES_ENABLED=true
+python api_server.py
+
+# Access health check
+curl http://localhost:8000/api/hermes/health
+```
+
+**Frontend:**
+```bash
+cd synapse-ai-learning-main:frontend
+
+# Enable Hermes UI (default)
+export VITE_HERMES_ENABLED=true
+npm run dev
+
+# Visit http://localhost:5173/hermes
+```
+
+### Feature Flags
+
+- **`HERMES_ENABLED`** (backend) - Enable/disable Hermes API routes (default: `true`)
+- **`VITE_HERMES_ENABLED`** (frontend) - Show/hide Hermes UI (default: `true`)
+- **`VITE_LABS_ENABLED`** (frontend) - Show/hide experimental Labs section (default: `false`)
+
+### Routes
+
+- `/hermes` - Landing page with product overview
+- `/hermes/analyze` - Submit plan generation request
+- `/hermes/plan/:id` - View plan status and results
+- `/labs/dashboard` - Experimental features (when enabled)
+
+### API Endpoints
+
+- `GET /api/hermes/health` - Health check (no auth)
+- `POST /api/hermes/plan` - Submit plan request (requires auth)
+- `GET /api/hermes/plans/{id}` - Get plan status (requires auth)
+- `POST /api/hermes/insight` - Generate content insight (requires auth)
+
+### Testing
+
+```bash
+# Backend tests
+pytest tests/test_hermes_phase0.py -v
+pytest tests/test_worker_hermes_phase0.py -v
+
+# Frontend tests (requires Cypress)
+cd synapse-ai-learning-main:frontend
+npx cypress run --spec cypress/e2e/hermes-phase0.cy.ts
+```
+
+### Documentation
+
+See [SAAS_PHASE_0_HERMES_SURFACE.md](SAAS_PHASE_0_HERMES_SURFACE.md) for complete Phase 0 documentation, including:
+- Architecture decisions
+- Full API contracts
+- Test coverage report
+- Next steps for Phase 1
+
+**Phase 0 Status:** ✅ Surface layer complete (all stubs, no business logic)
+
+---
+
 ## ⚠️ Disclaimer
 
 This tool is for educational and research purposes. Please:
